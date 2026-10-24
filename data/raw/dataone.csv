@@ -1,0 +1,2027 @@
+﻿customer_id,telecom_partner,gender,age,state,city,pincode,date_of_registration,num_dependents,estimated_salary,calls_made,sms_sent,data_used,churn
+1,Reliance Jio,F,25,Karnataka,Kolkata,755597,2020/1/1,4,124962,44,45,-361,0
+2,Reliance Jio,F,55,Mizoram,Mumbai,125926,2020/1/1,2,130556,62,39,5973,0
+3,Vodafone,F,57,Arunachal Pradesh,Delhi,423976,2020/1/1,0,148828,49,24,193,1
+4,BSNL,M,46,Tamil Nadu,Kolkata,522841,2020/1/1,1,38722,80,25,9377,1
+5,BSNL,F,26,Tripura,Delhi,740247,2020/1/1,2,55098,78,15,1393,0
+6,Vodafone,M,36,Uttarakhand,Chennai,120612,2020/1/1,1,73452,91,24,8109,0
+7,BSNL,F,60,Karnataka,Delhi,609616,2020/1/1,1,110035,36,13,8512,0
+8,BSNL,M,46,Arunachal Pradesh,Kolkata,866786,2020/1/1,4,104541,87,40,2245,1
+9,Reliance Jio,F,53,Himachal Pradesh,Mumbai,765257,2020/1/1,2,79439,34,12,10039,0
+10,BSNL,F,57,Rajasthan,Mumbai,506308,2020/1/1,0,126422,61,33,567,0
+11,Airtel,M,44,Uttarakhand,Chennai,776250,2020/1/1,0,133288,7,7,1275,1
+12,Airtel,M,56,Odisha,Mumbai,642121,2020/1/1,4,135129,39,51,7644,0
+13,Vodafone,F,64,Uttar Pradesh,Hyderabad,339770,2020/1/1,4,136967,40,4,1911,0
+14,Vodafone,F,70,Chhattisgarh,Kolkata,711206,2020/1/1,0,140219,50,17,7727,0
+15,Vodafone,F,38,Uttar Pradesh,Delhi,546253,2020/1/1,1,147805,86,20,8058,0
+16,BSNL,M,22,Tamil Nadu,Mumbai,437585,2020/1/1,3,100340,88,40,6303,0
+17,Vodafone,M,61,Himachal Pradesh,Hyderabad,734068,2020/1/1,2,59723,16,42,8157,1
+18,Reliance Jio,M,59,Madhya Pradesh,Hyderabad,940945,2020/1/1,1,101694,80,20,2605,0
+19,Airtel,F,47,Manipur,Delhi,630028,2020/1/1,1,138037,60,28,1432,0
+20,Vodafone,M,26,Uttar Pradesh,Hyderabad,516585,2020/1/1,1,109753,95,-1,9993,0
+21,Vodafone,F,58,Goa,Bangalore,316225,2020/1/1,1,118578,94,50,2214,0
+22,Vodafone,M,66,West Bengal,Bangalore,504153,2020/1/1,2,64468,57,10,8141,0
+23,BSNL,F,26,Arunachal Pradesh,Chennai,893238,2020/1/1,0,65263,79,0,4426,0
+24,Reliance Jio,F,71,Gujarat,Bangalore,264045,2020/1/1,1,110373,25,24,2533,0
+25,Reliance Jio,M,48,Telangana,Delhi,941207,2020/1/1,2,114923,43,8,5994,0
+26,Airtel,F,48,Mizoram,Chennai,651699,2020/1/1,0,94683,28,48,6434,1
+27,Vodafone,M,58,Himachal Pradesh,Delhi,133421,2020/1/1,3,50853,36,5,5604,0
+28,BSNL,M,20,Karnataka,Delhi,801389,2020/1/1,2,133235,99,4,5044,0
+29,Airtel,M,64,Gujarat,Kolkata,106829,2020/1/1,2,103868,20,39,8314,0
+30,Reliance Jio,M,53,Maharashtra,Kolkata,270313,2020/1/1,4,61335,4,45,7268,0
+31,Vodafone,M,29,Chhattisgarh,Kolkata,316582,2020/1/1,2,86124,65,22,7592,0
+32,Airtel,M,73,Gujarat,Chennai,832883,2020/1/1,4,61329,25,29,1479,1
+33,BSNL,F,66,Telangana,Mumbai,523021,2020/1/1,3,104227,93,6,837,0
+34,BSNL,F,31,Haryana,Bangalore,830078,2020/1/1,2,106097,89,-2,3927,0
+35,Vodafone,M,58,West Bengal,Kolkata,856084,2020/1/1,2,104291,51,8,8662,0
+36,Reliance Jio,F,62,Madhya Pradesh,Delhi,875931,2020/1/1,0,90788,46,29,4532,0
+37,BSNL,M,73,Andhra Pradesh,Bangalore,717172,2020/1/1,1,40437,77,6,4239,0
+38,BSNL,M,52,Telangana,Bangalore,947518,2020/1/1,2,69301,69,44,528,1
+39,Reliance Jio,M,69,Gujarat,Chennai,712223,2020/1/1,1,87166,92,15,-790,0
+40,BSNL,F,26,Sikkim,Mumbai,106161,2020/1/1,4,104164,62,39,8305,0
+41,Reliance Jio,M,26,Madhya Pradesh,Hyderabad,974052,2020/1/1,3,71542,16,27,1660,1
+42,Reliance Jio,M,33,Rajasthan,Mumbai,638965,2020/1/1,0,119789,102,51,8639,0
+43,Airtel,M,48,Odisha,Chennai,504372,2020/1/1,2,126147,0,24,3310,0
+44,Airtel,F,42,Gujarat,Bangalore,983359,2020/1/1,3,71532,75,16,2998,0
+45,BSNL,F,53,Assam,Kolkata,417695,2020/1/1,0,45828,87,30,4939,0
+46,Airtel,F,55,Himachal Pradesh,Hyderabad,606590,2020/1/1,2,132122,96,31,3183,0
+47,Vodafone,M,33,West Bengal,Chennai,657984,2020/1/1,4,115283,77,36,3491,0
+48,BSNL,M,52,West Bengal,Bangalore,730830,2020/1/1,0,75578,46,42,4853,0
+49,Vodafone,F,26,Mizoram,Chennai,839294,2020/1/1,0,145508,88,51,8790,0
+50,Vodafone,F,40,Sikkim,Hyderabad,522390,2020/1/1,3,102431,56,12,754,0
+51,BSNL,F,30,Tripura,Hyderabad,517218,2020/1/1,3,86402,16,27,4865,1
+52,Reliance Jio,F,35,Mizoram,Delhi,512762,2020/1/1,4,47529,51,8,7563,0
+53,Reliance Jio,M,28,Madhya Pradesh,Mumbai,688718,2020/1/1,3,87586,31,19,10131,0
+54,Vodafone,M,70,Uttar Pradesh,Chennai,937192,2020/1/1,2,104134,66,20,1477,0
+55,BSNL,F,49,Jharkhand,Chennai,462840,2020/1/1,3,25655,32,0,2756,0
+56,Reliance Jio,M,43,Telangana,Mumbai,350531,2020/1/1,3,131771,92,27,3903,0
+57,BSNL,M,30,Kerala,Hyderabad,153029,2020/1/1,2,21510,70,38,1141,0
+58,Vodafone,F,59,Arunachal Pradesh,Kolkata,515124,2020/1/1,0,54488,20,17,9285,1
+59,BSNL,F,35,Uttar Pradesh,Bangalore,826709,2020/1/1,3,73419,61,29,5040,0
+60,Reliance Jio,M,18,Chhattisgarh,Bangalore,438015,2020/1/1,0,59727,80,16,1683,0
+61,Vodafone,F,42,Karnataka,Kolkata,907782,2020/1/1,2,119872,3,17,3451,0
+62,Reliance Jio,F,71,Uttarakhand,Hyderabad,306394,2020/1/1,3,136576,14,48,5372,0
+63,BSNL,F,25,Mizoram,Hyderabad,145498,2020/1/1,1,119513,33,19,6143,0
+64,Airtel,M,40,West Bengal,Kolkata,234208,2020/1/1,1,88703,30,48,484,1
+65,Vodafone,F,44,Mizoram,Kolkata,572957,2020/1/1,1,95271,40,9,2542,0
+66,BSNL,F,47,Himachal Pradesh,Hyderabad,834880,2020/1/1,0,37927,42,31,6702,0
+67,Vodafone,F,53,Mizoram,Mumbai,422748,2020/1/1,3,138704,83,49,8023,0
+68,Vodafone,F,72,Punjab,Kolkata,646678,2020/1/1,1,124607,25,38,4867,0
+69,Airtel,M,39,Kerala,Mumbai,413226,2020/1/1,2,121809,-1,13,8728,0
+70,Reliance Jio,M,28,Kerala,Chennai,520338,2020/1/1,2,34463,36,6,-492,0
+71,BSNL,M,50,West Bengal,Delhi,250131,2020/1/1,4,83907,29,11,8198,0
+72,Vodafone,F,31,Tamil Nadu,Chennai,534099,2020/1/1,1,54302,105,15,166,0
+73,BSNL,F,43,Uttarakhand,Delhi,554046,2020/1/1,4,101224,33,44,-73,0
+74,Vodafone,F,59,Maharashtra,Mumbai,787762,2020/1/1,4,63041,45,45,4405,0
+75,Airtel,M,61,Manipur,Kolkata,982413,2020/1/1,4,98314,78,29,1369,0
+76,BSNL,M,34,Kerala,Chennai,273053,2020/1/1,0,127804,59,16,3488,0
+77,BSNL,M,44,Mizoram,Bangalore,883211,2020/1/1,1,147453,20,35,5049,0
+78,Vodafone,M,24,Assam,Kolkata,342769,2020/1/1,4,86828,57,29,7743,0
+79,Reliance Jio,M,61,Jharkhand,Chennai,491303,2020/1/1,0,43619,39,35,9625,1
+80,BSNL,F,64,Sikkim,Mumbai,295488,2020/1/1,2,113686,91,19,1682,0
+81,Vodafone,M,25,Mizoram,Bangalore,644267,2020/1/1,2,131010,27,42,8155,1
+82,Reliance Jio,M,42,Nagaland,Kolkata,567807,2020/1/1,4,135489,66,10,5821,1
+83,Vodafone,F,55,Arunachal Pradesh,Chennai,552365,2020/1/1,2,71817,3,18,3096,0
+84,Reliance Jio,F,22,Assam,Hyderabad,848983,2020/1/1,2,47235,102,-1,7785,0
+85,Reliance Jio,M,31,Goa,Bangalore,998092,2020/1/1,4,92068,70,39,10269,0
+86,Airtel,F,35,Assam,Hyderabad,209707,2020/1/1,4,72035,80,36,3496,0
+87,Vodafone,F,55,Mizoram,Mumbai,896895,2020/1/1,3,111216,56,30,3507,0
+88,Airtel,F,33,Himachal Pradesh,Kolkata,100889,2020/1/1,0,122987,78,4,-149,1
+89,BSNL,M,74,Manipur,Chennai,823520,2020/1/1,2,71227,55,0,1337,0
+90,BSNL,M,39,Uttar Pradesh,Chennai,458766,2020/1/1,3,118200,22,8,10449,0
+91,BSNL,M,28,Bihar,Bangalore,638325,2020/1/1,0,31297,36,-3,2695,0
+92,BSNL,F,22,Uttarakhand,Bangalore,760782,2020/1/1,1,118100,25,5,1467,0
+93,Reliance Jio,F,62,Maharashtra,Chennai,829044,2020/1/1,2,20720,90,29,2963,0
+94,Vodafone,F,52,Haryana,Hyderabad,298464,2020/1/1,1,100048,39,43,907,0
+95,BSNL,M,42,Uttarakhand,Hyderabad,714661,2020/1/1,2,23948,29,43,359,0
+96,Vodafone,M,62,Maharashtra,Mumbai,740775,2020/1/1,3,30472,76,36,5671,0
+97,BSNL,M,22,Uttar Pradesh,Delhi,804886,2020/1/1,3,145001,71,43,9224,0
+98,Reliance Jio,M,32,Uttar Pradesh,Kolkata,565688,2020/1/1,3,108307,14,35,1889,0
+99,Vodafone,F,40,Rajasthan,Chennai,356048,2020/1/1,1,54706,101,5,3771,0
+100,Airtel,M,59,Manipur,Hyderabad,879464,2020/1/1,2,144251,42,5,3497,1
+101,Vodafone,M,44,Meghalaya,Mumbai,863937,2020/1/1,2,113584,42,41,729,0
+102,Reliance Jio,M,68,Haryana,Hyderabad,388491,2020/1/1,0,96198,21,40,5271,0
+103,BSNL,M,31,Madhya Pradesh,Delhi,283382,2020/1/1,1,73367,69,44,4943,0
+104,Vodafone,F,61,Uttar Pradesh,Hyderabad,100027,2020/1/1,2,103051,15,22,8993,0
+105,Vodafone,M,59,Uttar Pradesh,Delhi,620044,2020/1/1,1,82246,74,12,8560,0
+106,Vodafone,M,70,Himachal Pradesh,Mumbai,837746,2020/1/1,3,28513,87,4,5021,1
+107,Vodafone,F,58,Assam,Delhi,385096,2020/1/1,2,58870,98,40,7367,0
+108,Airtel,F,30,Punjab,Delhi,736732,2020/1/1,1,93546,13,26,-683,0
+109,Vodafone,M,27,Karnataka,Chennai,952589,2020/1/1,4,104285,52,25,1868,1
+110,BSNL,M,36,Chhattisgarh,Delhi,635762,2020/1/1,3,53001,-3,24,3695,0
+111,Airtel,F,44,Maharashtra,Bangalore,208672,2020/1/1,4,107123,38,-4,3529,0
+112,BSNL,F,24,Nagaland,Mumbai,955447,2020/1/1,4,22814,96,30,9049,0
+113,Reliance Jio,M,28,Bihar,Kolkata,150265,2020/1/1,0,54634,20,45,8572,0
+114,Vodafone,M,65,Madhya Pradesh,Bangalore,726907,2020/1/1,4,102036,75,19,5169,0
+115,Vodafone,F,60,Nagaland,Chennai,691617,2020/1/1,1,29859,25,26,3163,0
+116,BSNL,M,68,Nagaland,Hyderabad,417409,2020/1/1,1,45577,44,9,3931,0
+117,Reliance Jio,F,40,Nagaland,Chennai,197583,2020/1/1,1,85856,98,52,1781,0
+118,Reliance Jio,M,24,Chhattisgarh,Chennai,872942,2020/1/1,1,66198,78,36,4517,0
+119,Vodafone,F,72,Maharashtra,Kolkata,828452,2020/1/1,2,92886,79,23,3167,0
+120,BSNL,M,18,Andhra Pradesh,Hyderabad,528993,2020/1/1,4,96992,93,3,-478,1
+121,Vodafone,M,65,Chhattisgarh,Delhi,762562,2020/1/1,0,55114,65,33,214,0
+122,Reliance Jio,M,23,Arunachal Pradesh,Mumbai,778646,2020/1/1,2,149464,73,22,5723,0
+123,Vodafone,M,55,Kerala,Bangalore,265519,2020/1/1,3,126483,32,28,6919,0
+124,Vodafone,F,64,Odisha,Mumbai,110486,2020/1/1,4,32570,53,25,6534,0
+125,Vodafone,M,35,Manipur,Mumbai,804740,2020/1/1,3,35375,77,7,4195,0
+126,Airtel,M,39,Mizoram,Kolkata,954531,2020/1/1,3,33619,25,52,3001,0
+127,Reliance Jio,M,62,Punjab,Mumbai,788597,2020/1/1,3,56168,90,18,5658,0
+128,BSNL,F,35,Uttar Pradesh,Hyderabad,152172,2020/1/1,0,22346,95,18,3927,0
+129,Airtel,M,22,Andhra Pradesh,Mumbai,365201,2020/1/1,0,132796,68,23,2644,0
+130,Vodafone,M,34,Haryana,Hyderabad,924432,2020/1/1,0,132240,57,42,7082,0
+131,BSNL,F,53,Karnataka,Mumbai,892454,2020/1/1,1,107295,8,17,10401,0
+132,Vodafone,M,35,Haryana,Mumbai,864506,2020/1/1,4,91207,43,31,7942,0
+133,BSNL,M,53,Madhya Pradesh,Kolkata,158608,2020/1/1,3,93214,83,23,4015,0
+134,Reliance Jio,M,37,Odisha,Bangalore,739980,2020/1/1,3,64145,10,26,-173,0
+135,Airtel,F,63,Manipur,Kolkata,382481,2020/1/1,4,88523,22,9,6211,0
+136,BSNL,M,65,Bihar,Mumbai,449353,2020/1/1,0,54114,37,39,2594,1
+137,BSNL,M,19,Haryana,Bangalore,156611,2020/1/1,0,21407,85,21,5561,0
+138,Reliance Jio,M,64,Himachal Pradesh,Chennai,670897,2020/1/1,3,56741,22,1,4821,1
+139,Airtel,F,66,Karnataka,Delhi,773622,2020/1/1,4,43605,81,33,6244,0
+140,Reliance Jio,M,68,Tamil Nadu,Bangalore,126830,2020/1/1,2,28548,98,33,1919,1
+141,BSNL,M,48,Bihar,Chennai,873992,2020/1/1,4,145661,25,37,4236,0
+142,Airtel,M,65,Jharkhand,Kolkata,240470,2020/1/1,4,106064,60,27,5329,0
+143,Airtel,M,58,Kerala,Bangalore,931935,2020/1/1,2,102742,25,19,7841,1
+144,Reliance Jio,M,49,Uttar Pradesh,Bangalore,759035,2020/1/1,0,145743,62,47,6075,0
+145,Airtel,F,43,Manipur,Chennai,353042,2020/1/1,2,121818,43,27,7217,0
+146,Vodafone,M,35,Tripura,Kolkata,320351,2020/1/1,2,24791,15,26,8421,0
+147,Vodafone,M,44,Himachal Pradesh,Hyderabad,843578,2020/1/1,4,59042,15,34,4801,0
+148,Reliance Jio,M,59,Uttarakhand,Kolkata,885229,2020/1/1,2,133539,30,8,2799,0
+149,BSNL,F,50,Himachal Pradesh,Kolkata,272009,2020/1/1,0,128273,29,11,711,0
+150,Reliance Jio,M,56,Telangana,Delhi,767351,2020/1/1,3,50807,41,-1,5820,0
+151,Reliance Jio,M,21,Rajasthan,Delhi,880311,2020/1/1,2,125880,56,42,3559,1
+152,Reliance Jio,M,67,Assam,Bangalore,298721,2020/1/1,3,28846,18,49,10200,0
+153,Vodafone,F,22,Sikkim,Hyderabad,690314,2020/1/1,2,42843,34,44,4217,0
+154,Airtel,M,23,Haryana,Chennai,486947,2020/1/1,0,69382,85,19,-482,0
+155,Reliance Jio,M,70,Arunachal Pradesh,Kolkata,973590,2020/1/1,0,53865,-5,42,9856,0
+156,Reliance Jio,M,23,Karnataka,Bangalore,972084,2020/1/1,4,27209,85,49,2101,0
+157,Vodafone,F,72,Meghalaya,Bangalore,466929,2020/1/1,0,62577,13,24,5525,0
+158,Airtel,F,47,Bihar,Hyderabad,654557,2020/1/1,4,126629,18,46,8353,0
+159,Reliance Jio,M,38,Karnataka,Mumbai,417276,2020/1/1,3,140257,93,40,156,1
+160,Airtel,M,72,Punjab,Mumbai,455642,2020/1/1,4,31235,55,5,312,0
+161,Airtel,M,43,Haryana,Bangalore,633285,2020/1/1,2,113024,30,50,4057,0
+162,Airtel,F,27,Goa,Mumbai,544679,2020/1/1,1,36886,89,11,168,0
+163,BSNL,F,38,Meghalaya,Mumbai,872390,2020/1/1,0,99383,91,18,8555,0
+164,Vodafone,F,68,Bihar,Delhi,850188,2020/1/1,0,113555,29,29,3274,0
+165,Vodafone,F,30,Uttarakhand,Mumbai,582663,2020/1/1,3,26351,49,5,3285,0
+166,Reliance Jio,M,39,Kerala,Chennai,873646,2020/1/1,2,128969,95,-2,2378,0
+167,Vodafone,M,27,Assam,Mumbai,340844,2020/1/1,0,39965,102,18,4990,0
+168,Vodafone,M,34,Jharkhand,Bangalore,260534,2020/1/1,2,65287,69,18,9227,0
+169,Airtel,M,55,Sikkim,Chennai,977395,2020/1/1,0,93934,85,4,5625,0
+170,Reliance Jio,M,60,Meghalaya,Bangalore,169509,2020/1/1,0,94281,62,40,4428,0
+171,BSNL,M,47,Uttarakhand,Bangalore,385903,2020/1/1,1,80198,28,-1,4942,1
+172,Reliance Jio,M,40,Odisha,Kolkata,690472,2020/1/1,2,91609,76,40,8171,0
+173,Reliance Jio,M,18,Tamil Nadu,Kolkata,719734,2020/1/1,3,100163,12,40,722,1
+174,BSNL,F,53,Punjab,Delhi,505794,2020/1/1,2,118459,60,21,9746,0
+175,Reliance Jio,M,29,Kerala,Delhi,257901,2020/1/1,4,122685,76,19,1813,0
+176,Vodafone,M,26,Himachal Pradesh,Hyderabad,605322,2020/1/1,0,47767,17,47,4537,0
+177,BSNL,M,19,Himachal Pradesh,Hyderabad,275465,2020/1/1,0,98573,80,27,1288,0
+178,Airtel,M,36,Nagaland,Mumbai,483053,2020/1/1,0,130932,57,0,3824,0
+179,Airtel,M,22,Meghalaya,Mumbai,958668,2020/1/1,1,61756,78,41,4519,0
+180,Airtel,M,46,Chhattisgarh,Mumbai,326691,2020/1/1,2,44681,0,45,3747,0
+181,Reliance Jio,F,55,Maharashtra,Mumbai,387154,2020/1/1,0,121888,-10,9,8344,0
+182,Airtel,M,34,West Bengal,Bangalore,672973,2020/1/1,2,110008,68,19,4361,0
+183,Vodafone,M,59,Maharashtra,Mumbai,190698,2020/1/1,1,113606,47,12,-297,1
+184,Reliance Jio,F,36,Telangana,Mumbai,351924,2020/1/1,4,65770,26,19,8990,0
+185,Reliance Jio,F,40,Arunachal Pradesh,Delhi,159105,2020/1/1,3,96844,51,9,896,1
+186,Reliance Jio,F,67,Himachal Pradesh,Kolkata,538585,2020/1/1,3,115361,24,10,6744,0
+187,Reliance Jio,M,51,Manipur,Bangalore,294714,2020/1/1,1,47430,49,34,566,0
+188,BSNL,M,58,Tripura,Bangalore,184050,2020/1/1,2,101004,78,32,3938,0
+189,Reliance Jio,F,48,Arunachal Pradesh,Bangalore,581869,2020/1/1,2,63598,46,36,4300,0
+190,BSNL,M,49,Gujarat,Hyderabad,617283,2020/1/1,3,96938,68,33,5265,0
+191,Reliance Jio,M,66,Kerala,Chennai,214048,2020/1/1,0,99159,-3,-1,3838,1
+192,Vodafone,M,29,Nagaland,Kolkata,697605,2020/1/1,3,57925,70,41,5774,0
+193,Airtel,M,21,Andhra Pradesh,Kolkata,448340,2020/1/1,1,89133,22,6,5990,0
+194,Airtel,M,30,Uttar Pradesh,Chennai,999230,2020/1/1,1,120001,65,11,6249,1
+195,Vodafone,M,39,Manipur,Mumbai,809089,2020/1/1,2,36810,71,11,8988,0
+196,Vodafone,M,30,Assam,Bangalore,768340,2020/1/1,1,109615,0,7,2956,0
+197,Airtel,F,73,Karnataka,Chennai,567625,2020/1/1,2,122350,49,35,6638,1
+198,Reliance Jio,F,25,Tripura,Kolkata,813063,2020/1/1,0,25329,38,9,3095,0
+199,BSNL,M,57,Mizoram,Mumbai,550072,2020/1/1,1,93731,88,32,8342,0
+200,Reliance Jio,F,48,Manipur,Kolkata,638475,2020/1/1,2,114548,27,20,1075,1
+201,Vodafone,M,67,Gujarat,Delhi,206197,2020/1/2,0,41206,22,44,8467,0
+202,Vodafone,M,70,Assam,Delhi,550433,2020/1/2,2,27518,62,16,5487,0
+203,Airtel,M,33,Goa,Bangalore,296406,2020/1/2,3,128299,83,44,5391,0
+204,Vodafone,M,59,Gujarat,Bangalore,996317,2020/1/2,3,47975,30,33,6477,0
+205,Vodafone,M,55,Himachal Pradesh,Hyderabad,334856,2020/1/2,3,42952,17,43,1848,0
+206,Reliance Jio,F,21,Arunachal Pradesh,Bangalore,437537,2020/1/2,4,45341,45,34,2067,0
+207,BSNL,F,57,Punjab,Hyderabad,672050,2020/1/2,4,87831,93,38,4264,1
+208,BSNL,F,60,Nagaland,Hyderabad,626416,2020/1/2,3,75974,68,49,2262,0
+209,Reliance Jio,M,44,Punjab,Delhi,180359,2020/1/2,4,33029,37,34,1516,0
+210,Airtel,F,36,Uttar Pradesh,Hyderabad,496898,2020/1/2,1,84307,85,29,5370,0
+211,Vodafone,M,72,Telangana,Mumbai,548744,2020/1/2,0,39983,33,12,8597,0
+212,Airtel,F,44,Punjab,Bangalore,275866,2020/1/2,3,70935,33,7,9960,0
+213,BSNL,M,42,Maharashtra,Bangalore,391456,2020/1/2,0,112535,-9,21,9798,1
+214,Reliance Jio,M,39,Bihar,Mumbai,933478,2020/1/2,1,137015,5,11,6982,1
+215,Vodafone,M,34,Andhra Pradesh,Hyderabad,553594,2020/1/2,4,51329,24,4,9512,1
+216,Airtel,M,52,Tamil Nadu,Mumbai,392462,2020/1/2,1,41115,11,43,3439,0
+217,Vodafone,F,43,Manipur,Delhi,965066,2020/1/2,0,69505,-1,12,5243,0
+218,Vodafone,F,27,Chhattisgarh,Delhi,431233,2020/1/2,0,73418,33,38,5314,0
+219,Airtel,F,43,Tripura,Chennai,279933,2020/1/2,2,61692,61,2,1335,0
+220,Vodafone,M,74,Himachal Pradesh,Chennai,758252,2020/1/2,2,125262,42,12,3329,0
+221,Vodafone,M,73,Nagaland,Hyderabad,415523,2020/1/2,3,50810,75,47,2957,0
+222,Reliance Jio,F,41,Arunachal Pradesh,Chennai,605204,2020/1/2,0,143064,19,13,4788,0
+223,Vodafone,M,28,Mizoram,Mumbai,233131,2020/1/2,2,85780,33,17,6230,0
+224,Vodafone,F,32,Karnataka,Delhi,933773,2020/1/2,3,76706,55,12,2210,0
+225,BSNL,M,42,Nagaland,Mumbai,370016,2020/1/2,3,74845,21,8,6660,0
+226,Reliance Jio,M,31,Manipur,Kolkata,376737,2020/1/2,0,78215,65,5,74,0
+227,Airtel,M,29,Haryana,Hyderabad,363618,2020/1/2,1,86004,8,43,1102,0
+228,Reliance Jio,M,42,Haryana,Bangalore,482240,2020/1/2,3,127407,10,2,6557,0
+229,Airtel,M,30,Gujarat,Hyderabad,358169,2020/1/2,0,149438,78,9,737,0
+230,BSNL,M,20,Punjab,Hyderabad,126091,2020/1/2,2,128667,82,29,1937,0
+231,Reliance Jio,M,61,Karnataka,Chennai,238058,2020/1/2,0,65026,53,32,215,0
+232,Vodafone,F,45,Arunachal Pradesh,Hyderabad,275158,2020/1/2,1,132579,71,38,6403,1
+233,Vodafone,M,58,Chhattisgarh,Bangalore,414692,2020/1/2,2,50540,73,23,2200,0
+234,Vodafone,M,32,Karnataka,Kolkata,532502,2020/1/2,1,110639,40,32,-488,0
+235,BSNL,M,56,Karnataka,Kolkata,485359,2020/1/2,3,98653,5,30,7760,1
+236,Vodafone,F,26,Odisha,Delhi,583537,2020/1/2,4,89208,2,30,2680,0
+237,Vodafone,M,32,Arunachal Pradesh,Chennai,932537,2020/1/2,0,116280,81,8,9252,0
+238,Airtel,F,35,Tamil Nadu,Kolkata,579056,2020/1/2,1,28168,103,20,10155,0
+239,Reliance Jio,M,66,Tamil Nadu,Mumbai,457276,2020/1/2,2,38426,88,25,9296,1
+240,Airtel,M,33,Uttar Pradesh,Mumbai,760751,2020/1/2,3,38322,38,29,8081,1
+241,Reliance Jio,F,69,Haryana,Delhi,270920,2020/1/2,0,33654,21,12,6522,0
+242,Reliance Jio,F,22,Uttarakhand,Kolkata,918104,2020/1/2,2,47542,51,48,-393,0
+243,Vodafone,F,33,Arunachal Pradesh,Kolkata,856931,2020/1/2,0,75395,29,46,4116,0
+244,Vodafone,F,31,Himachal Pradesh,Chennai,698625,2020/1/2,1,84898,-4,20,5952,0
+245,Vodafone,F,33,Uttarakhand,Hyderabad,125634,2020/1/2,4,40232,69,1,3798,0
+246,Reliance Jio,M,42,Telangana,Kolkata,317292,2020/1/2,3,101163,107,11,6496,0
+247,Airtel,F,31,Maharashtra,Kolkata,666591,2020/1/2,3,67608,52,39,3784,0
+248,Vodafone,M,39,Chhattisgarh,Kolkata,755020,2020/1/2,0,80822,33,46,6921,0
+249,Airtel,F,27,Rajasthan,Mumbai,458614,2020/1/2,4,103388,18,35,8840,0
+250,Airtel,M,59,Nagaland,Delhi,241435,2020/1/2,2,78218,-4,22,8154,0
+251,Reliance Jio,M,74,Tamil Nadu,Mumbai,172165,2020/1/2,2,135742,56,39,7323,0
+252,BSNL,M,62,Chhattisgarh,Hyderabad,268122,2020/1/2,1,130282,47,36,3941,1
+253,Airtel,M,63,Assam,Hyderabad,742583,2020/1/2,0,139202,5,-1,1811,0
+254,Airtel,M,31,Maharashtra,Bangalore,301810,2020/1/2,0,146742,10,14,7102,0
+255,Vodafone,F,29,Bihar,Hyderabad,981841,2020/1/2,3,114515,75,21,5707,0
+256,Vodafone,M,29,Maharashtra,Kolkata,162519,2020/1/2,4,147761,20,27,2202,0
+257,BSNL,M,21,Gujarat,Mumbai,554079,2020/1/2,4,40854,8,28,1326,0
+258,Reliance Jio,F,44,Bihar,Chennai,595196,2020/1/2,2,121363,22,11,4357,0
+259,Airtel,M,45,Chhattisgarh,Mumbai,731397,2020/1/2,0,73602,87,46,396,0
+260,Airtel,F,33,Kerala,Bangalore,827526,2020/1/2,0,119465,72,41,4484,0
+261,BSNL,M,32,Jharkhand,Hyderabad,909182,2020/1/2,2,26934,105,20,3976,0
+262,Vodafone,M,59,Andhra Pradesh,Delhi,679237,2020/1/2,1,28888,37,22,4306,0
+263,Reliance Jio,F,70,Bihar,Delhi,393485,2020/1/2,2,31889,19,12,897,0
+264,Airtel,M,35,Punjab,Mumbai,806688,2020/1/2,0,142177,59,22,7049,0
+265,BSNL,M,63,Arunachal Pradesh,Chennai,449434,2020/1/2,2,94172,15,36,6709,0
+266,Airtel,M,25,Bihar,Delhi,500993,2020/1/2,0,39224,97,44,7861,1
+267,Vodafone,M,73,Nagaland,Bangalore,601397,2020/1/2,2,137334,38,14,967,1
+268,Reliance Jio,M,69,Odisha,Bangalore,414830,2020/1/2,2,105856,64,24,1334,0
+269,BSNL,F,73,Punjab,Bangalore,971233,2020/1/2,4,65791,61,28,4907,0
+270,Reliance Jio,F,71,Bihar,Bangalore,370304,2020/1/2,0,58985,83,8,5596,1
+271,Reliance Jio,F,36,Haryana,Hyderabad,792670,2020/1/2,3,112741,53,24,3480,0
+272,Vodafone,F,18,Madhya Pradesh,Mumbai,423145,2020/1/2,4,127991,6,42,1171,1
+273,Airtel,F,60,Chhattisgarh,Bangalore,246556,2020/1/2,2,104425,36,35,8129,0
+274,Vodafone,M,60,Haryana,Delhi,775862,2020/1/2,0,134937,30,26,2296,0
+275,Airtel,F,63,Mizoram,Hyderabad,970963,2020/1/2,4,149325,106,5,7993,1
+276,Airtel,M,37,Bihar,Bangalore,978459,2020/1/2,3,129980,19,8,6013,0
+277,Reliance Jio,M,63,Jharkhand,Mumbai,145183,2020/1/2,4,112865,67,14,3488,0
+278,BSNL,M,74,Bihar,Kolkata,822349,2020/1/2,3,101394,89,33,3106,1
+279,Vodafone,M,24,Assam,Hyderabad,563153,2020/1/2,4,147010,78,41,1352,0
+280,Airtel,F,73,Andhra Pradesh,Chennai,439795,2020/1/2,0,47621,99,15,844,0
+281,Airtel,F,55,Gujarat,Kolkata,804590,2020/1/2,4,84239,43,3,976,0
+282,Reliance Jio,F,72,Nagaland,Delhi,990356,2020/1/2,2,22514,28,28,10385,0
+283,Reliance Jio,F,33,Telangana,Bangalore,428664,2020/1/2,1,43005,-1,-4,1595,0
+284,Airtel,M,57,Nagaland,Mumbai,419359,2020/1/2,4,118360,54,43,3670,0
+285,BSNL,M,23,Gujarat,Mumbai,183348,2020/1/2,3,103474,4,48,2846,0
+286,Vodafone,M,19,Sikkim,Kolkata,422715,2020/1/2,0,109872,37,24,7806,0
+287,Vodafone,F,18,Jharkhand,Kolkata,220612,2020/1/2,3,80143,39,-4,-316,0
+288,BSNL,F,66,Punjab,Mumbai,247365,2020/1/2,3,50103,50,31,2679,0
+289,Vodafone,F,63,Uttarakhand,Mumbai,801611,2020/1/2,0,30879,17,21,5772,0
+290,Vodafone,M,42,Himachal Pradesh,Kolkata,962922,2020/1/2,1,127552,54,37,3315,0
+291,Reliance Jio,M,18,Mizoram,Bangalore,906833,2020/1/2,1,72410,75,6,6299,0
+292,Reliance Jio,M,20,Andhra Pradesh,Bangalore,852794,2020/1/2,1,70189,57,5,2937,0
+293,BSNL,M,44,Andhra Pradesh,Kolkata,806657,2020/1/2,4,40046,67,26,2018,0
+294,Reliance Jio,F,28,Jharkhand,Bangalore,279014,2020/1/2,4,83611,57,44,1725,1
+295,Airtel,F,62,Haryana,Bangalore,943326,2020/1/2,2,124007,65,1,2317,1
+296,BSNL,F,49,West Bengal,Delhi,924404,2020/1/2,1,121486,27,26,3744,0
+297,Airtel,F,23,Tripura,Kolkata,588222,2020/1/2,1,122360,32,9,5429,0
+298,BSNL,M,46,Goa,Delhi,176302,2020/1/2,2,131904,1,21,2991,1
+299,Vodafone,M,73,Himachal Pradesh,Delhi,776231,2020/1/2,4,84961,54,16,5320,0
+300,BSNL,M,55,Assam,Kolkata,439577,2020/1/2,1,83930,81,27,2832,0
+301,Vodafone,M,54,Andhra Pradesh,Bangalore,105199,2020/1/2,1,110342,86,11,3011,0
+302,Vodafone,F,40,Rajasthan,Bangalore,373900,2020/1/2,2,46368,35,12,1966,0
+303,Reliance Jio,M,21,Meghalaya,Bangalore,800847,2020/1/2,1,24120,99,-3,5800,0
+304,Vodafone,M,49,Punjab,Kolkata,522654,2020/1/2,0,72885,10,21,4018,0
+305,BSNL,F,46,Assam,Mumbai,588033,2020/1/2,3,125247,52,20,6976,0
+306,Vodafone,M,54,Gujarat,Bangalore,376073,2020/1/2,4,125090,77,35,4856,0
+307,BSNL,F,54,Uttar Pradesh,Mumbai,321749,2020/1/2,3,88196,42,20,4897,0
+308,Airtel,F,45,Sikkim,Kolkata,513507,2020/1/2,4,116297,43,20,4289,0
+309,Reliance Jio,M,64,Odisha,Hyderabad,150239,2020/1/2,1,54157,58,43,1520,0
+310,BSNL,M,18,Chhattisgarh,Delhi,408299,2020/1/2,0,94168,15,29,7737,0
+311,Vodafone,M,19,Assam,Chennai,625921,2020/1/2,0,30544,50,30,1477,1
+312,Reliance Jio,M,64,Uttarakhand,Bangalore,484816,2020/1/2,2,126417,76,5,3422,0
+313,Reliance Jio,M,18,Arunachal Pradesh,Hyderabad,329988,2020/1/2,0,109455,5,43,1004,0
+314,Vodafone,M,66,Goa,Delhi,467268,2020/1/2,2,84945,50,35,3104,0
+315,Vodafone,F,29,Andhra Pradesh,Delhi,235974,2020/1/2,1,20806,92,2,3461,1
+316,Reliance Jio,F,71,Andhra Pradesh,Bangalore,730980,2020/1/2,3,41732,105,30,6536,1
+317,BSNL,F,23,Gujarat,Hyderabad,538935,2020/1/2,3,111960,84,34,4752,0
+318,Airtel,M,47,Himachal Pradesh,Kolkata,534424,2020/1/2,1,65486,11,15,9928,0
+319,Airtel,M,33,Madhya Pradesh,Kolkata,926241,2020/1/2,0,133702,84,19,3928,0
+320,Vodafone,M,20,Haryana,Delhi,155614,2020/1/2,3,53713,104,10,5950,0
+321,Reliance Jio,F,26,Arunachal Pradesh,Kolkata,370260,2020/1/2,2,42786,28,1,4321,0
+322,Vodafone,M,40,Uttarakhand,Hyderabad,935405,2020/1/2,4,48102,91,49,4223,0
+323,Reliance Jio,M,49,Bihar,Mumbai,191441,2020/1/2,2,73315,13,45,3755,0
+324,Airtel,M,21,West Bengal,Mumbai,444300,2020/1/2,0,77800,15,37,2079,0
+325,Vodafone,M,51,Gujarat,Chennai,633872,2020/1/2,0,74585,50,26,7700,0
+326,Reliance Jio,F,73,Telangana,Kolkata,676103,2020/1/2,0,56032,28,44,7653,0
+327,Airtel,M,69,Tamil Nadu,Chennai,337217,2020/1/2,2,84544,14,28,9884,0
+328,Reliance Jio,M,47,Manipur,Delhi,676461,2020/1/2,0,42454,58,8,8520,0
+329,Reliance Jio,F,33,Tripura,Bangalore,788869,2020/1/2,3,142201,32,43,8262,0
+330,Airtel,F,44,Gujarat,Mumbai,465349,2020/1/2,4,83967,44,43,2533,0
+331,Reliance Jio,F,66,Gujarat,Bangalore,566460,2020/1/2,0,87045,57,24,1301,0
+332,Vodafone,M,28,West Bengal,Kolkata,890268,2020/1/2,2,82306,70,46,1261,0
+333,Vodafone,M,33,Arunachal Pradesh,Delhi,112822,2020/1/2,3,52681,64,47,3293,0
+334,Airtel,M,43,Assam,Kolkata,308488,2020/1/2,1,110758,34,44,3017,1
+335,Airtel,F,73,West Bengal,Kolkata,925035,2020/1/2,3,81795,80,9,328,0
+336,Reliance Jio,F,70,Tamil Nadu,Hyderabad,591057,2020/1/2,4,42657,81,29,1563,0
+337,Reliance Jio,M,43,Tamil Nadu,Chennai,696454,2020/1/2,4,132775,49,4,3305,0
+338,BSNL,M,58,Karnataka,Chennai,722664,2020/1/2,1,74129,26,37,2654,0
+339,BSNL,M,39,Himachal Pradesh,Delhi,779893,2020/1/2,3,34432,66,11,2659,0
+340,Airtel,M,54,Tamil Nadu,Hyderabad,974920,2020/1/2,1,62846,98,15,5876,0
+341,Reliance Jio,M,24,Telangana,Chennai,479889,2020/1/2,0,136740,29,26,4601,0
+342,BSNL,F,49,Jharkhand,Kolkata,644139,2020/1/2,1,49830,9,14,1533,0
+343,Airtel,M,57,Himachal Pradesh,Delhi,212297,2020/1/2,0,117355,50,38,6185,0
+344,BSNL,F,46,Assam,Bangalore,486162,2020/1/2,0,104717,80,8,7487,0
+345,Vodafone,M,27,Telangana,Mumbai,715839,2020/1/2,1,91209,81,44,2843,0
+346,Airtel,M,38,Gujarat,Hyderabad,745481,2020/1/2,4,102092,86,43,3811,0
+347,BSNL,M,20,Tamil Nadu,Hyderabad,838969,2020/1/2,2,97864,35,7,5314,0
+348,Airtel,F,60,West Bengal,Bangalore,534225,2020/1/2,3,76335,10,35,10387,0
+349,Airtel,M,38,Jharkhand,Mumbai,805240,2020/1/2,1,50984,-6,1,2232,0
+350,Reliance Jio,M,19,Maharashtra,Kolkata,338039,2020/1/2,4,116019,89,4,2234,1
+351,BSNL,M,51,Telangana,Kolkata,660501,2020/1/2,0,73942,73,3,8482,0
+352,BSNL,M,43,Haryana,Chennai,134717,2020/1/2,4,135229,17,13,3821,0
+353,Airtel,M,38,Gujarat,Hyderabad,177754,2020/1/2,3,37512,29,35,4781,0
+354,Airtel,F,57,Telangana,Chennai,207971,2020/1/2,4,29752,75,48,4848,0
+355,Reliance Jio,M,33,Assam,Mumbai,542758,2020/1/2,4,131042,15,20,6324,0
+356,BSNL,M,25,Madhya Pradesh,Chennai,731199,2020/1/2,3,76568,16,28,5449,0
+357,Vodafone,F,31,Goa,Kolkata,142807,2020/1/2,1,93415,44,10,2612,0
+358,Vodafone,F,26,Manipur,Chennai,948953,2020/1/2,3,104369,31,32,9497,1
+359,Airtel,M,40,Madhya Pradesh,Hyderabad,507488,2020/1/2,0,112603,3,41,1269,0
+360,Vodafone,M,70,Uttar Pradesh,Mumbai,805405,2020/1/2,0,123779,69,37,3444,0
+361,Airtel,F,27,Odisha,Hyderabad,585734,2020/1/2,3,107068,71,4,8938,0
+362,Reliance Jio,M,26,Meghalaya,Mumbai,310270,2020/1/2,1,118266,40,19,4522,1
+363,Vodafone,M,60,Bihar,Mumbai,378746,2020/1/2,1,67099,24,13,5979,0
+364,BSNL,F,35,Tamil Nadu,Chennai,316031,2020/1/2,0,92677,9,28,6876,0
+365,BSNL,M,40,Assam,Chennai,654900,2020/1/2,0,103965,45,27,3814,0
+366,Airtel,M,21,Meghalaya,Chennai,901674,2020/1/2,0,102173,98,10,7145,1
+367,Airtel,M,71,Gujarat,Hyderabad,829776,2020/1/2,2,57910,88,34,6214,0
+368,Airtel,F,55,Tamil Nadu,Delhi,877214,2020/1/2,2,100210,95,47,9829,0
+369,Reliance Jio,M,33,Mizoram,Kolkata,148484,2020/1/2,2,132500,102,0,5008,0
+370,Vodafone,F,60,Assam,Bangalore,458540,2020/1/2,3,43179,89,17,5521,0
+371,Airtel,F,51,Uttarakhand,Mumbai,655304,2020/1/2,0,40940,46,2,7409,1
+372,BSNL,F,23,Nagaland,Hyderabad,196644,2020/1/2,0,137564,-1,30,7553,0
+373,Vodafone,M,31,Goa,Bangalore,493842,2020/1/2,3,132732,73,29,4584,0
+374,Airtel,F,49,Jharkhand,Mumbai,245269,2020/1/2,4,35809,85,46,5392,0
+375,Vodafone,M,18,Karnataka,Kolkata,778167,2020/1/2,4,109880,25,4,2974,0
+376,Vodafone,F,62,Himachal Pradesh,Kolkata,880523,2020/1/2,3,71276,50,17,4318,0
+377,Airtel,F,61,Andhra Pradesh,Mumbai,840552,2020/1/2,4,104056,27,17,7331,1
+378,Reliance Jio,M,45,Gujarat,Chennai,930576,2020/1/2,4,108830,69,49,5900,0
+379,BSNL,F,31,Mizoram,Delhi,274339,2020/1/2,2,48070,59,20,7556,0
+380,Vodafone,F,24,Uttar Pradesh,Mumbai,663047,2020/1/2,4,109504,-5,45,10244,0
+381,BSNL,M,29,Tamil Nadu,Delhi,102293,2020/1/2,0,128897,77,46,2351,0
+382,Vodafone,M,57,Bihar,Hyderabad,143783,2020/1/2,0,28097,1,24,6184,1
+383,Airtel,M,56,Telangana,Chennai,874288,2020/1/2,1,62086,71,5,8838,0
+384,Airtel,M,25,Kerala,Hyderabad,709759,2020/1/2,4,23184,9,14,1390,0
+385,Vodafone,F,39,Jharkhand,Hyderabad,242734,2020/1/2,1,77635,85,40,579,0
+386,Airtel,F,50,Rajasthan,Hyderabad,286573,2020/1/2,0,104420,15,-2,8251,0
+387,Reliance Jio,M,52,Arunachal Pradesh,Hyderabad,654561,2020/1/2,0,101109,35,32,650,0
+388,Vodafone,M,42,Mizoram,Bangalore,416775,2020/1/2,3,64219,44,24,8730,0
+389,Airtel,M,62,Madhya Pradesh,Chennai,895347,2020/1/2,4,129422,5,5,3657,0
+390,BSNL,M,29,Uttar Pradesh,Delhi,522997,2020/1/2,3,30115,48,12,-508,0
+391,Airtel,F,52,Haryana,Delhi,425430,2020/1/2,3,116351,74,6,3800,0
+392,BSNL,M,20,Arunachal Pradesh,Mumbai,960000,2020/1/2,2,33588,86,29,5702,0
+393,Reliance Jio,M,65,Haryana,Hyderabad,182499,2020/1/2,0,117358,64,48,5016,0
+394,BSNL,M,20,Madhya Pradesh,Delhi,290263,2020/1/2,3,54235,66,7,-140,0
+395,Vodafone,M,30,Gujarat,Chennai,948152,2020/1/2,4,149187,51,4,9104,0
+396,Airtel,M,26,Nagaland,Chennai,427409,2020/1/2,0,62316,12,38,1238,0
+397,BSNL,F,47,Uttarakhand,Kolkata,516793,2020/1/2,0,60281,92,10,4671,0
+398,Reliance Jio,M,44,Himachal Pradesh,Hyderabad,968283,2020/1/2,0,82926,47,43,3690,0
+399,Reliance Jio,F,72,Tamil Nadu,Chennai,832713,2020/1/2,1,146043,36,13,2179,0
+400,Airtel,M,67,Nagaland,Hyderabad,606649,2020/1/2,0,29790,21,42,730,1
+401,BSNL,M,73,Chhattisgarh,Bangalore,483398,2020/1/3,0,52898,89,19,4250,0
+402,Airtel,M,44,Sikkim,Bangalore,532968,2020/1/3,1,30124,61,37,2316,0
+403,Airtel,F,43,Haryana,Delhi,452102,2020/1/3,3,57211,23,6,2980,0
+404,BSNL,F,26,Bihar,Chennai,748754,2020/1/3,2,67441,40,10,8583,0
+405,Reliance Jio,M,67,Odisha,Mumbai,169583,2020/1/3,4,49392,-6,7,4692,1
+406,BSNL,F,74,West Bengal,Mumbai,825884,2020/1/3,3,131294,94,19,7892,0
+407,BSNL,M,50,Andhra Pradesh,Mumbai,408635,2020/1/3,1,27602,17,27,8031,0
+408,BSNL,M,60,Punjab,Chennai,916505,2020/1/3,1,120060,18,25,4836,0
+409,Reliance Jio,F,26,Andhra Pradesh,Chennai,837518,2020/1/3,3,45407,51,36,2185,0
+410,Vodafone,M,36,Uttar Pradesh,Bangalore,306217,2020/1/3,1,39286,71,23,1594,1
+411,Airtel,F,36,Bihar,Delhi,673521,2020/1/3,1,36370,2,5,8879,0
+412,Airtel,F,18,Manipur,Chennai,865254,2020/1/3,2,64552,32,10,8699,0
+413,BSNL,F,31,Punjab,Hyderabad,219788,2020/1/3,3,129021,70,45,550,0
+414,Vodafone,M,28,Punjab,Bangalore,207677,2020/1/3,3,72116,20,28,7987,0
+415,Airtel,M,55,Rajasthan,Bangalore,115054,2020/1/3,3,81137,-2,40,7892,0
+416,BSNL,F,28,Arunachal Pradesh,Kolkata,185579,2020/1/3,3,59589,69,9,2024,0
+417,BSNL,M,24,Meghalaya,Kolkata,614931,2020/1/3,3,122632,52,36,9297,0
+418,Vodafone,M,53,Tripura,Delhi,152858,2020/1/3,2,82155,87,45,7588,0
+419,Reliance Jio,M,65,Himachal Pradesh,Bangalore,484608,2020/1/3,0,87182,76,33,4217,0
+420,Vodafone,M,49,Tamil Nadu,Chennai,404259,2020/1/3,1,20908,53,48,555,0
+421,BSNL,M,40,Kerala,Hyderabad,744801,2020/1/3,3,96061,74,42,6074,0
+422,Reliance Jio,F,56,Nagaland,Mumbai,882611,2020/1/3,0,103335,77,20,6335,0
+423,BSNL,F,62,Gujarat,Bangalore,720965,2020/1/3,4,51444,5,37,1325,0
+424,Airtel,F,54,Andhra Pradesh,Mumbai,302465,2020/1/3,3,32362,102,8,1322,1
+425,Vodafone,M,22,Punjab,Chennai,783735,2020/1/3,3,116212,48,30,10274,0
+426,BSNL,M,58,Kerala,Chennai,409976,2020/1/3,3,96999,26,31,328,0
+427,BSNL,M,58,Manipur,Mumbai,183003,2020/1/3,0,100174,33,44,9654,0
+428,BSNL,F,61,Telangana,Mumbai,241114,2020/1/3,3,29781,6,28,4712,1
+429,Reliance Jio,M,44,Madhya Pradesh,Bangalore,362874,2020/1/3,2,44381,66,10,4855,1
+430,Vodafone,M,51,Telangana,Kolkata,141516,2020/1/3,2,148645,20,15,8995,1
+431,Airtel,M,70,Madhya Pradesh,Bangalore,806255,2020/1/3,3,44046,91,30,5356,0
+432,Airtel,M,26,Telangana,Delhi,700076,2020/1/3,1,49917,84,16,8639,0
+433,Reliance Jio,F,22,Meghalaya,Bangalore,913824,2020/1/3,3,24963,5,36,682,0
+434,Airtel,M,58,Uttar Pradesh,Mumbai,817740,2020/1/3,1,123671,58,18,4666,1
+435,Reliance Jio,F,70,Uttar Pradesh,Chennai,272575,2020/1/3,3,45037,20,5,4017,0
+436,Airtel,M,69,Maharashtra,Bangalore,396040,2020/1/3,3,81083,9,5,1772,1
+437,Reliance Jio,M,27,Mizoram,Kolkata,723341,2020/1/3,0,130020,84,13,-656,0
+438,Vodafone,M,37,Uttar Pradesh,Kolkata,866584,2020/1/3,1,112351,30,44,-424,0
+439,Vodafone,F,60,Sikkim,Bangalore,515906,2020/1/3,0,105193,6,20,938,0
+440,Vodafone,F,66,Odisha,Mumbai,975861,2020/1/3,0,103979,75,30,212,0
+441,Vodafone,M,73,Chhattisgarh,Chennai,817927,2020/1/3,2,75484,55,10,9357,0
+442,Vodafone,M,18,Sikkim,Kolkata,927058,2020/1/3,2,110074,54,15,9673,1
+443,BSNL,F,24,Assam,Kolkata,544676,2020/1/3,3,97497,57,23,4268,0
+444,Airtel,M,68,West Bengal,Kolkata,802643,2020/1/3,4,114732,81,42,4317,0
+445,Reliance Jio,M,65,Maharashtra,Mumbai,576962,2020/1/3,4,83949,63,12,6320,0
+446,Vodafone,F,41,Karnataka,Kolkata,459186,2020/1/3,1,91019,60,6,1785,0
+447,Airtel,M,65,Meghalaya,Chennai,785268,2020/1/3,4,20797,52,32,9263,0
+448,BSNL,F,35,Himachal Pradesh,Hyderabad,117812,2020/1/3,1,99181,71,16,5914,1
+449,Vodafone,F,72,Uttar Pradesh,Delhi,207241,2020/1/3,2,132130,25,29,9872,1
+450,BSNL,F,70,Uttarakhand,Bangalore,905927,2020/1/3,1,31918,56,41,7808,0
+451,BSNL,M,20,Assam,Mumbai,430272,2020/1/3,4,59533,39,24,9071,0
+452,BSNL,M,69,Jharkhand,Delhi,697005,2020/1/3,4,84930,62,49,4426,0
+453,Vodafone,F,34,Telangana,Bangalore,934731,2020/1/3,3,82873,70,13,5460,0
+454,BSNL,M,36,Karnataka,Kolkata,116274,2020/1/3,1,117088,18,8,3755,0
+455,Airtel,M,57,Tamil Nadu,Chennai,255229,2020/1/3,2,48105,58,45,8920,0
+456,BSNL,M,41,Chhattisgarh,Chennai,518181,2020/1/3,4,20038,19,7,1982,0
+457,BSNL,M,31,West Bengal,Mumbai,925911,2020/1/3,1,103809,78,14,2534,0
+458,Reliance Jio,M,25,Tamil Nadu,Bangalore,119977,2020/1/3,1,120797,18,19,4984,0
+459,Vodafone,F,71,Haryana,Chennai,621695,2020/1/3,2,122184,60,44,9649,0
+460,Airtel,M,59,Haryana,Hyderabad,101718,2020/1/3,0,48487,44,14,7117,0
+461,Vodafone,M,34,Jharkhand,Kolkata,734168,2020/1/3,3,27308,5,3,3688,0
+462,Vodafone,F,34,Nagaland,Chennai,372335,2020/1/3,3,51380,21,35,1908,0
+463,Airtel,M,53,Kerala,Hyderabad,556851,2020/1/3,2,51401,50,45,3211,0
+464,Reliance Jio,F,70,Nagaland,Kolkata,471384,2020/1/3,4,123031,44,21,7605,1
+465,Reliance Jio,M,71,Uttarakhand,Bangalore,816930,2020/1/3,2,147464,52,12,4259,0
+466,BSNL,M,25,Bihar,Delhi,259220,2020/1/3,1,149940,72,7,893,0
+467,Reliance Jio,F,55,Nagaland,Kolkata,814045,2020/1/3,4,71991,7,25,8226,0
+468,Reliance Jio,M,61,Telangana,Bangalore,606604,2020/1/3,1,103765,8,13,8503,1
+469,BSNL,M,63,Sikkim,Hyderabad,509373,2020/1/3,2,66128,17,29,2183,0
+470,BSNL,F,72,Uttar Pradesh,Bangalore,108424,2020/1/3,1,124442,44,11,7488,0
+471,Airtel,F,46,Sikkim,Kolkata,692826,2020/1/3,2,53404,93,48,2594,1
+472,BSNL,F,61,Assam,Hyderabad,366755,2020/1/3,2,31107,59,13,6324,0
+473,Vodafone,M,36,Assam,Chennai,588357,2020/1/3,0,97004,89,11,5955,0
+474,BSNL,F,23,Tripura,Delhi,816920,2020/1/3,2,71580,75,14,7537,0
+475,Airtel,M,41,Uttar Pradesh,Kolkata,178644,2020/1/3,0,66714,73,3,4083,0
+476,Airtel,F,61,Tripura,Chennai,688616,2020/1/3,2,149571,5,43,617,0
+477,Reliance Jio,M,21,Tamil Nadu,Hyderabad,974466,2020/1/3,2,144303,41,22,8709,0
+478,Airtel,M,37,Tamil Nadu,Hyderabad,515031,2020/1/3,1,25306,32,44,488,0
+479,Vodafone,F,69,Odisha,Delhi,813069,2020/1/3,2,129075,62,38,404,0
+480,Reliance Jio,F,38,Odisha,Mumbai,820815,2020/1/3,2,104093,70,19,7216,0
+481,Airtel,M,20,Haryana,Hyderabad,276120,2020/1/3,1,52519,89,27,14,0
+482,Vodafone,M,23,Nagaland,Delhi,857216,2020/1/3,2,47223,73,26,5490,0
+483,Airtel,M,72,Bihar,Hyderabad,609730,2020/1/3,0,107783,84,18,9316,0
+484,Vodafone,M,30,Tripura,Kolkata,205906,2020/1/3,3,40077,53,33,1563,1
+485,Reliance Jio,M,30,Kerala,Delhi,746111,2020/1/3,2,68434,26,36,7190,0
+486,Reliance Jio,M,18,Haryana,Bangalore,885225,2020/1/3,4,133046,67,21,1184,0
+487,BSNL,F,39,Kerala,Hyderabad,884839,2020/1/3,2,99279,38,30,6893,1
+488,Vodafone,F,63,Tamil Nadu,Chennai,849685,2020/1/3,3,101526,35,24,1610,0
+489,Airtel,F,66,Meghalaya,Hyderabad,409777,2020/1/3,4,49211,47,20,-35,0
+490,Airtel,M,21,Andhra Pradesh,Hyderabad,296625,2020/1/3,3,127871,-8,24,7947,0
+491,Airtel,F,65,Gujarat,Chennai,134858,2020/1/3,0,75699,78,22,5104,0
+492,Airtel,F,73,Haryana,Kolkata,182851,2020/1/3,4,90106,97,46,6760,0
+493,Vodafone,M,33,Tamil Nadu,Mumbai,455946,2020/1/3,1,35944,37,42,9330,1
+494,Airtel,F,67,Nagaland,Delhi,512435,2020/1/3,2,116562,23,4,4494,1
+495,Airtel,F,41,Uttarakhand,Delhi,439164,2020/1/3,1,63658,73,30,8497,0
+496,Vodafone,M,38,Mizoram,Hyderabad,378293,2020/1/3,3,132783,71,49,10229,1
+497,Vodafone,M,50,Mizoram,Kolkata,689765,2020/1/3,1,98282,51,13,3597,0
+498,Airtel,M,27,Jharkhand,Delhi,627762,2020/1/3,4,24674,23,7,8206,0
+499,BSNL,F,34,West Bengal,Kolkata,506385,2020/1/3,3,29776,60,51,4800,0
+500,Airtel,F,36,Sikkim,Delhi,238927,2020/1/3,0,147858,95,33,1601,0
+501,BSNL,F,55,Manipur,Bangalore,312255,2020/1/3,0,33928,51,12,4030,0
+502,Airtel,M,22,Jharkhand,Bangalore,925116,2020/1/3,1,84699,104,41,3258,1
+503,BSNL,M,53,Jharkhand,Delhi,731586,2020/1/3,4,63026,37,12,-307,0
+504,Vodafone,M,65,Assam,Kolkata,867100,2020/1/3,3,115456,76,28,8412,0
+505,Vodafone,M,68,Sikkim,Kolkata,814618,2020/1/3,1,102265,25,46,9077,0
+506,Airtel,M,67,Assam,Hyderabad,493626,2020/1/3,3,66892,34,13,3286,0
+507,BSNL,M,23,Kerala,Mumbai,294695,2020/1/3,0,101553,90,15,10125,0
+508,Reliance Jio,M,40,Gujarat,Mumbai,198455,2020/1/3,2,24568,27,10,2691,1
+509,BSNL,F,60,Tamil Nadu,Kolkata,584218,2020/1/3,2,31522,84,4,4482,0
+510,Vodafone,M,66,Andhra Pradesh,Kolkata,743916,2020/1/3,3,136307,92,30,2323,0
+511,BSNL,M,57,Telangana,Delhi,962339,2020/1/3,2,121325,46,43,6789,0
+512,Vodafone,F,26,Mizoram,Hyderabad,272920,2020/1/3,1,39520,86,29,9446,1
+513,BSNL,F,29,Uttar Pradesh,Delhi,227211,2020/1/3,2,120050,26,3,2691,0
+514,Reliance Jio,F,61,Telangana,Kolkata,853887,2020/1/3,4,43388,32,6,1528,0
+515,Airtel,M,73,Madhya Pradesh,Hyderabad,456752,2020/1/3,1,66301,-1,13,2154,0
+516,Airtel,M,62,Assam,Bangalore,455924,2020/1/3,1,39751,92,43,8593,0
+517,Vodafone,M,70,Jharkhand,Hyderabad,607675,2020/1/3,1,49984,27,17,2484,1
+518,Airtel,M,62,Rajasthan,Hyderabad,127791,2020/1/3,0,135719,83,-2,-767,0
+519,Reliance Jio,M,72,Jharkhand,Delhi,708646,2020/1/3,2,41911,40,35,5262,0
+520,Airtel,M,64,Goa,Bangalore,273232,2020/1/3,1,100231,11,20,4591,0
+521,Airtel,M,65,Telangana,Kolkata,183943,2020/1/3,1,144521,85,7,2500,0
+522,Airtel,M,44,West Bengal,Delhi,400990,2020/1/3,0,58917,96,43,7408,0
+523,Reliance Jio,M,29,West Bengal,Kolkata,405980,2020/1/3,3,127353,102,24,46,0
+524,BSNL,M,61,Rajasthan,Hyderabad,609588,2020/1/3,2,71266,27,3,5960,0
+525,Reliance Jio,M,67,Goa,Mumbai,355951,2020/1/3,4,38264,96,44,143,0
+526,BSNL,M,47,Nagaland,Hyderabad,603288,2020/1/3,2,110063,41,0,7613,1
+527,Reliance Jio,M,58,Uttarakhand,Hyderabad,781307,2020/1/3,0,121046,83,40,2843,0
+528,BSNL,M,55,Sikkim,Mumbai,776129,2020/1/3,4,38480,13,44,9302,0
+529,Airtel,M,21,Rajasthan,Kolkata,634049,2020/1/3,3,120546,70,27,258,0
+530,Airtel,F,31,Mizoram,Bangalore,583675,2020/1/3,4,91738,0,47,2966,0
+531,Vodafone,M,64,Kerala,Hyderabad,528896,2020/1/3,0,122486,-3,27,6395,0
+532,Vodafone,M,45,Nagaland,Chennai,306697,2020/1/3,1,45761,44,27,4235,0
+533,BSNL,M,21,Kerala,Kolkata,694123,2020/1/3,0,71536,47,5,1818,0
+534,Airtel,M,65,Madhya Pradesh,Kolkata,113134,2020/1/3,3,49445,37,3,-221,0
+535,Reliance Jio,M,52,Madhya Pradesh,Delhi,291689,2020/1/3,0,69862,76,27,2682,0
+536,Vodafone,M,34,Arunachal Pradesh,Delhi,982794,2020/1/3,0,46038,88,22,2467,0
+537,Vodafone,F,35,Haryana,Mumbai,648366,2020/1/3,3,55354,50,48,6754,0
+538,BSNL,M,22,Himachal Pradesh,Delhi,710663,2020/1/3,2,49860,50,33,1948,0
+539,Vodafone,M,56,Maharashtra,Bangalore,893489,2020/1/3,3,104299,6,25,3532,0
+540,Airtel,M,26,Arunachal Pradesh,Chennai,817280,2020/1/3,2,59908,54,17,1720,0
+541,Reliance Jio,F,21,Gujarat,Chennai,877092,2020/1/3,0,47598,66,18,671,0
+542,BSNL,F,38,Odisha,Delhi,158310,2020/1/3,0,83729,53,29,8183,0
+543,Airtel,M,46,Manipur,Hyderabad,415373,2020/1/3,3,49828,63,27,8299,0
+544,BSNL,F,58,Andhra Pradesh,Chennai,475004,2020/1/3,0,143116,5,42,8438,1
+545,BSNL,M,20,Kerala,Kolkata,198845,2020/1/3,3,143873,96,11,428,0
+546,Vodafone,F,25,Madhya Pradesh,Delhi,789841,2020/1/3,1,69022,28,1,7776,0
+547,Vodafone,F,55,Assam,Mumbai,989613,2020/1/3,2,68519,42,40,7983,1
+548,Reliance Jio,M,22,Manipur,Hyderabad,299671,2020/1/3,3,103846,-1,22,7387,0
+549,Airtel,F,31,Chhattisgarh,Hyderabad,616511,2020/1/3,1,79200,27,23,6919,0
+550,BSNL,M,65,Nagaland,Delhi,589319,2020/1/3,4,90440,5,44,4182,1
+551,Reliance Jio,M,43,Arunachal Pradesh,Chennai,914337,2020/1/3,0,112179,55,38,-490,0
+552,BSNL,M,55,Haryana,Bangalore,824366,2020/1/3,0,63307,0,44,5503,0
+553,BSNL,M,30,Sikkim,Chennai,141074,2020/1/3,4,97921,102,4,5550,1
+554,Reliance Jio,F,25,Gujarat,Chennai,981787,2020/1/3,1,93852,102,46,229,0
+555,BSNL,F,44,Tamil Nadu,Hyderabad,607061,2020/1/3,4,94041,64,27,4462,0
+556,Reliance Jio,M,39,Punjab,Bangalore,463921,2020/1/3,2,99339,73,42,8109,0
+557,Vodafone,M,44,Telangana,Delhi,609734,2020/1/3,3,35432,13,35,10470,1
+558,Airtel,M,45,Odisha,Hyderabad,283264,2020/1/3,4,97714,35,13,4125,0
+559,Airtel,F,43,Assam,Hyderabad,893666,2020/1/3,3,52872,36,33,10194,0
+560,Vodafone,F,62,Mizoram,Mumbai,322549,2020/1/3,1,140114,52,29,8713,0
+561,Reliance Jio,M,29,Arunachal Pradesh,Mumbai,744351,2020/1/3,4,84462,87,21,6766,0
+562,Reliance Jio,M,54,Gujarat,Chennai,435454,2020/1/3,3,133190,79,4,1050,1
+563,Airtel,M,41,Uttar Pradesh,Delhi,658408,2020/1/3,4,27403,90,15,9299,0
+564,BSNL,M,36,Karnataka,Delhi,657427,2020/1/3,0,137796,57,4,4286,0
+565,BSNL,F,45,West Bengal,Chennai,226944,2020/1/3,4,35060,73,20,6613,0
+566,BSNL,M,54,Himachal Pradesh,Hyderabad,281768,2020/1/3,0,33496,11,36,5467,0
+567,BSNL,F,38,Assam,Delhi,487361,2020/1/3,1,56661,57,25,3658,0
+568,Reliance Jio,M,49,Goa,Delhi,757398,2020/1/3,1,141710,10,21,5024,0
+569,Airtel,F,47,Gujarat,Hyderabad,123749,2020/1/3,3,103302,9,-4,10432,0
+570,Airtel,M,41,Jharkhand,Bangalore,268223,2020/1/3,4,62961,37,14,5834,0
+571,Reliance Jio,M,56,Tamil Nadu,Chennai,777381,2020/1/3,3,56448,-5,3,3338,1
+572,BSNL,F,23,Sikkim,Mumbai,713976,2020/1/3,1,78355,29,45,1176,0
+573,Vodafone,M,57,Rajasthan,Kolkata,959863,2020/1/3,1,126213,38,26,534,0
+574,Reliance Jio,F,31,Tripura,Chennai,186885,2020/1/3,1,52906,81,27,5275,0
+575,BSNL,F,43,Himachal Pradesh,Chennai,404858,2020/1/3,1,118265,97,36,317,1
+576,Airtel,M,41,Gujarat,Mumbai,248238,2020/1/3,3,71467,32,3,6104,1
+577,Airtel,M,51,Chhattisgarh,Mumbai,459465,2020/1/3,3,26780,52,33,7360,0
+578,Reliance Jio,M,22,Maharashtra,Kolkata,137579,2020/1/3,3,94395,68,22,6082,0
+579,Reliance Jio,M,54,Bihar,Delhi,373388,2020/1/3,3,22573,49,34,2975,0
+580,BSNL,M,74,Arunachal Pradesh,Chennai,560321,2020/1/3,4,91138,62,42,3169,0
+581,Vodafone,M,66,Rajasthan,Bangalore,768494,2020/1/3,4,99972,10,1,5198,0
+582,Vodafone,M,33,Mizoram,Mumbai,224741,2020/1/3,2,26162,93,31,7525,0
+583,Airtel,F,68,Andhra Pradesh,Delhi,439239,2020/1/3,1,52581,60,26,6942,0
+584,Reliance Jio,M,73,Uttar Pradesh,Chennai,642242,2020/1/3,3,115459,10,42,2708,0
+585,Vodafone,F,22,Gujarat,Chennai,219061,2020/1/3,2,36184,60,29,5697,1
+586,Airtel,F,40,Meghalaya,Kolkata,989459,2020/1/3,1,28285,23,44,6471,0
+587,Airtel,F,40,Kerala,Mumbai,839526,2020/1/3,4,102604,78,5,-65,0
+588,BSNL,M,37,Arunachal Pradesh,Mumbai,808390,2020/1/3,2,27313,18,32,6253,0
+589,Reliance Jio,M,48,Kerala,Chennai,104391,2020/1/3,3,76817,84,16,7203,0
+590,Vodafone,M,36,Karnataka,Bangalore,626014,2020/1/3,2,54413,62,28,5117,1
+591,BSNL,M,35,Madhya Pradesh,Bangalore,144981,2020/1/3,2,70485,11,22,7841,0
+592,Airtel,M,61,Maharashtra,Chennai,797095,2020/1/3,1,60152,65,29,-125,0
+593,Reliance Jio,M,20,Tripura,Hyderabad,378634,2020/1/3,1,27291,18,21,3248,0
+594,BSNL,F,55,Haryana,Bangalore,241698,2020/1/3,4,42005,11,44,5777,0
+595,Airtel,M,59,Arunachal Pradesh,Bangalore,724349,2020/1/3,0,43333,33,24,8435,0
+596,BSNL,F,24,Andhra Pradesh,Chennai,526605,2020/1/3,1,93611,35,20,4626,0
+597,Airtel,F,21,Nagaland,Delhi,878215,2020/1/3,4,75823,73,33,2541,1
+598,BSNL,F,60,Assam,Mumbai,730139,2020/1/3,4,34164,38,24,1085,0
+599,BSNL,M,58,Nagaland,Chennai,914778,2020/1/3,0,94614,14,28,6873,0
+600,BSNL,F,36,Maharashtra,Mumbai,459256,2020/1/3,3,103577,26,21,2314,1
+601,BSNL,M,41,Bihar,Hyderabad,742739,2020/1/4,2,46474,58,18,7964,0
+602,BSNL,F,31,Andhra Pradesh,Delhi,875730,2020/1/4,0,87962,19,6,799,0
+603,Airtel,M,60,Himachal Pradesh,Mumbai,101722,2020/1/4,4,143361,29,49,5951,0
+604,Reliance Jio,F,74,Haryana,Bangalore,955414,2020/1/4,0,40553,1,11,2819,0
+605,Vodafone,F,29,Maharashtra,Bangalore,696973,2020/1/4,1,64743,94,34,8803,0
+606,BSNL,F,58,Odisha,Bangalore,565669,2020/1/4,3,36628,28,30,513,0
+607,Vodafone,F,26,Goa,Delhi,928275,2020/1/4,4,82017,38,49,6397,0
+608,Vodafone,M,66,Andhra Pradesh,Kolkata,259353,2020/1/4,1,50606,94,38,1311,0
+609,Reliance Jio,M,73,Manipur,Mumbai,304831,2020/1/4,1,149124,36,-2,6958,0
+610,BSNL,M,44,Rajasthan,Mumbai,884292,2020/1/4,3,63238,103,30,4267,0
+611,Vodafone,M,19,Meghalaya,Hyderabad,199088,2020/1/4,0,132309,56,45,5178,0
+612,Airtel,F,22,Gujarat,Bangalore,396640,2020/1/4,4,44523,42,52,3377,0
+613,Airtel,M,43,Punjab,Hyderabad,630565,2020/1/4,1,68207,42,27,5841,1
+614,BSNL,M,47,Goa,Mumbai,331651,2020/1/4,2,101683,19,25,1950,0
+615,Vodafone,M,27,Rajasthan,Mumbai,302453,2020/1/4,3,64387,29,36,5642,0
+616,Vodafone,F,37,Goa,Kolkata,212522,2020/1/4,4,99950,20,48,1449,1
+617,Airtel,M,43,Uttar Pradesh,Mumbai,496141,2020/1/4,3,143446,38,16,3075,0
+618,BSNL,M,64,Uttarakhand,Mumbai,557906,2020/1/4,1,101528,6,43,5951,1
+619,Airtel,M,24,Punjab,Chennai,459918,2020/1/4,4,127065,6,39,1615,0
+620,Reliance Jio,M,29,Assam,Delhi,439872,2020/1/4,4,119793,63,23,1351,0
+621,Vodafone,F,50,Chhattisgarh,Hyderabad,353533,2020/1/4,2,137763,45,16,10439,0
+622,Reliance Jio,M,32,Bihar,Chennai,927621,2020/1/4,4,31730,56,28,91,0
+623,Vodafone,M,43,Assam,Delhi,466876,2020/1/4,0,118919,39,3,2520,0
+624,Vodafone,M,67,Assam,Kolkata,673215,2020/1/4,2,27016,34,9,2255,0
+625,Vodafone,F,49,Haryana,Chennai,662255,2020/1/4,2,63554,37,27,6627,0
+626,Reliance Jio,F,38,Andhra Pradesh,Delhi,895136,2020/1/4,1,93879,30,30,2102,0
+627,Vodafone,F,51,Odisha,Bangalore,481904,2020/1/4,1,105253,94,43,3694,0
+628,Airtel,F,36,Meghalaya,Kolkata,148854,2020/1/4,1,94833,82,-2,3810,1
+629,Vodafone,M,55,Madhya Pradesh,Hyderabad,529425,2020/1/4,4,99518,82,5,3952,0
+630,Airtel,M,31,Andhra Pradesh,Mumbai,476773,2020/1/4,2,36384,83,22,7107,0
+631,Airtel,F,33,Goa,Mumbai,135639,2020/1/4,2,141161,34,42,1931,0
+632,Vodafone,F,74,Tamil Nadu,Kolkata,804222,2020/1/4,0,113707,33,37,3266,0
+633,Vodafone,M,18,Haryana,Mumbai,400115,2020/1/4,0,125189,36,50,2599,0
+634,Reliance Jio,F,71,Rajasthan,Chennai,160659,2020/1/4,1,40123,50,32,9877,0
+635,Reliance Jio,M,73,Karnataka,Chennai,317773,2020/1/4,1,69493,56,8,2341,0
+636,Vodafone,F,28,Sikkim,Chennai,154319,2020/1/4,2,106904,29,48,4037,0
+637,Airtel,M,18,Chhattisgarh,Chennai,853875,2020/1/4,1,89736,62,16,3496,1
+638,BSNL,M,38,Telangana,Kolkata,989340,2020/1/4,0,100447,14,9,3950,0
+639,Airtel,F,23,Uttar Pradesh,Mumbai,613059,2020/1/4,1,79122,6,35,8368,0
+640,BSNL,F,19,Madhya Pradesh,Chennai,218489,2020/1/4,4,50046,1,51,385,0
+641,Vodafone,M,28,Rajasthan,Delhi,342665,2020/1/4,3,47171,31,29,3796,0
+642,Airtel,M,25,Odisha,Hyderabad,709696,2020/1/4,2,89466,18,9,4396,0
+643,Reliance Jio,F,29,Chhattisgarh,Bangalore,859513,2020/1/4,3,125900,86,17,183,0
+644,Reliance Jio,M,46,Goa,Chennai,330579,2020/1/4,0,103623,101,24,1242,0
+645,Airtel,M,65,Telangana,Kolkata,449646,2020/1/4,0,82424,64,2,8611,0
+646,Reliance Jio,M,31,Uttar Pradesh,Bangalore,515015,2020/1/4,2,74050,35,32,784,0
+647,BSNL,F,22,Gujarat,Hyderabad,948071,2020/1/4,3,111956,89,17,7155,0
+648,Vodafone,F,33,Odisha,Bangalore,376336,2020/1/4,4,137726,38,23,10854,0
+649,Vodafone,M,45,Goa,Hyderabad,737455,2020/1/4,2,63082,41,42,9244,0
+650,Vodafone,F,24,Karnataka,Mumbai,692995,2020/1/4,0,27260,65,45,2415,0
+651,Vodafone,F,44,Andhra Pradesh,Delhi,398398,2020/1/4,2,136870,-1,41,8890,0
+652,Reliance Jio,F,63,West Bengal,Mumbai,843273,2020/1/4,3,85638,40,6,3885,0
+653,Reliance Jio,M,19,Karnataka,Bangalore,345041,2020/1/4,3,119249,42,32,3228,0
+654,BSNL,M,40,West Bengal,Hyderabad,763432,2020/1/4,0,133295,12,49,2420,0
+655,Airtel,M,23,Meghalaya,Kolkata,249827,2020/1/4,0,121242,27,14,8519,1
+656,Vodafone,M,42,Arunachal Pradesh,Mumbai,925231,2020/1/4,3,138618,72,-2,274,0
+657,Reliance Jio,F,72,Chhattisgarh,Mumbai,258816,2020/1/4,2,77199,83,17,7577,0
+658,BSNL,F,42,Manipur,Kolkata,224794,2020/1/4,1,44261,18,25,7039,0
+659,Airtel,M,41,Kerala,Hyderabad,701388,2020/1/4,1,108934,90,28,6950,0
+660,Airtel,M,40,Himachal Pradesh,Mumbai,379221,2020/1/4,4,36279,88,34,6031,1
+661,Reliance Jio,M,33,Rajasthan,Hyderabad,583001,2020/1/4,1,108098,23,3,8360,0
+662,Reliance Jio,F,39,Himachal Pradesh,Hyderabad,436656,2020/1/4,2,140857,12,20,4479,0
+663,Reliance Jio,F,68,Assam,Mumbai,758253,2020/1/4,3,136126,78,45,3104,1
+664,BSNL,M,73,Bihar,Bangalore,379863,2020/1/4,0,126677,77,5,7696,0
+665,Vodafone,F,71,Mizoram,Kolkata,601939,2020/1/4,4,75785,80,37,9076,0
+666,Reliance Jio,M,60,Karnataka,Delhi,157897,2020/1/4,1,107644,77,20,5103,0
+667,Airtel,F,60,Tamil Nadu,Delhi,836794,2020/1/4,0,45328,64,35,992,0
+668,Vodafone,M,46,West Bengal,Delhi,611381,2020/1/4,1,135149,62,-2,8880,1
+669,Vodafone,F,65,Maharashtra,Bangalore,742640,2020/1/4,2,108372,39,29,5368,0
+670,BSNL,M,53,Uttarakhand,Bangalore,698361,2020/1/4,2,76983,20,10,5594,0
+671,Airtel,M,54,Sikkim,Delhi,803905,2020/1/4,1,93101,48,39,10064,0
+672,Reliance Jio,M,39,Sikkim,Hyderabad,273257,2020/1/4,3,112435,20,39,10486,0
+673,BSNL,F,63,Telangana,Mumbai,371078,2020/1/4,3,110823,43,8,888,0
+674,Airtel,M,27,Karnataka,Mumbai,748838,2020/1/4,4,137047,22,17,1365,1
+675,BSNL,M,69,Bihar,Delhi,999941,2020/1/4,4,23262,83,7,724,1
+676,Vodafone,F,32,Nagaland,Hyderabad,392023,2020/1/4,2,47985,15,33,6948,1
+677,Reliance Jio,M,58,Andhra Pradesh,Hyderabad,925250,2020/1/4,4,24407,21,24,3655,0
+678,Vodafone,F,52,Manipur,Bangalore,953545,2020/1/4,1,120660,77,3,5485,1
+679,Airtel,M,55,Tamil Nadu,Bangalore,246172,2020/1/4,2,27294,95,32,1797,0
+680,Airtel,M,36,Meghalaya,Kolkata,682850,2020/1/4,0,100778,4,9,3916,0
+681,Reliance Jio,M,67,Manipur,Kolkata,379186,2020/1/4,1,105219,93,43,1482,1
+682,BSNL,M,37,Gujarat,Chennai,166913,2020/1/4,1,30290,33,18,48,0
+683,Vodafone,M,49,Tripura,Delhi,186429,2020/1/4,1,79208,22,24,-169,1
+684,Reliance Jio,M,33,Arunachal Pradesh,Delhi,121855,2020/1/4,0,134031,67,24,4074,0
+685,Vodafone,F,21,Uttar Pradesh,Delhi,992244,2020/1/4,2,58510,42,6,3824,0
+686,BSNL,M,41,Arunachal Pradesh,Delhi,444891,2020/1/4,3,55373,46,8,-654,0
+687,Reliance Jio,M,33,West Bengal,Bangalore,977016,2020/1/4,4,72930,-3,42,3905,0
+688,Reliance Jio,F,60,Manipur,Chennai,115363,2020/1/4,2,53590,50,45,6747,0
+689,BSNL,M,32,Uttar Pradesh,Hyderabad,102782,2020/1/4,2,79797,45,4,7037,0
+690,Vodafone,F,64,Rajasthan,Kolkata,388044,2020/1/4,4,91298,86,1,8041,1
+691,Reliance Jio,M,31,Nagaland,Bangalore,511833,2020/1/4,2,52446,8,19,6927,0
+692,BSNL,F,67,Maharashtra,Kolkata,727117,2020/1/4,2,32774,11,45,7020,0
+693,Reliance Jio,M,65,Uttar Pradesh,Mumbai,915310,2020/1/4,1,22886,29,47,4431,0
+694,BSNL,M,23,West Bengal,Hyderabad,836063,2020/1/4,3,135884,13,33,4728,1
+695,BSNL,M,59,Mizoram,Delhi,331333,2020/1/4,3,79076,14,10,3628,1
+696,Reliance Jio,M,43,Assam,Mumbai,704576,2020/1/4,4,119598,23,46,8792,0
+697,Reliance Jio,F,53,Arunachal Pradesh,Mumbai,461755,2020/1/4,0,44839,30,29,515,0
+698,Reliance Jio,M,44,Assam,Kolkata,764910,2020/1/4,1,119942,60,18,3019,0
+699,Reliance Jio,M,73,Bihar,Chennai,177041,2020/1/4,0,51009,37,16,8730,0
+700,Vodafone,F,61,Sikkim,Kolkata,384185,2020/1/4,3,20190,14,36,5500,0
+701,BSNL,M,20,Madhya Pradesh,Delhi,425603,2020/1/4,2,29437,90,47,8867,0
+702,Reliance Jio,M,64,Meghalaya,Mumbai,713436,2020/1/4,1,86197,18,48,2735,0
+703,Reliance Jio,M,54,Arunachal Pradesh,Mumbai,487675,2020/1/4,0,70843,53,38,4050,0
+704,BSNL,F,55,Mizoram,Mumbai,150985,2020/1/4,1,77793,86,11,8725,0
+705,Airtel,F,46,Maharashtra,Kolkata,876575,2020/1/4,0,102507,74,24,7127,0
+706,BSNL,F,29,Rajasthan,Delhi,301778,2020/1/4,3,20276,72,24,9386,0
+707,Reliance Jio,M,48,Chhattisgarh,Chennai,447070,2020/1/4,0,66667,97,34,8951,0
+708,Vodafone,M,23,Himachal Pradesh,Delhi,529637,2020/1/4,0,147511,21,29,6212,0
+709,Vodafone,M,59,Karnataka,Bangalore,993822,2020/1/4,0,82263,82,30,8821,0
+710,BSNL,M,60,Himachal Pradesh,Mumbai,824935,2020/1/4,0,76609,77,38,5665,0
+711,Airtel,M,32,Bihar,Bangalore,929243,2020/1/4,0,64800,43,9,6550,0
+712,Reliance Jio,F,74,Sikkim,Chennai,945713,2020/1/4,1,137261,72,25,5148,1
+713,BSNL,M,51,Odisha,Bangalore,703760,2020/1/4,4,43053,23,47,4249,0
+714,Airtel,F,47,Karnataka,Bangalore,490333,2020/1/4,0,114008,70,16,6246,0
+715,BSNL,F,29,Uttarakhand,Delhi,332622,2020/1/4,2,50737,85,46,2072,0
+716,Reliance Jio,M,25,Madhya Pradesh,Hyderabad,179679,2020/1/4,1,36525,93,28,4312,0
+717,BSNL,M,49,Rajasthan,Hyderabad,899389,2020/1/4,0,125060,67,25,8469,0
+718,BSNL,M,72,Himachal Pradesh,Chennai,479398,2020/1/4,4,106065,25,28,1365,0
+719,Airtel,M,55,Manipur,Chennai,573662,2020/1/4,0,87017,32,47,8436,0
+720,BSNL,F,61,Haryana,Hyderabad,667727,2020/1/4,3,45524,28,25,7733,0
+721,Reliance Jio,F,20,Meghalaya,Delhi,287831,2020/1/4,0,134822,79,12,7059,0
+722,Airtel,M,22,Arunachal Pradesh,Bangalore,799972,2020/1/4,2,128716,23,5,2208,0
+723,BSNL,F,72,Sikkim,Delhi,626910,2020/1/4,2,94739,35,0,498,0
+724,Reliance Jio,F,69,Manipur,Bangalore,484129,2020/1/4,1,113861,1,29,4393,0
+725,Vodafone,M,68,West Bengal,Mumbai,258363,2020/1/4,4,71749,80,-2,3974,0
+726,Airtel,M,55,Himachal Pradesh,Hyderabad,584143,2020/1/4,1,26660,31,39,7373,0
+727,Vodafone,F,40,Punjab,Mumbai,376205,2020/1/4,1,47891,53,33,2705,0
+728,Reliance Jio,M,51,Chhattisgarh,Bangalore,879747,2020/1/4,0,118620,23,22,6048,1
+729,Vodafone,F,65,Bihar,Mumbai,706167,2020/1/4,1,40232,22,42,-91,1
+730,Vodafone,F,69,Himachal Pradesh,Delhi,326677,2020/1/4,4,84873,39,6,7501,0
+731,Vodafone,F,51,West Bengal,Chennai,758237,2020/1/4,1,31147,8,3,-733,1
+732,Vodafone,M,31,Meghalaya,Delhi,784928,2020/1/4,3,72870,57,44,7065,0
+733,Vodafone,M,21,Andhra Pradesh,Bangalore,819766,2020/1/4,1,95828,31,39,4663,0
+734,Airtel,F,47,Karnataka,Kolkata,537724,2020/1/4,1,103554,-6,3,5319,1
+735,Reliance Jio,M,62,Nagaland,Chennai,912103,2020/1/4,3,105951,107,10,2205,0
+736,Reliance Jio,F,38,Karnataka,Delhi,513074,2020/1/4,1,113651,38,37,2698,0
+737,Airtel,M,57,Jharkhand,Kolkata,716525,2020/1/4,4,91593,-8,23,9212,0
+738,Reliance Jio,F,30,Tamil Nadu,Delhi,214220,2020/1/4,2,62077,10,29,7550,0
+739,Reliance Jio,F,35,Andhra Pradesh,Bangalore,115268,2020/1/4,4,133515,45,51,6199,0
+740,Reliance Jio,F,40,Bihar,Bangalore,202102,2020/1/4,1,24696,42,12,3999,0
+741,Vodafone,F,59,Andhra Pradesh,Chennai,863431,2020/1/4,4,90749,9,17,1169,1
+742,Reliance Jio,M,66,Telangana,Delhi,483738,2020/1/4,4,141228,57,22,5477,0
+743,Airtel,F,30,Rajasthan,Bangalore,663091,2020/1/4,3,116296,61,46,1193,1
+744,Reliance Jio,M,46,Bihar,Chennai,240410,2020/1/4,2,65237,51,3,4598,0
+745,BSNL,M,48,Assam,Delhi,763649,2020/1/4,0,76062,74,25,8417,1
+746,Reliance Jio,M,47,Punjab,Kolkata,561525,2020/1/4,3,43890,45,15,6351,1
+747,Vodafone,M,26,Maharashtra,Bangalore,954643,2020/1/4,4,37087,36,24,5830,0
+748,Vodafone,F,71,Kerala,Kolkata,643912,2020/1/4,1,83667,65,30,8918,0
+749,BSNL,M,54,Maharashtra,Chennai,590093,2020/1/4,1,103284,44,49,1711,0
+750,Reliance Jio,M,41,Himachal Pradesh,Chennai,235196,2020/1/4,4,60822,40,28,5275,0
+751,Airtel,M,58,Gujarat,Chennai,558432,2020/1/4,1,56724,67,24,5366,0
+752,Vodafone,M,27,Tripura,Delhi,241616,2020/1/4,0,67853,52,0,4446,1
+753,Vodafone,M,40,Bihar,Mumbai,518717,2020/1/4,4,72961,38,37,6345,1
+754,Vodafone,M,71,Manipur,Chennai,879758,2020/1/4,3,52822,9,10,590,0
+755,Airtel,M,43,Bihar,Chennai,886325,2020/1/4,0,99366,90,30,292,0
+756,Airtel,M,58,Haryana,Hyderabad,228121,2020/1/4,4,111096,33,28,8477,0
+757,Reliance Jio,F,48,Kerala,Delhi,147365,2020/1/4,0,41354,56,19,10426,0
+758,Reliance Jio,M,21,Kerala,Bangalore,745087,2020/1/4,1,27014,93,21,2920,0
+759,Airtel,M,58,Haryana,Bangalore,754901,2020/1/4,2,62810,71,26,4293,0
+760,BSNL,F,53,Andhra Pradesh,Hyderabad,281040,2020/1/4,3,50632,15,3,7009,1
+761,Reliance Jio,M,54,Manipur,Bangalore,897390,2020/1/4,1,54739,60,14,-580,0
+762,Airtel,M,26,Haryana,Hyderabad,616200,2020/1/4,0,100746,86,45,9719,0
+763,Airtel,M,25,Maharashtra,Kolkata,697227,2020/1/4,0,71325,-3,43,8512,1
+764,Airtel,M,25,Tripura,Chennai,625117,2020/1/4,1,55138,36,9,10799,0
+765,Airtel,F,50,Sikkim,Kolkata,904161,2020/1/4,3,50193,55,-1,4226,0
+766,Airtel,F,56,Meghalaya,Delhi,460911,2020/1/4,4,47959,73,25,5220,0
+767,Reliance Jio,M,72,Bihar,Mumbai,190485,2020/1/4,0,135004,32,47,2642,0
+768,Vodafone,F,26,Goa,Bangalore,888876,2020/1/4,0,59802,95,28,6393,1
+769,Vodafone,M,59,Kerala,Chennai,717915,2020/1/4,1,129675,69,33,5447,0
+770,BSNL,M,73,Jharkhand,Kolkata,609573,2020/1/4,1,117872,16,39,3981,0
+771,BSNL,M,36,Chhattisgarh,Chennai,938571,2020/1/4,2,118176,7,47,5697,1
+772,Reliance Jio,F,49,Uttarakhand,Chennai,380287,2020/1/4,3,89877,54,3,2483,0
+773,Airtel,F,67,Nagaland,Chennai,948806,2020/1/4,4,35244,4,15,8236,1
+774,BSNL,F,47,Nagaland,Chennai,289413,2020/1/4,0,110255,20,45,2564,0
+775,Reliance Jio,M,61,Gujarat,Kolkata,296095,2020/1/4,2,32210,65,25,7277,0
+776,Reliance Jio,M,72,Bihar,Bangalore,978817,2020/1/4,0,55472,-1,13,8097,1
+777,Reliance Jio,M,61,Karnataka,Chennai,779054,2020/1/4,4,108990,6,49,6298,0
+778,Vodafone,M,45,West Bengal,Mumbai,392675,2020/1/4,4,83460,101,14,3628,0
+779,Reliance Jio,M,54,Bihar,Mumbai,633965,2020/1/4,2,57305,40,13,2512,0
+780,BSNL,F,59,Maharashtra,Kolkata,162639,2020/1/4,2,94104,43,14,1125,0
+781,Airtel,F,33,Gujarat,Hyderabad,982832,2020/1/4,2,105314,86,4,605,0
+782,Airtel,M,29,Himachal Pradesh,Bangalore,256153,2020/1/4,4,139343,32,16,3021,0
+783,Reliance Jio,M,48,Haryana,Kolkata,531250,2020/1/4,0,126943,98,45,3349,0
+784,Airtel,M,66,Kerala,Kolkata,657277,2020/1/4,0,73268,14,40,8704,0
+785,Reliance Jio,F,46,Tripura,Delhi,681172,2020/1/4,2,141414,66,11,459,0
+786,Reliance Jio,F,64,Uttarakhand,Mumbai,571894,2020/1/4,0,29384,100,41,3167,1
+787,Airtel,F,22,Bihar,Chennai,335661,2020/1/4,1,132617,16,33,6053,0
+788,BSNL,M,71,Goa,Mumbai,410047,2020/1/4,1,72376,62,10,4494,0
+789,Reliance Jio,F,66,Uttar Pradesh,Hyderabad,981604,2020/1/4,3,25535,69,14,7559,0
+790,Reliance Jio,M,54,Uttarakhand,Bangalore,652953,2020/1/4,1,35466,72,3,7303,0
+791,BSNL,F,47,Haryana,Hyderabad,226137,2020/1/4,4,146871,11,43,981,0
+792,Airtel,M,40,Karnataka,Mumbai,349093,2020/1/4,3,132502,33,15,-512,0
+793,BSNL,F,24,Rajasthan,Kolkata,420600,2020/1/4,3,135675,72,33,4531,0
+794,BSNL,M,30,Tamil Nadu,Delhi,615281,2020/1/4,1,118830,66,32,5655,0
+795,Vodafone,F,47,Jharkhand,Chennai,753264,2020/1/4,4,95568,24,13,1646,0
+796,Reliance Jio,M,27,Meghalaya,Hyderabad,496294,2020/1/4,2,81480,81,12,6924,0
+797,Airtel,F,57,Andhra Pradesh,Hyderabad,109630,2020/1/4,0,101994,25,11,123,0
+798,Airtel,M,55,Himachal Pradesh,Hyderabad,747375,2020/1/4,1,129608,-7,49,387,0
+799,BSNL,M,42,Mizoram,Kolkata,798421,2020/1/4,1,106251,50,20,6009,0
+800,BSNL,F,66,Jharkhand,Bangalore,647190,2020/1/4,2,113523,18,17,1464,0
+801,Airtel,F,67,Tripura,Chennai,632952,2020/1/5,3,90770,23,38,6222,0
+802,BSNL,F,22,Sikkim,Chennai,704295,2020/1/5,0,54554,89,1,2588,1
+803,BSNL,M,72,Himachal Pradesh,Delhi,837075,2020/1/5,4,35890,37,28,3956,1
+804,Vodafone,M,37,Maharashtra,Kolkata,112490,2020/1/5,2,139880,92,52,9330,1
+805,Reliance Jio,M,20,Haryana,Mumbai,279834,2020/1/5,0,112448,32,2,8277,0
+806,Reliance Jio,M,32,Madhya Pradesh,Kolkata,721024,2020/1/5,0,28514,86,16,6101,0
+807,Vodafone,F,57,Bihar,Hyderabad,284002,2020/1/5,0,140578,41,28,4373,0
+808,Vodafone,M,54,Tamil Nadu,Bangalore,334207,2020/1/5,4,110967,48,2,10352,1
+809,Airtel,F,42,West Bengal,Kolkata,883518,2020/1/5,2,109661,75,27,6090,0
+810,Airtel,F,19,Jharkhand,Chennai,829568,2020/1/5,4,98648,38,11,1938,0
+811,Airtel,M,25,Punjab,Kolkata,823579,2020/1/5,1,80528,65,40,6555,0
+812,Vodafone,M,72,Arunachal Pradesh,Delhi,152251,2020/1/5,2,91311,91,18,2776,0
+813,Airtel,M,46,Chhattisgarh,Mumbai,760347,2020/1/5,4,99344,73,50,9064,0
+814,Airtel,M,28,Odisha,Hyderabad,773490,2020/1/5,2,89950,31,36,9595,0
+815,Reliance Jio,F,28,Uttar Pradesh,Chennai,891545,2020/1/5,1,135818,15,1,3704,0
+816,Vodafone,F,52,Gujarat,Delhi,678159,2020/1/5,1,84680,61,12,4497,0
+817,Reliance Jio,M,43,Assam,Kolkata,175219,2020/1/5,3,91095,37,42,7137,0
+818,BSNL,F,25,Karnataka,Hyderabad,945189,2020/1/5,3,138775,20,3,8190,0
+819,BSNL,M,25,Chhattisgarh,Hyderabad,456832,2020/1/5,4,54118,87,3,3673,0
+820,Airtel,F,67,Meghalaya,Hyderabad,171699,2020/1/5,2,63614,54,25,951,0
+821,Reliance Jio,M,37,Uttar Pradesh,Delhi,167941,2020/1/5,1,110631,42,20,10252,0
+822,Vodafone,M,43,Andhra Pradesh,Mumbai,814392,2020/1/5,1,45188,19,22,4071,1
+823,Vodafone,M,32,Haryana,Delhi,388523,2020/1/5,1,34660,13,11,5951,1
+824,Reliance Jio,F,41,Gujarat,Hyderabad,469814,2020/1/5,0,98264,46,52,9726,0
+825,Reliance Jio,F,66,West Bengal,Chennai,297970,2020/1/5,0,86778,38,4,6493,0
+826,Vodafone,F,47,Kerala,Hyderabad,721338,2020/1/5,4,26015,10,7,6041,1
+827,BSNL,F,73,Himachal Pradesh,Hyderabad,716098,2020/1/5,3,54833,80,18,5081,0
+828,BSNL,M,63,Uttarakhand,Chennai,817154,2020/1/5,4,32669,38,19,5367,0
+829,Reliance Jio,M,69,Assam,Chennai,392714,2020/1/5,0,143268,16,39,2346,1
+830,Reliance Jio,F,51,Telangana,Delhi,950404,2020/1/5,3,53548,26,40,3230,0
+831,Reliance Jio,M,24,Arunachal Pradesh,Hyderabad,493729,2020/1/5,2,65878,-6,2,3860,0
+832,Vodafone,F,30,Madhya Pradesh,Mumbai,667899,2020/1/5,4,138782,94,27,533,1
+833,Vodafone,F,49,Haryana,Mumbai,903098,2020/1/5,3,107924,1,5,5397,0
+834,Reliance Jio,M,32,Maharashtra,Mumbai,257858,2020/1/5,1,116298,66,45,4820,0
+835,BSNL,F,25,Rajasthan,Bangalore,388475,2020/1/5,3,50939,34,7,6840,0
+836,Vodafone,M,39,Maharashtra,Kolkata,549507,2020/1/5,3,112135,52,34,6551,1
+837,Vodafone,M,30,Tripura,Mumbai,707906,2020/1/5,1,84343,37,16,8498,0
+838,Vodafone,M,66,Mizoram,Kolkata,622874,2020/1/5,1,31965,18,5,2901,1
+839,BSNL,F,59,Meghalaya,Kolkata,423054,2020/1/5,4,47697,98,46,1049,0
+840,BSNL,F,68,West Bengal,Kolkata,528067,2020/1/5,2,83688,97,34,2820,0
+841,Vodafone,F,39,Punjab,Kolkata,510073,2020/1/5,1,53945,90,51,6840,1
+842,BSNL,M,50,Punjab,Kolkata,527853,2020/1/5,2,133795,56,13,5161,1
+843,BSNL,M,42,Telangana,Mumbai,533191,2020/1/5,3,35952,79,14,4369,0
+844,Vodafone,M,23,Sikkim,Kolkata,838504,2020/1/5,4,112775,23,3,10700,0
+845,Airtel,F,33,Telangana,Chennai,266584,2020/1/5,4,120376,31,23,7863,0
+846,Vodafone,F,66,Haryana,Hyderabad,864193,2020/1/5,2,138210,67,6,-207,0
+847,BSNL,M,37,Gujarat,Mumbai,871629,2020/1/5,0,116209,7,2,-9,0
+848,BSNL,M,55,Meghalaya,Delhi,518670,2020/1/5,4,74653,90,34,10455,0
+849,Airtel,M,49,Meghalaya,Bangalore,787380,2020/1/5,2,21482,49,35,7730,0
+850,Vodafone,M,63,Himachal Pradesh,Kolkata,667598,2020/1/5,1,45441,42,37,7746,0
+851,Reliance Jio,M,25,Arunachal Pradesh,Mumbai,342027,2020/1/5,4,38802,80,23,10273,0
+852,Reliance Jio,F,67,Andhra Pradesh,Chennai,549192,2020/1/5,1,43638,52,18,8537,0
+853,Reliance Jio,F,58,Kerala,Chennai,265850,2020/1/5,0,20604,19,49,2171,0
+854,Reliance Jio,M,36,Telangana,Mumbai,844413,2020/1/5,3,127147,29,30,2406,0
+855,BSNL,F,27,Tamil Nadu,Kolkata,874229,2020/1/5,0,100981,31,15,4750,1
+856,Vodafone,F,22,Kerala,Delhi,927469,2020/1/5,4,85566,36,36,2384,0
+857,Airtel,M,58,Maharashtra,Mumbai,264964,2020/1/5,2,119575,66,8,3783,0
+858,BSNL,F,63,Uttar Pradesh,Kolkata,433324,2020/1/5,1,43973,79,22,6815,0
+859,Airtel,M,25,Jharkhand,Kolkata,871852,2020/1/5,4,22987,12,18,9309,0
+860,BSNL,F,63,Mizoram,Kolkata,156983,2020/1/5,4,30353,81,19,8039,0
+861,Vodafone,M,65,Uttarakhand,Delhi,604802,2020/1/5,3,149346,42,19,3788,0
+862,Vodafone,M,56,Tripura,Hyderabad,170092,2020/1/5,2,80921,9,49,2654,0
+863,Vodafone,M,66,Haryana,Kolkata,460663,2020/1/5,2,88864,30,38,3411,0
+864,Vodafone,M,32,Andhra Pradesh,Delhi,855491,2020/1/5,4,123354,29,39,309,0
+865,BSNL,F,60,Odisha,Chennai,690541,2020/1/5,1,48899,99,37,9649,0
+866,Airtel,F,67,Odisha,Hyderabad,339355,2020/1/5,4,109760,72,37,5884,0
+867,Reliance Jio,M,21,Andhra Pradesh,Kolkata,116707,2020/1/5,4,120637,61,3,961,0
+868,Reliance Jio,M,28,Mizoram,Chennai,704928,2020/1/5,2,22933,34,53,6413,1
+869,Vodafone,M,48,Manipur,Chennai,184381,2020/1/5,1,99757,53,41,8986,0
+870,Airtel,F,29,Rajasthan,Chennai,558155,2020/1/5,3,66874,80,41,5298,0
+871,Reliance Jio,M,68,Kerala,Hyderabad,935797,2020/1/5,0,52333,67,27,7204,0
+872,Airtel,F,54,Kerala,Delhi,377428,2020/1/5,2,142333,30,-3,2617,0
+873,BSNL,M,45,Nagaland,Mumbai,824414,2020/1/5,1,57446,51,2,10458,0
+874,BSNL,F,47,Assam,Delhi,352556,2020/1/5,0,40200,76,44,9412,0
+875,Reliance Jio,F,30,Himachal Pradesh,Kolkata,708059,2020/1/5,4,119835,62,21,952,0
+876,Vodafone,M,31,Himachal Pradesh,Hyderabad,142059,2020/1/5,1,104108,18,28,5561,0
+877,Vodafone,M,44,Odisha,Mumbai,565200,2020/1/5,3,140333,42,44,321,0
+878,BSNL,M,47,Telangana,Delhi,920599,2020/1/5,4,134931,79,10,5200,0
+879,Airtel,F,37,Madhya Pradesh,Chennai,935579,2020/1/5,2,61196,48,17,8882,0
+880,Reliance Jio,M,23,Karnataka,Hyderabad,376377,2020/1/5,3,41152,22,45,9081,0
+881,Reliance Jio,M,51,Madhya Pradesh,Delhi,459076,2020/1/5,1,70204,28,28,5726,0
+882,BSNL,M,26,Madhya Pradesh,Delhi,575734,2020/1/5,4,109939,21,40,1587,0
+883,Vodafone,M,46,Uttarakhand,Delhi,476784,2020/1/5,0,33675,4,12,2439,0
+884,Reliance Jio,F,34,Manipur,Mumbai,596660,2020/1/5,3,95804,61,32,7281,0
+885,Reliance Jio,M,35,Uttarakhand,Delhi,907275,2020/1/5,0,95319,63,-3,2339,0
+886,Vodafone,F,37,Punjab,Bangalore,836491,2020/1/5,3,113179,11,36,5147,0
+887,Airtel,M,73,Assam,Chennai,848380,2020/1/5,1,142310,42,1,7401,0
+888,BSNL,M,39,Maharashtra,Kolkata,668922,2020/1/5,1,65582,92,38,1217,1
+889,Airtel,M,34,Jharkhand,Mumbai,392908,2020/1/5,4,22930,89,24,6070,0
+890,BSNL,M,53,Jharkhand,Chennai,236342,2020/1/5,2,61038,22,37,4366,0
+891,Airtel,M,51,Telangana,Delhi,742611,2020/1/5,3,136249,74,16,4324,0
+892,Airtel,M,63,Bihar,Chennai,669522,2020/1/5,3,28968,89,15,2981,0
+893,Vodafone,M,19,Gujarat,Chennai,623496,2020/1/5,1,117770,49,15,5199,0
+894,Vodafone,M,31,Himachal Pradesh,Bangalore,548325,2020/1/5,2,91172,103,42,9162,1
+895,Vodafone,F,41,Punjab,Kolkata,452014,2020/1/5,3,142240,84,22,5694,1
+896,Vodafone,M,29,Sikkim,Mumbai,187170,2020/1/5,1,112234,39,42,4935,0
+897,BSNL,F,49,Tamil Nadu,Hyderabad,573343,2020/1/5,2,120545,26,9,8830,0
+898,Reliance Jio,M,51,Maharashtra,Delhi,542882,2020/1/5,2,72143,63,37,5966,1
+899,BSNL,M,47,Mizoram,Mumbai,617859,2020/1/5,1,137297,64,48,2764,1
+900,BSNL,M,68,Arunachal Pradesh,Chennai,782795,2020/1/5,4,90532,42,26,4679,0
+901,Airtel,M,41,Maharashtra,Mumbai,228641,2020/1/5,0,95919,69,25,-884,0
+902,Vodafone,M,32,Telangana,Hyderabad,990302,2020/1/5,0,125227,15,0,6637,0
+903,Reliance Jio,F,49,Uttarakhand,Delhi,425470,2020/1/5,4,32341,58,50,2382,0
+904,Vodafone,F,62,Haryana,Kolkata,944759,2020/1/5,4,35410,43,26,8815,1
+905,Airtel,M,39,Himachal Pradesh,Delhi,386757,2020/1/5,3,67163,96,5,-63,0
+906,Reliance Jio,M,43,Gujarat,Chennai,839415,2020/1/5,2,135890,26,44,10256,0
+907,Vodafone,F,65,Maharashtra,Bangalore,770057,2020/1/5,3,37397,101,32,220,1
+908,BSNL,F,60,Nagaland,Bangalore,181717,2020/1/5,1,21722,32,20,8911,0
+909,Vodafone,M,51,Uttarakhand,Hyderabad,309365,2020/1/5,2,141638,57,1,3609,0
+910,Reliance Jio,M,43,Karnataka,Hyderabad,731478,2020/1/5,4,74504,10,3,3688,0
+911,BSNL,M,23,Assam,Chennai,955847,2020/1/5,3,125444,65,49,3004,0
+912,Vodafone,F,63,Kerala,Hyderabad,638984,2020/1/5,3,22851,13,11,1046,0
+913,BSNL,F,47,Himachal Pradesh,Hyderabad,851949,2020/1/5,0,23944,28,18,4348,0
+914,BSNL,M,27,Mizoram,Delhi,589174,2020/1/5,2,124104,96,47,10318,1
+915,Airtel,M,30,Arunachal Pradesh,Delhi,963215,2020/1/5,3,132757,62,9,8239,0
+916,Reliance Jio,M,69,Odisha,Hyderabad,775953,2020/1/5,0,84245,80,31,6625,1
+917,Vodafone,F,48,Odisha,Chennai,512736,2020/1/5,0,111566,44,27,5508,0
+918,Airtel,F,60,Arunachal Pradesh,Kolkata,540673,2020/1/5,0,142086,32,38,2252,1
+919,Vodafone,M,58,Kerala,Kolkata,455313,2020/1/5,0,76645,36,33,8063,0
+920,Vodafone,M,45,Telangana,Delhi,282486,2020/1/5,2,47458,44,34,7303,0
+921,Vodafone,F,62,Manipur,Hyderabad,124728,2020/1/5,1,66136,15,40,5099,0
+922,Airtel,M,25,Karnataka,Delhi,340173,2020/1/5,3,93348,50,5,6939,0
+923,Reliance Jio,M,49,Himachal Pradesh,Bangalore,613144,2020/1/5,3,109679,26,11,7615,1
+924,BSNL,M,20,Bihar,Chennai,400621,2020/1/5,2,107928,54,-2,6798,0
+925,BSNL,M,55,Mizoram,Kolkata,715364,2020/1/5,3,56155,88,19,1806,0
+926,Vodafone,F,33,Tripura,Mumbai,563595,2020/1/5,0,73212,97,35,1364,0
+927,Airtel,F,59,Punjab,Mumbai,192676,2020/1/5,0,34487,45,3,2519,1
+928,Reliance Jio,M,68,Kerala,Kolkata,966937,2020/1/5,3,48672,8,9,6518,1
+929,BSNL,M,22,Andhra Pradesh,Chennai,288539,2020/1/5,1,52857,56,4,2465,0
+930,BSNL,M,26,Karnataka,Kolkata,490179,2020/1/5,3,142365,46,33,8010,0
+931,Vodafone,F,41,Jharkhand,Hyderabad,565481,2020/1/5,4,101946,60,39,9254,0
+932,Airtel,M,72,Nagaland,Mumbai,927464,2020/1/5,4,148370,14,18,6161,0
+933,Reliance Jio,M,23,Andhra Pradesh,Chennai,898535,2020/1/5,4,115147,21,-3,7434,0
+934,BSNL,F,71,Kerala,Mumbai,802483,2020/1/5,0,103223,63,10,2982,1
+935,Reliance Jio,F,50,Manipur,Bangalore,410563,2020/1/5,3,141318,91,11,2923,1
+936,BSNL,M,26,Kerala,Mumbai,599673,2020/1/5,4,116192,26,10,9230,0
+937,BSNL,M,48,Rajasthan,Chennai,907240,2020/1/5,2,99681,38,16,1762,0
+938,Airtel,M,32,Tripura,Chennai,578604,2020/1/5,1,112079,91,44,6466,0
+939,Airtel,M,45,Tamil Nadu,Kolkata,705235,2020/1/5,3,64599,12,41,890,0
+940,Airtel,M,37,Rajasthan,Chennai,375305,2020/1/5,2,120298,2,39,2843,1
+941,Airtel,M,33,Arunachal Pradesh,Kolkata,159680,2020/1/5,1,61042,30,18,5649,0
+942,Airtel,M,67,West Bengal,Bangalore,232402,2020/1/5,0,90391,20,34,947,0
+943,BSNL,M,55,Odisha,Mumbai,632291,2020/1/5,3,131836,90,5,8013,0
+944,Airtel,M,26,Chhattisgarh,Mumbai,584880,2020/1/5,3,44176,31,10,8259,0
+945,Reliance Jio,F,23,Sikkim,Delhi,518515,2020/1/5,0,71761,91,34,4825,0
+946,Airtel,M,35,Chhattisgarh,Bangalore,255159,2020/1/5,3,116319,7,42,7150,0
+947,Airtel,F,63,West Bengal,Chennai,108899,2020/1/5,1,34991,87,24,1788,0
+948,Reliance Jio,M,32,Manipur,Chennai,167981,2020/1/5,4,20509,68,9,678,0
+949,BSNL,M,37,Goa,Delhi,193047,2020/1/5,2,41228,37,43,7858,1
+950,Reliance Jio,F,59,Madhya Pradesh,Hyderabad,298443,2020/1/5,3,80058,18,31,9961,0
+951,Reliance Jio,F,41,Jharkhand,Delhi,900567,2020/1/5,2,38670,53,-1,9282,0
+952,Reliance Jio,M,62,Assam,Chennai,202649,2020/1/5,2,79013,25,16,4591,1
+953,Reliance Jio,M,74,Meghalaya,Hyderabad,792535,2020/1/5,0,77342,55,44,4342,0
+954,Reliance Jio,M,61,Kerala,Mumbai,559244,2020/1/5,0,34792,29,35,5482,0
+955,BSNL,F,55,Kerala,Delhi,196512,2020/1/5,4,103341,15,33,8298,0
+956,Airtel,M,22,Kerala,Delhi,737512,2020/1/5,4,47471,57,20,5654,0
+957,BSNL,M,26,Telangana,Chennai,811731,2020/1/5,0,95878,29,3,7460,1
+958,Vodafone,F,38,Karnataka,Mumbai,153004,2020/1/5,3,144039,45,19,7758,0
+959,Reliance Jio,M,49,Maharashtra,Bangalore,226328,2020/1/5,2,29972,18,9,2771,0
+960,BSNL,M,45,Gujarat,Hyderabad,448002,2020/1/5,2,27320,57,12,10632,0
+961,Airtel,M,54,Rajasthan,Hyderabad,924285,2020/1/5,0,99094,77,24,1135,0
+962,Reliance Jio,M,46,Bihar,Delhi,321733,2020/1/5,3,102027,53,36,7632,0
+963,Vodafone,F,23,Tamil Nadu,Hyderabad,320461,2020/1/5,2,33430,93,13,8048,1
+964,Reliance Jio,M,65,Punjab,Chennai,254608,2020/1/5,4,115723,105,4,7826,0
+965,Reliance Jio,M,40,Himachal Pradesh,Chennai,668149,2020/1/5,3,26148,12,25,8298,0
+966,BSNL,M,73,Odisha,Chennai,248210,2020/1/5,1,131638,17,29,1950,0
+967,Vodafone,F,18,Tamil Nadu,Delhi,854527,2020/1/5,2,32492,88,12,1192,1
+968,Airtel,M,64,Jharkhand,Kolkata,560480,2020/1/5,0,140672,55,4,7053,0
+969,BSNL,M,40,Nagaland,Delhi,304580,2020/1/5,1,100573,70,12,6712,0
+970,BSNL,M,28,Manipur,Kolkata,232154,2020/1/5,0,95569,42,29,2058,0
+971,Reliance Jio,F,63,Haryana,Hyderabad,629562,2020/1/5,2,78858,-2,36,2799,0
+972,BSNL,M,70,Madhya Pradesh,Bangalore,711248,2020/1/5,1,127557,61,32,1355,0
+973,BSNL,M,69,Meghalaya,Kolkata,560360,2020/1/5,4,71203,5,46,2275,0
+974,BSNL,F,49,Rajasthan,Kolkata,710388,2020/1/5,2,109351,47,31,6749,1
+975,BSNL,F,63,Goa,Bangalore,640838,2020/1/5,2,119501,55,35,6743,0
+976,Vodafone,M,64,Odisha,Hyderabad,914236,2020/1/5,2,73030,47,47,7952,0
+977,Airtel,M,24,Tamil Nadu,Delhi,684317,2020/1/5,0,35351,4,7,746,1
+978,Airtel,F,19,Haryana,Kolkata,870376,2020/1/5,0,127590,17,45,738,0
+979,BSNL,M,23,Maharashtra,Mumbai,440474,2020/1/5,2,57464,6,20,913,0
+980,Reliance Jio,M,65,Gujarat,Delhi,786280,2020/1/5,0,64956,86,27,3837,0
+981,Reliance Jio,F,37,West Bengal,Mumbai,845440,2020/1/5,4,91652,97,41,3814,0
+982,Vodafone,F,48,Telangana,Chennai,344460,2020/1/5,3,148331,12,10,1203,0
+983,Vodafone,F,22,Tripura,Delhi,948763,2020/1/5,0,74315,79,21,6175,0
+984,Reliance Jio,M,40,West Bengal,Hyderabad,307897,2020/1/5,0,49677,39,36,7924,0
+985,BSNL,F,27,Odisha,Mumbai,921057,2020/1/5,3,105165,67,42,9388,1
+986,Reliance Jio,F,27,Sikkim,Delhi,460211,2020/1/5,3,60099,35,0,5099,0
+987,Airtel,F,71,Jharkhand,Mumbai,651287,2020/1/5,3,98598,2,42,7531,0
+988,Reliance Jio,F,59,Arunachal Pradesh,Bangalore,505632,2020/1/5,2,66046,16,48,9546,0
+989,Vodafone,F,23,Mizoram,Mumbai,791097,2020/1/5,3,94480,38,9,-241,0
+990,Airtel,M,25,Telangana,Delhi,138460,2020/1/5,2,116561,24,42,8085,0
+991,Reliance Jio,M,44,Karnataka,Kolkata,622713,2020/1/5,1,29390,86,46,8080,0
+992,Airtel,F,53,Jharkhand,Delhi,139520,2020/1/5,2,61319,67,29,837,1
+993,BSNL,F,57,Tamil Nadu,Chennai,393839,2020/1/5,3,123185,44,44,5785,0
+994,BSNL,F,39,Madhya Pradesh,Chennai,487284,2020/1/5,0,78871,95,11,4605,0
+995,Airtel,M,22,Odisha,Bangalore,695989,2020/1/5,1,48101,70,17,9308,1
+996,BSNL,F,19,Tamil Nadu,Delhi,326273,2020/1/5,0,81532,29,36,3952,0
+997,Airtel,M,38,Nagaland,Kolkata,126707,2020/1/5,4,127367,39,19,5328,0
+998,Vodafone,M,18,Odisha,Chennai,742600,2020/1/5,1,120764,49,42,6260,1
+999,Vodafone,M,64,Tripura,Delhi,186458,2020/1/5,1,95036,96,12,2262,0
+1000,Reliance Jio,M,38,Himachal Pradesh,Bangalore,378040,2020/1/6,4,88151,29,25,5908,0
+1001,Airtel,F,38,Telangana,Kolkata,477437,2020/1/6,0,143847,42,41,6704,1
+1002,BSNL,F,68,Tamil Nadu,Delhi,989922,2020/1/6,0,20855,37,41,9136,1
+1003,Reliance Jio,M,33,Haryana,Delhi,481087,2020/1/6,0,38092,-9,11,476,0
+1004,Reliance Jio,M,30,Tripura,Bangalore,998773,2020/1/6,4,46329,59,29,4680,0
+1005,Reliance Jio,M,70,Bihar,Hyderabad,978106,2020/1/6,4,25821,72,45,1343,1
+1006,BSNL,M,55,Kerala,Mumbai,714832,2020/1/6,4,148349,3,24,7050,0
+1007,Airtel,M,57,West Bengal,Hyderabad,534897,2020/1/6,3,104354,38,12,1151,0
+1008,Vodafone,F,63,Mizoram,Bangalore,972546,2020/1/6,4,23853,27,8,1348,0
+1009,BSNL,M,25,Manipur,Hyderabad,811533,2020/1/6,4,140771,60,18,7817,0
+1010,Vodafone,M,31,Andhra Pradesh,Delhi,829153,2020/1/6,4,127291,36,33,5571,0
+1011,Airtel,F,32,West Bengal,Kolkata,662699,2020/1/6,0,118491,46,31,8805,1
+1012,BSNL,M,22,Tamil Nadu,Kolkata,475327,2020/1/6,0,73298,26,0,8453,1
+1013,Vodafone,M,58,Tamil Nadu,Bangalore,142330,2020/1/6,1,31233,28,46,4056,0
+1014,BSNL,F,40,West Bengal,Bangalore,592240,2020/1/6,4,75611,3,21,7572,1
+1015,Reliance Jio,M,38,Tripura,Kolkata,168297,2020/1/6,3,67661,55,39,7768,0
+1016,BSNL,M,35,Karnataka,Chennai,510188,2020/1/6,3,111440,102,29,2056,0
+1017,Reliance Jio,M,40,Bihar,Kolkata,768329,2020/1/6,0,36514,29,21,4563,0
+1018,Airtel,F,52,Meghalaya,Kolkata,326353,2020/1/6,3,75511,52,10,-135,0
+1019,Vodafone,M,20,Karnataka,Delhi,353185,2020/1/6,4,25345,50,5,7093,0
+1020,BSNL,M,52,Manipur,Chennai,415495,2020/1/6,4,39019,13,22,4341,0
+1021,Vodafone,M,50,Goa,Chennai,241603,2020/1/6,2,81792,74,42,2037,0
+1022,Airtel,F,37,Assam,Chennai,197948,2020/1/6,2,62563,24,28,-44,0
+1023,Reliance Jio,F,50,Jharkhand,Mumbai,391985,2020/1/6,4,43304,13,18,9203,0
+1024,Airtel,F,23,Manipur,Bangalore,838843,2020/1/6,1,141427,72,40,10552,0
+1025,Reliance Jio,F,45,Madhya Pradesh,Mumbai,832387,2020/1/6,2,113371,49,40,5060,1
+1026,Airtel,F,38,Chhattisgarh,Kolkata,554851,2020/1/6,2,78986,35,12,1828,0
+1027,Vodafone,M,64,Uttarakhand,Chennai,311833,2020/1/6,3,142054,68,31,7814,0
+1028,Vodafone,M,53,Nagaland,Bangalore,767465,2020/1/6,4,69054,58,38,3318,0
+1029,Airtel,M,29,Odisha,Kolkata,886347,2020/1/6,1,56312,20,36,-700,1
+1030,Reliance Jio,M,48,Tamil Nadu,Mumbai,520699,2020/1/6,3,71549,98,16,7522,0
+1031,Reliance Jio,M,68,Tripura,Mumbai,751461,2020/1/6,0,94925,41,23,6348,0
+1032,Airtel,M,58,Andhra Pradesh,Bangalore,845059,2020/1/6,4,129811,25,48,3952,0
+1033,Airtel,M,38,Telangana,Kolkata,588064,2020/1/6,0,143339,73,1,8910,0
+1034,Airtel,M,26,Manipur,Hyderabad,865053,2020/1/6,0,137115,3,40,5693,0
+1035,Vodafone,M,31,Odisha,Bangalore,494011,2020/1/6,1,131357,73,44,4749,0
+1036,Vodafone,F,21,Himachal Pradesh,Chennai,486754,2020/1/6,1,122093,24,49,8003,0
+1037,Airtel,M,33,Jharkhand,Hyderabad,154751,2020/1/6,2,49420,86,25,7310,0
+1038,BSNL,F,28,Telangana,Bangalore,206368,2020/1/6,4,94852,91,44,2856,0
+1039,Vodafone,M,52,Odisha,Mumbai,125248,2020/1/6,2,106047,7,36,1393,1
+1040,BSNL,M,19,Arunachal Pradesh,Chennai,945589,2020/1/6,1,99554,32,-3,4162,0
+1041,Reliance Jio,M,71,Kerala,Kolkata,291771,2020/1/6,0,82351,24,24,5672,1
+1042,Reliance Jio,F,42,Jharkhand,Mumbai,398018,2020/1/6,2,39056,44,2,6776,1
+1043,Reliance Jio,F,74,Bihar,Kolkata,833984,2020/1/6,0,106118,44,6,6329,0
+1044,Airtel,M,42,Himachal Pradesh,Delhi,326386,2020/1/6,1,86026,86,2,3517,1
+1045,Airtel,M,36,Manipur,Chennai,661001,2020/1/6,2,59118,84,46,7346,1
+1046,BSNL,F,41,Manipur,Chennai,131448,2020/1/6,4,31909,99,49,1795,0
+1047,Vodafone,F,18,Tripura,Kolkata,132981,2020/1/6,4,68858,26,20,5716,0
+1048,Vodafone,F,28,Madhya Pradesh,Chennai,759891,2020/1/6,3,53675,13,6,783,1
+1049,BSNL,M,24,Haryana,Kolkata,674036,2020/1/6,0,93585,23,18,7232,1
+1050,Airtel,M,64,Chhattisgarh,Delhi,239038,2020/1/6,4,80759,78,0,6722,0
+1051,Airtel,F,65,Rajasthan,Hyderabad,112730,2020/1/6,4,111852,58,10,10084,0
+1052,Reliance Jio,F,42,Karnataka,Hyderabad,424435,2020/1/6,0,117901,50,14,5892,0
+1053,Vodafone,M,33,Haryana,Mumbai,746734,2020/1/6,0,75247,84,43,5049,0
+1054,Airtel,M,43,Jharkhand,Delhi,144954,2020/1/6,0,85509,24,40,6781,0
+1055,Reliance Jio,F,53,Manipur,Kolkata,667231,2020/1/6,1,129517,23,7,2185,0
+1056,BSNL,M,50,Jharkhand,Chennai,751232,2020/1/6,2,40158,71,44,6252,1
+1057,BSNL,F,48,Uttar Pradesh,Delhi,557321,2020/1/6,2,93919,96,28,5162,0
+1058,BSNL,F,30,Rajasthan,Mumbai,183955,2020/1/6,2,36765,31,25,6518,0
+1059,BSNL,M,30,Maharashtra,Chennai,410024,2020/1/6,2,21704,81,50,1649,0
+1060,Vodafone,M,29,Sikkim,Kolkata,299617,2020/1/6,1,20502,26,10,3500,1
+1061,BSNL,M,61,Kerala,Bangalore,424991,2020/1/6,0,118104,32,44,6810,0
+1062,BSNL,F,22,Andhra Pradesh,Kolkata,335116,2020/1/6,1,83933,81,30,658,1
+1063,Vodafone,M,52,Rajasthan,Mumbai,686434,2020/1/6,1,147962,35,17,10407,0
+1064,Airtel,F,71,Uttarakhand,Delhi,932054,2020/1/6,1,78267,93,28,1299,0
+1065,Reliance Jio,F,35,Himachal Pradesh,Hyderabad,442451,2020/1/6,4,105916,53,45,2751,0
+1066,Airtel,F,42,Assam,Bangalore,638133,2020/1/6,3,68468,36,11,7184,1
+1067,Reliance Jio,M,73,Rajasthan,Chennai,334217,2020/1/6,4,120023,34,-3,2180,0
+1068,BSNL,F,34,Jharkhand,Bangalore,508379,2020/1/6,4,48516,35,36,4574,0
+1069,Vodafone,M,27,Tripura,Mumbai,950347,2020/1/6,3,43011,9,5,4004,0
+1070,Airtel,F,27,Jharkhand,Kolkata,772685,2020/1/6,0,133738,40,13,4866,1
+1071,BSNL,M,56,Meghalaya,Delhi,820269,2020/1/6,0,148351,98,13,7634,0
+1072,Reliance Jio,F,19,Andhra Pradesh,Bangalore,625154,2020/1/6,1,66857,63,42,6560,1
+1073,BSNL,M,27,Punjab,Bangalore,624014,2020/1/6,2,37557,21,7,7895,0
+1074,BSNL,M,26,Maharashtra,Kolkata,590583,2020/1/6,0,97337,53,3,4587,1
+1075,Vodafone,M,24,Goa,Hyderabad,965609,2020/1/6,4,140262,58,21,4539,1
+1076,Vodafone,M,53,Meghalaya,Hyderabad,569845,2020/1/6,0,74098,73,22,4914,0
+1077,Airtel,F,25,Gujarat,Kolkata,378100,2020/1/6,1,122893,29,11,5575,0
+1078,Reliance Jio,F,28,West Bengal,Mumbai,480982,2020/1/6,0,58558,36,9,3724,0
+1079,Reliance Jio,M,25,Arunachal Pradesh,Kolkata,627453,2020/1/6,0,149051,35,38,3075,1
+1080,Reliance Jio,M,41,Andhra Pradesh,Bangalore,588348,2020/1/6,4,141229,96,34,7684,0
+1081,Vodafone,F,30,Assam,Delhi,358103,2020/1/6,4,37217,33,12,4969,1
+1082,Reliance Jio,M,62,Madhya Pradesh,Mumbai,780709,2020/1/6,3,91297,50,7,1133,0
+1083,Airtel,M,40,Punjab,Mumbai,111014,2020/1/6,2,111574,67,36,2224,0
+1084,Reliance Jio,M,20,West Bengal,Kolkata,921686,2020/1/6,4,60766,43,15,4583,0
+1085,Reliance Jio,M,37,Gujarat,Delhi,801766,2020/1/6,0,68672,15,31,977,1
+1086,Reliance Jio,M,49,Rajasthan,Bangalore,285248,2020/1/6,1,131451,73,19,6714,0
+1087,Airtel,F,44,Jharkhand,Kolkata,686616,2020/1/6,1,27410,81,1,7015,1
+1088,Reliance Jio,M,49,Telangana,Kolkata,873457,2020/1/6,2,145296,2,4,3939,0
+1089,Vodafone,F,44,Andhra Pradesh,Mumbai,364082,2020/1/6,0,122754,11,41,1605,1
+1090,BSNL,F,22,Gujarat,Bangalore,139829,2020/1/6,3,140379,42,24,3936,0
+1091,Vodafone,M,70,Punjab,Chennai,145249,2020/1/6,3,75861,17,39,-80,0
+1092,Airtel,M,29,Odisha,Kolkata,513540,2020/1/6,3,116980,58,48,1989,0
+1093,Vodafone,M,19,West Bengal,Chennai,341075,2020/1/6,2,118676,41,41,5403,0
+1094,Reliance Jio,M,71,Uttar Pradesh,Hyderabad,234936,2020/1/6,2,79577,59,33,2498,0
+1095,Vodafone,M,22,Punjab,Hyderabad,666504,2020/1/6,3,117855,81,26,310,0
+1096,Airtel,M,60,Mizoram,Bangalore,285756,2020/1/6,1,71344,3,37,1157,1
+1097,Vodafone,M,52,Tripura,Delhi,659113,2020/1/6,0,123398,79,28,8691,0
+1098,Airtel,M,61,Assam,Delhi,298497,2020/1/6,1,143019,7,6,2291,0
+1099,BSNL,M,60,Haryana,Bangalore,137366,2020/1/6,2,81440,72,40,6407,1
+1100,Airtel,M,31,Uttar Pradesh,Bangalore,336133,2020/1/6,0,75483,62,26,7297,0
+1101,Airtel,M,32,Haryana,Kolkata,455773,2020/1/6,2,37519,-4,26,7647,0
+1102,BSNL,M,38,Mizoram,Hyderabad,516246,2020/1/6,3,83005,50,34,7877,0
+1103,BSNL,M,27,Tripura,Hyderabad,967732,2020/1/6,4,121788,67,51,10373,0
+1104,Vodafone,M,29,Himachal Pradesh,Chennai,334752,2020/1/6,0,134751,7,15,4029,0
+1105,Reliance Jio,F,72,Uttar Pradesh,Chennai,614108,2020/1/6,2,53594,78,39,1343,0
+1106,Reliance Jio,M,55,Himachal Pradesh,Bangalore,358919,2020/1/6,0,81157,29,30,3474,0
+1107,Reliance Jio,M,64,Meghalaya,Kolkata,843003,2020/1/6,1,114664,22,13,6074,0
+1108,Airtel,M,60,Sikkim,Delhi,979495,2020/1/6,0,33416,66,3,5969,0
+1109,Reliance Jio,M,25,Nagaland,Chennai,383990,2020/1/6,1,134351,60,7,2358,0
+1110,Vodafone,F,49,Manipur,Bangalore,859807,2020/1/6,4,47405,8,37,8597,0
+1111,Vodafone,M,63,Telangana,Hyderabad,665479,2020/1/6,0,143668,47,35,-33,1
+1112,Reliance Jio,F,22,Tamil Nadu,Bangalore,226039,2020/1/6,3,58248,86,-3,6319,0
+1113,BSNL,M,61,Bihar,Delhi,683535,2020/1/6,4,45612,77,5,8459,0
+1114,BSNL,M,18,Chhattisgarh,Delhi,993047,2020/1/6,3,129279,18,49,3681,0
+1115,Reliance Jio,M,25,Rajasthan,Kolkata,603172,2020/1/6,4,52220,18,44,3397,1
+1116,Reliance Jio,M,46,Tripura,Kolkata,697200,2020/1/6,1,98699,24,21,8743,1
+1117,Vodafone,M,58,Himachal Pradesh,Chennai,409105,2020/1/6,4,61462,37,22,3251,0
+1118,Reliance Jio,M,60,Himachal Pradesh,Kolkata,253698,2020/1/6,4,93758,90,31,1244,1
+1119,BSNL,M,52,Telangana,Kolkata,288783,2020/1/6,4,49472,35,16,6642,0
+1120,BSNL,F,26,Gujarat,Bangalore,697381,2020/1/6,3,101698,50,37,6116,0
+1121,BSNL,M,73,Uttarakhand,Bangalore,430344,2020/1/6,1,80220,70,26,9283,0
+1122,Reliance Jio,F,24,Jharkhand,Kolkata,853937,2020/1/6,3,49235,18,23,7375,0
+1123,Reliance Jio,F,36,Manipur,Delhi,300207,2020/1/6,0,126789,58,28,-132,0
+1124,Airtel,M,53,Sikkim,Kolkata,144871,2020/1/6,3,27222,76,26,7093,1
+1125,Airtel,M,70,Arunachal Pradesh,Kolkata,832803,2020/1/6,0,40966,55,6,7223,0
+1126,Airtel,M,65,Uttar Pradesh,Mumbai,270729,2020/1/6,4,92998,55,14,1099,0
+1127,Reliance Jio,F,72,Odisha,Hyderabad,814736,2020/1/6,0,25736,19,26,151,0
+1128,Vodafone,M,70,Karnataka,Mumbai,250300,2020/1/6,1,40385,69,29,3468,0
+1129,BSNL,M,71,Odisha,Delhi,549140,2020/1/6,4,100833,81,15,6611,0
+1130,Reliance Jio,F,37,Assam,Delhi,252631,2020/1/6,3,67408,82,44,5708,0
+1131,Airtel,M,47,Karnataka,Mumbai,376113,2020/1/6,4,23026,93,16,406,0
+1132,Reliance Jio,M,30,Assam,Mumbai,443839,2020/1/6,2,147379,48,37,9873,1
+1133,BSNL,F,49,Mizoram,Hyderabad,433415,2020/1/6,3,96307,12,50,7601,1
+1134,Vodafone,F,25,Goa,Kolkata,590889,2020/1/6,3,149053,28,42,4140,0
+1135,BSNL,F,40,Meghalaya,Mumbai,822709,2020/1/6,2,71942,35,41,7963,0
+1136,Vodafone,F,50,Goa,Bangalore,667164,2020/1/6,1,62595,28,3,4240,0
+1137,BSNL,M,21,Tripura,Mumbai,709839,2020/1/6,3,71102,86,12,8310,1
+1138,Reliance Jio,F,28,Punjab,Bangalore,737557,2020/1/6,0,40457,66,16,2668,1
+1139,BSNL,F,49,Nagaland,Kolkata,110506,2020/1/6,3,132026,92,45,8034,0
+1140,Reliance Jio,F,62,Arunachal Pradesh,Mumbai,791862,2020/1/6,1,37564,76,0,7292,0
+1141,BSNL,M,63,Madhya Pradesh,Chennai,860560,2020/1/6,4,120178,52,12,8731,0
+1142,Reliance Jio,F,71,Mizoram,Bangalore,598525,2020/1/6,2,135526,20,12,2460,0
+1143,BSNL,M,35,Karnataka,Chennai,906321,2020/1/6,1,53122,-1,0,1535,0
+1144,Airtel,M,38,Chhattisgarh,Bangalore,857543,2020/1/6,2,29864,37,20,2678,0
+1145,Airtel,F,34,Uttarakhand,Delhi,827601,2020/1/6,0,73986,30,-1,3117,0
+1146,BSNL,F,27,Madhya Pradesh,Kolkata,119347,2020/1/6,2,22016,63,27,6015,1
+1147,Reliance Jio,M,58,Meghalaya,Delhi,245544,2020/1/6,1,127705,74,48,3984,0
+1148,Reliance Jio,M,39,Madhya Pradesh,Mumbai,391980,2020/1/6,4,49751,59,19,3227,0
+1149,Airtel,M,38,Tripura,Delhi,267143,2020/1/6,0,111068,75,18,6625,0
+1150,BSNL,F,71,Bihar,Bangalore,562715,2020/1/6,3,146501,71,16,4028,1
+1151,Airtel,M,60,Punjab,Delhi,421479,2020/1/6,1,21188,9,9,9397,0
+1152,Vodafone,F,27,Telangana,Mumbai,111643,2020/1/6,3,104794,8,31,9740,0
+1153,Airtel,F,37,Himachal Pradesh,Mumbai,695040,2020/1/6,1,67256,32,7,6614,0
+1154,Reliance Jio,M,72,Tamil Nadu,Kolkata,379309,2020/1/6,1,69313,10,2,6276,0
+1155,Vodafone,F,49,Rajasthan,Bangalore,878206,2020/1/6,2,102101,0,11,6567,0
+1156,Vodafone,M,18,Jharkhand,Delhi,519124,2020/1/6,3,90886,13,33,9405,1
+1157,BSNL,F,29,Odisha,Kolkata,780973,2020/1/6,3,80454,58,7,5059,0
+1158,BSNL,M,41,Telangana,Chennai,185845,2020/1/6,0,97100,72,49,8417,0
+1159,Reliance Jio,F,69,Sikkim,Hyderabad,302245,2020/1/6,4,99465,70,1,14,0
+1160,Reliance Jio,F,64,Bihar,Chennai,737618,2020/1/6,1,123067,74,-2,5331,1
+1161,Vodafone,M,37,Tripura,Chennai,346237,2020/1/6,0,133325,91,22,1644,0
+1162,Airtel,M,27,Meghalaya,Hyderabad,899780,2020/1/6,2,76162,14,16,4864,0
+1163,BSNL,F,30,Goa,Delhi,705956,2020/1/6,0,122830,56,27,3465,0
+1164,Airtel,F,51,Nagaland,Kolkata,115320,2020/1/6,1,144721,66,49,9522,0
+1165,Reliance Jio,M,63,Nagaland,Bangalore,120628,2020/1/6,4,141392,22,29,8703,0
+1166,Vodafone,M,62,Madhya Pradesh,Delhi,186761,2020/1/6,4,73656,-2,35,5285,1
+1167,BSNL,M,18,Tamil Nadu,Mumbai,574898,2020/1/6,3,90821,-3,30,1118,0
+1168,Airtel,M,58,Karnataka,Kolkata,900984,2020/1/6,3,137832,37,24,2574,0
+1169,BSNL,M,46,Haryana,Hyderabad,738428,2020/1/6,0,125847,46,13,7419,1
+1170,Vodafone,F,24,Punjab,Kolkata,652659,2020/1/6,1,123256,43,36,3888,0
+1171,Reliance Jio,M,43,Madhya Pradesh,Mumbai,447904,2020/1/6,3,148242,19,31,5738,0
+1172,Vodafone,M,23,Himachal Pradesh,Mumbai,115596,2020/1/6,2,148903,87,36,6019,0
+1173,Vodafone,F,74,West Bengal,Kolkata,697363,2020/1/6,0,147774,84,-4,8768,0
+1174,Airtel,M,56,Gujarat,Bangalore,112116,2020/1/6,1,73131,75,0,7010,0
+1175,BSNL,F,20,Madhya Pradesh,Hyderabad,117700,2020/1/6,1,20938,83,8,4722,1
+1176,Reliance Jio,F,37,Meghalaya,Hyderabad,955957,2020/1/6,4,52444,59,21,1914,0
+1177,Reliance Jio,M,51,Punjab,Mumbai,151924,2020/1/6,3,54029,22,-2,5170,0
+1178,Reliance Jio,F,69,West Bengal,Hyderabad,625136,2020/1/6,4,65263,5,28,4899,1
+1179,Vodafone,F,69,Kerala,Chennai,396379,2020/1/6,0,79950,91,36,6130,0
+1180,Airtel,F,68,Uttarakhand,Bangalore,952159,2020/1/6,0,93567,17,6,4100,0
+1181,Vodafone,M,36,Uttar Pradesh,Hyderabad,400946,2020/1/6,0,128847,46,49,169,0
+1182,Reliance Jio,M,56,Bihar,Delhi,177116,2020/1/6,4,80631,76,47,9079,0
+1183,Vodafone,F,58,Arunachal Pradesh,Bangalore,209205,2020/1/6,0,145486,50,31,684,0
+1184,Vodafone,F,70,Telangana,Chennai,137052,2020/1/6,4,28955,10,12,10051,0
+1185,Airtel,F,39,Meghalaya,Mumbai,872517,2020/1/6,3,101519,11,43,7839,0
+1186,Airtel,F,42,Chhattisgarh,Mumbai,677796,2020/1/6,2,114662,58,36,2238,0
+1187,BSNL,M,22,Odisha,Chennai,444078,2020/1/6,1,35099,63,29,4582,0
+1188,BSNL,M,28,Karnataka,Hyderabad,957117,2020/1/6,2,107939,76,23,1428,0
+1189,Airtel,M,20,Karnataka,Bangalore,716674,2020/1/6,3,94141,6,39,957,0
+1190,BSNL,M,69,Telangana,Kolkata,837867,2020/1/6,2,143169,86,8,3591,0
+1191,Airtel,M,31,Madhya Pradesh,Chennai,365724,2020/1/6,0,114362,64,16,3612,0
+1192,BSNL,F,56,Andhra Pradesh,Chennai,891960,2020/1/6,2,105913,53,35,10566,0
+1193,Airtel,F,31,Karnataka,Delhi,781558,2020/1/6,3,44808,85,33,112,0
+1194,Vodafone,F,55,Odisha,Mumbai,368565,2020/1/6,0,129128,73,44,6212,0
+1195,Vodafone,F,44,Telangana,Chennai,551120,2020/1/6,4,142513,53,50,3563,0
+1196,Reliance Jio,M,20,Meghalaya,Delhi,964345,2020/1/6,0,99975,51,12,1473,0
+1197,Reliance Jio,F,42,Mizoram,Chennai,811090,2020/1/6,1,125747,22,3,8139,0
+1198,BSNL,M,74,Tripura,Delhi,788369,2020/1/6,3,97400,22,23,2458,1
+1199,Reliance Jio,M,34,Jharkhand,Chennai,937228,2020/1/6,2,41794,98,5,5607,0
+1200,BSNL,F,57,Kerala,Delhi,831736,2020/1/7,1,26637,72,6,4705,0
+1201,Airtel,F,25,Kerala,Bangalore,661389,2020/1/7,3,127659,34,20,6383,1
+1202,Vodafone,M,54,West Bengal,Hyderabad,343715,2020/1/7,3,80913,23,19,4534,0
+1203,Reliance Jio,F,59,Uttar Pradesh,Bangalore,670042,2020/1/7,0,129529,58,45,9301,0
+1204,Vodafone,M,54,Chhattisgarh,Bangalore,628178,2020/1/7,2,70116,52,11,9488,1
+1205,Airtel,M,41,Haryana,Delhi,363976,2020/1/7,0,32883,20,23,6105,0
+1206,BSNL,M,37,Bihar,Bangalore,765100,2020/1/7,3,21614,40,14,9023,1
+1207,Airtel,F,25,Kerala,Hyderabad,685708,2020/1/7,1,82176,4,17,909,0
+1208,Airtel,F,39,Gujarat,Bangalore,185942,2020/1/7,0,70668,83,27,3569,0
+1209,Airtel,M,46,Arunachal Pradesh,Bangalore,887259,2020/1/7,0,131487,93,8,5773,0
+1210,Vodafone,F,49,Gujarat,Delhi,572189,2020/1/7,3,44753,76,36,9142,0
+1211,Reliance Jio,F,45,Rajasthan,Delhi,479772,2020/1/7,1,142868,34,0,8283,0
+1212,Airtel,M,50,Mizoram,Delhi,638754,2020/1/7,4,35307,66,43,863,0
+1213,Reliance Jio,M,21,Nagaland,Kolkata,714831,2020/1/7,3,126584,14,46,5846,0
+1214,Vodafone,F,72,Maharashtra,Hyderabad,449674,2020/1/7,3,111155,11,23,1923,0
+1215,BSNL,M,28,Telangana,Delhi,364994,2020/1/7,0,68758,52,19,5654,0
+1216,Airtel,M,38,Andhra Pradesh,Delhi,197053,2020/1/7,4,124146,36,8,3752,0
+1217,Reliance Jio,M,43,Arunachal Pradesh,Bangalore,221260,2020/1/7,3,20605,52,39,3015,1
+1218,Airtel,M,19,Arunachal Pradesh,Hyderabad,634634,2020/1/7,3,46911,29,13,10256,0
+1219,Airtel,M,31,Mizoram,Bangalore,607748,2020/1/7,3,78518,90,8,2308,0
+1220,Airtel,M,65,Punjab,Kolkata,800440,2020/1/7,3,37512,12,0,2018,0
+1221,Airtel,M,38,Goa,Bangalore,724770,2020/1/7,3,67743,78,0,5027,0
+1222,Reliance Jio,M,64,Haryana,Kolkata,398615,2020/1/7,2,75579,-3,40,7838,0
+1223,Airtel,M,40,Tamil Nadu,Delhi,527179,2020/1/7,1,51352,66,23,10061,0
+1224,Reliance Jio,M,44,Uttarakhand,Chennai,222733,2020/1/7,4,98083,53,13,8826,0
+1225,Vodafone,F,29,Punjab,Chennai,202260,2020/1/7,3,129174,76,30,-592,0
+1226,BSNL,F,60,Madhya Pradesh,Hyderabad,902040,2020/1/7,4,110320,23,39,6401,1
+1227,Reliance Jio,M,49,Andhra Pradesh,Delhi,170904,2020/1/7,2,146866,72,17,5752,0
+1228,Vodafone,M,35,Odisha,Chennai,755732,2020/1/7,4,41689,72,6,2661,0
+1229,Reliance Jio,M,40,Arunachal Pradesh,Chennai,723789,2020/1/7,2,103988,74,29,989,0
+1230,Vodafone,M,37,Tripura,Chennai,419396,2020/1/7,3,71102,43,8,658,0
+1231,BSNL,M,39,Madhya Pradesh,Kolkata,556819,2020/1/7,4,28016,55,3,8138,0
+1232,BSNL,M,26,Uttarakhand,Bangalore,767552,2020/1/7,1,108634,2,39,3686,0
+1233,Vodafone,M,33,Haryana,Kolkata,155964,2020/1/7,0,142278,63,25,8893,0
+1234,BSNL,F,56,Nagaland,Kolkata,842263,2020/1/7,2,145277,7,32,8502,0
+1235,Airtel,M,34,Gujarat,Mumbai,915832,2020/1/7,1,85620,39,21,7788,0
+1236,Vodafone,F,53,Punjab,Chennai,310342,2020/1/7,4,148308,82,8,9478,0
+1237,BSNL,M,53,Madhya Pradesh,Mumbai,370973,2020/1/7,3,84599,11,44,4446,1
+1238,Reliance Jio,M,58,Bihar,Bangalore,429801,2020/1/7,0,100163,69,46,6031,1
+1239,BSNL,F,56,Jharkhand,Bangalore,660776,2020/1/7,3,62636,67,26,5645,1
+1240,BSNL,M,45,Bihar,Delhi,909303,2020/1/7,0,78929,80,25,4200,0
+1241,Reliance Jio,M,63,Andhra Pradesh,Hyderabad,989383,2020/1/7,2,116420,11,39,7755,0
+1242,BSNL,M,66,Chhattisgarh,Kolkata,251747,2020/1/7,1,70956,43,44,3394,0
+1243,BSNL,F,25,Tripura,Kolkata,912955,2020/1/7,3,108503,45,9,3832,0
+1244,BSNL,F,50,Himachal Pradesh,Hyderabad,752597,2020/1/7,0,125826,11,10,7133,1
+1245,Airtel,F,32,Meghalaya,Hyderabad,571984,2020/1/7,0,85278,70,24,1030,0
+1246,Airtel,M,33,Manipur,Hyderabad,967366,2020/1/7,4,77867,63,38,1255,0
+1247,Airtel,M,69,Karnataka,Hyderabad,280904,2020/1/7,3,129470,22,-2,4138,0
+1248,Reliance Jio,F,53,Arunachal Pradesh,Bangalore,738810,2020/1/7,0,89356,56,44,1819,0
+1249,Airtel,F,72,Nagaland,Bangalore,584622,2020/1/7,3,43163,15,9,1604,0
+1250,BSNL,F,37,Maharashtra,Bangalore,382299,2020/1/7,3,34000,59,21,8531,0
+1251,BSNL,M,53,Nagaland,Bangalore,619546,2020/1/7,0,31220,60,13,-568,0
+1252,Vodafone,F,28,Bihar,Delhi,478916,2020/1/7,3,92707,11,33,524,0
+1253,BSNL,M,49,Telangana,Mumbai,957154,2020/1/7,4,88078,57,14,380,0
+1254,Vodafone,F,42,Rajasthan,Kolkata,123097,2020/1/7,4,91317,32,32,5793,0
+1255,BSNL,M,64,Gujarat,Chennai,963706,2020/1/7,3,62667,65,4,6705,0
+1256,BSNL,M,52,Madhya Pradesh,Mumbai,255416,2020/1/7,4,78161,51,44,2764,0
+1257,Airtel,M,61,Odisha,Kolkata,389892,2020/1/7,4,82784,72,21,8488,0
+1258,Reliance Jio,M,57,Uttar Pradesh,Bangalore,935941,2020/1/7,4,100242,76,8,4746,0
+1259,Vodafone,M,67,Maharashtra,Chennai,572011,2020/1/7,0,73622,36,13,-187,0
+1260,Reliance Jio,F,26,Manipur,Chennai,593833,2020/1/7,1,89005,45,45,1365,0
+1261,Reliance Jio,M,63,Kerala,Chennai,118758,2020/1/7,4,120131,73,42,1418,0
+1262,Reliance Jio,M,71,Uttarakhand,Kolkata,243757,2020/1/7,0,109638,76,22,8241,0
+1263,Reliance Jio,M,26,Assam,Mumbai,797199,2020/1/7,4,94966,67,35,353,0
+1264,Vodafone,M,58,Assam,Chennai,517835,2020/1/7,0,59812,57,27,1855,0
+1265,Vodafone,M,70,Assam,Hyderabad,404203,2020/1/7,2,140716,59,52,8512,0
+1266,Vodafone,F,31,West Bengal,Kolkata,449620,2020/1/7,4,43332,79,46,3047,1
+1267,Airtel,M,24,Uttarakhand,Mumbai,612647,2020/1/7,3,78593,57,13,1518,0
+1268,Airtel,F,41,Telangana,Chennai,407180,2020/1/7,0,26831,64,30,7414,0
+1269,Airtel,M,63,Mizoram,Mumbai,995362,2020/1/7,2,71077,10,47,2469,0
+1270,BSNL,F,71,Odisha,Chennai,599398,2020/1/7,4,110074,44,36,4170,0
+1271,BSNL,F,72,Gujarat,Delhi,136743,2020/1/7,2,49244,63,26,8625,0
+1272,Vodafone,M,33,Haryana,Chennai,536222,2020/1/7,1,34240,68,43,8194,0
+1273,Airtel,M,55,Odisha,Chennai,646990,2020/1/7,2,78976,49,22,5587,0
+1274,BSNL,M,68,Punjab,Kolkata,182462,2020/1/7,0,67230,90,5,6432,0
+1275,BSNL,F,38,Mizoram,Chennai,991767,2020/1/7,1,123483,14,34,9711,0
+1276,Airtel,M,53,Punjab,Mumbai,400793,2020/1/7,2,117161,31,38,3093,0
+1277,Reliance Jio,M,73,Tamil Nadu,Chennai,990628,2020/1/7,2,69523,56,1,7142,0
+1278,BSNL,M,63,Himachal Pradesh,Chennai,418785,2020/1/7,3,45910,26,48,5663,0
+1279,Vodafone,M,20,Sikkim,Delhi,398768,2020/1/7,4,118482,71,6,3640,0
+1280,BSNL,M,61,Tripura,Delhi,920173,2020/1/7,2,30746,9,34,1924,0
+1281,Reliance Jio,F,51,Bihar,Bangalore,403831,2020/1/7,3,47948,79,4,4384,0
+1282,Airtel,M,68,Uttarakhand,Hyderabad,513119,2020/1/7,3,141520,77,45,8471,0
+1283,Reliance Jio,F,60,Mizoram,Bangalore,444627,2020/1/7,2,69084,54,30,9280,0
+1284,Vodafone,M,55,Bihar,Mumbai,107376,2020/1/7,0,137597,20,32,3474,0
+1285,Airtel,F,31,Andhra Pradesh,Delhi,779595,2020/1/7,3,59318,11,9,3179,0
+1286,Vodafone,F,63,Sikkim,Hyderabad,410101,2020/1/7,1,145938,41,18,1509,0
+1287,BSNL,M,71,Tripura,Kolkata,499262,2020/1/7,3,105874,13,44,8854,0
+1288,Airtel,F,37,Karnataka,Mumbai,876830,2020/1/7,4,135645,43,16,2660,0
+1289,Reliance Jio,M,40,Chhattisgarh,Bangalore,375721,2020/1/7,1,82150,31,3,9348,1
+1290,Vodafone,M,21,Gujarat,Chennai,174102,2020/1/7,4,76497,57,28,5897,0
+1291,Airtel,M,30,Rajasthan,Bangalore,442214,2020/1/7,2,81268,96,46,1299,0
+1292,Reliance Jio,M,29,Maharashtra,Delhi,482349,2020/1/7,4,141175,33,41,2756,0
+1293,Airtel,M,19,Maharashtra,Delhi,958836,2020/1/7,3,61738,26,8,34,0
+1294,Reliance Jio,M,38,Sikkim,Mumbai,994227,2020/1/7,2,49518,28,46,7062,0
+1295,Vodafone,F,46,West Bengal,Delhi,989456,2020/1/7,1,52192,89,12,3504,0
+1296,BSNL,M,53,Telangana,Chennai,735318,2020/1/7,2,72375,2,17,7759,0
+1297,Reliance Jio,M,33,Kerala,Hyderabad,606949,2020/1/7,3,76424,-1,19,4526,0
+1298,Reliance Jio,M,71,Tripura,Delhi,537313,2020/1/7,3,68224,55,34,9944,0
+1299,Reliance Jio,F,51,Meghalaya,Mumbai,552032,2020/1/7,3,84820,29,29,1281,1
+1300,Airtel,F,53,Andhra Pradesh,Hyderabad,389546,2020/1/7,0,127573,31,8,9190,0
+1301,BSNL,M,55,Bihar,Chennai,988581,2020/1/7,4,47149,-2,24,8253,0
+1302,Airtel,M,57,Assam,Delhi,412557,2020/1/7,1,88764,24,16,5456,0
+1303,BSNL,F,53,Rajasthan,Chennai,943530,2020/1/7,1,114869,26,8,7657,0
+1304,Reliance Jio,F,45,Rajasthan,Hyderabad,237150,2020/1/7,1,145195,24,43,7506,1
+1305,Reliance Jio,M,39,Odisha,Bangalore,233756,2020/1/7,1,100761,24,27,758,1
+1306,BSNL,M,73,Gujarat,Mumbai,976086,2020/1/7,3,37276,36,-2,8991,1
+1307,BSNL,F,47,Manipur,Mumbai,368555,2020/1/7,3,87350,106,12,9725,0
+1308,Airtel,F,24,Telangana,Bangalore,662964,2020/1/7,2,140174,27,33,6391,0
+1309,Vodafone,F,65,Punjab,Delhi,931289,2020/1/7,1,74361,60,5,3215,1
+1310,Reliance Jio,F,46,Tamil Nadu,Chennai,598608,2020/1/7,0,132745,0,32,8962,0
+1311,Reliance Jio,M,55,West Bengal,Bangalore,158920,2020/1/7,2,117425,78,15,1612,0
+1312,Reliance Jio,F,36,Gujarat,Mumbai,221588,2020/1/7,1,90799,11,33,7559,0
+1313,Reliance Jio,M,59,Rajasthan,Mumbai,744327,2020/1/7,4,62494,83,36,3114,0
+1314,Reliance Jio,M,41,Bihar,Kolkata,649395,2020/1/7,0,33502,61,5,10353,0
+1315,Airtel,F,20,Uttar Pradesh,Mumbai,251691,2020/1/7,3,87542,86,5,5307,0
+1316,Reliance Jio,M,74,Manipur,Chennai,194124,2020/1/7,1,100232,78,14,8928,1
+1317,Vodafone,M,36,Jharkhand,Bangalore,220664,2020/1/7,1,120722,85,20,9472,0
+1318,BSNL,M,29,Chhattisgarh,Kolkata,504880,2020/1/7,4,89087,31,40,8130,0
+1319,Reliance Jio,M,44,Tripura,Chennai,207024,2020/1/7,2,45106,55,32,2750,0
+1320,BSNL,M,62,Tripura,Kolkata,964884,2020/1/7,3,47312,75,29,779,0
+1321,Airtel,M,60,Arunachal Pradesh,Kolkata,408649,2020/1/7,0,149015,92,37,7834,0
+1322,Vodafone,F,58,Arunachal Pradesh,Mumbai,886001,2020/1/7,4,101415,4,29,9659,0
+1323,Reliance Jio,M,22,Tripura,Chennai,495232,2020/1/7,4,111509,100,30,6339,1
+1324,Airtel,M,56,Kerala,Kolkata,744508,2020/1/7,3,86027,2,42,1539,1
+1325,Airtel,M,19,Maharashtra,Kolkata,448451,2020/1/7,2,128684,5,23,4131,0
+1326,Vodafone,M,71,Jharkhand,Bangalore,786623,2020/1/7,3,37930,44,3,-103,0
+1327,Reliance Jio,M,22,Himachal Pradesh,Bangalore,975041,2020/1/7,4,55933,17,43,8919,0
+1328,Reliance Jio,F,46,Sikkim,Chennai,379848,2020/1/7,0,118388,85,35,4242,0
+1329,BSNL,M,29,Nagaland,Hyderabad,843211,2020/1/7,2,82888,42,12,4182,1
+1330,Airtel,F,55,Chhattisgarh,Chennai,592749,2020/1/7,1,55468,33,7,6044,1
+1331,Airtel,M,62,Meghalaya,Bangalore,602699,2020/1/7,2,143764,57,-3,5018,0
+1332,Vodafone,M,28,Assam,Hyderabad,339650,2020/1/7,3,72771,37,43,4000,0
+1333,BSNL,M,67,Haryana,Delhi,175243,2020/1/7,0,141304,27,34,2363,0
+1334,Airtel,M,25,Rajasthan,Kolkata,774710,2020/1/7,0,30878,98,23,3958,1
+1335,Reliance Jio,M,58,Jharkhand,Chennai,519074,2020/1/7,3,37910,65,37,8828,0
+1336,BSNL,F,29,Arunachal Pradesh,Mumbai,521525,2020/1/7,2,124703,30,5,4124,0
+1337,Airtel,F,54,Meghalaya,Delhi,656312,2020/1/7,0,144327,57,31,7372,0
+1338,Vodafone,M,64,Bihar,Bangalore,562663,2020/1/7,3,50027,106,40,3947,0
+1339,Vodafone,F,36,Mizoram,Bangalore,501722,2020/1/7,4,130900,50,7,4787,0
+1340,BSNL,F,19,Manipur,Hyderabad,868719,2020/1/7,4,32033,36,29,5577,0
+1341,Vodafone,F,59,Himachal Pradesh,Hyderabad,705528,2020/1/7,2,61058,58,43,1409,0
+1342,Airtel,M,30,Uttarakhand,Chennai,354110,2020/1/7,4,139146,22,23,9158,1
+1343,Airtel,M,32,Meghalaya,Hyderabad,182258,2020/1/7,1,38449,69,2,4096,0
+1344,BSNL,M,28,West Bengal,Hyderabad,599815,2020/1/7,4,142106,1,29,7340,1
+1345,Reliance Jio,M,19,Bihar,Delhi,510130,2020/1/7,2,21851,11,36,8770,0
+1346,Vodafone,M,36,Punjab,Hyderabad,685746,2020/1/7,4,55718,80,41,4980,1
+1347,Airtel,M,52,West Bengal,Bangalore,781673,2020/1/7,2,23797,11,26,5006,0
+1348,Reliance Jio,F,70,Assam,Delhi,894514,2020/1/7,1,137300,107,30,8354,0
+1349,BSNL,M,27,Gujarat,Hyderabad,379530,2020/1/7,0,138246,32,29,5191,1
+1350,Reliance Jio,M,61,Chhattisgarh,Delhi,388813,2020/1/7,1,86819,73,31,5385,0
+1351,Vodafone,M,29,Uttar Pradesh,Bangalore,853603,2020/1/7,4,103865,49,5,9939,0
+1352,Reliance Jio,F,53,Rajasthan,Chennai,943930,2020/1/7,0,80480,34,41,7858,0
+1353,Reliance Jio,F,19,Madhya Pradesh,Delhi,475472,2020/1/7,1,124188,61,43,87,0
+1354,BSNL,F,20,Jharkhand,Chennai,767023,2020/1/7,3,24722,74,44,6315,0
+1355,Airtel,M,26,Haryana,Bangalore,140373,2020/1/7,0,133983,73,16,3850,1
+1356,Airtel,F,54,Manipur,Mumbai,252066,2020/1/7,2,96862,66,7,1087,1
+1357,Vodafone,F,70,Kerala,Mumbai,200106,2020/1/7,2,68853,3,34,648,0
+1358,BSNL,F,61,Sikkim,Mumbai,230982,2020/1/7,2,101384,9,37,4417,0
+1359,Vodafone,M,74,Punjab,Hyderabad,305695,2020/1/7,4,43175,89,16,1448,0
+1360,BSNL,F,68,Chhattisgarh,Bangalore,156673,2020/1/7,0,144335,-5,0,8216,0
+1361,BSNL,F,71,Punjab,Bangalore,211620,2020/1/7,1,83282,0,26,7053,0
+1362,BSNL,F,49,Meghalaya,Hyderabad,498385,2020/1/7,1,121562,19,7,6480,0
+1363,Airtel,M,69,Maharashtra,Hyderabad,736616,2020/1/7,4,119913,66,1,1524,0
+1364,Reliance Jio,M,50,Sikkim,Hyderabad,129089,2020/1/7,3,91062,30,35,1774,1
+1365,BSNL,F,67,Telangana,Kolkata,673421,2020/1/7,3,114292,98,49,3558,0
+1366,Airtel,M,24,Tamil Nadu,Kolkata,647742,2020/1/7,3,90356,41,20,7549,0
+1367,Reliance Jio,F,31,Manipur,Kolkata,658486,2020/1/7,1,61325,13,46,1595,0
+1368,BSNL,F,58,Haryana,Hyderabad,408270,2020/1/7,1,61074,68,15,6315,0
+1369,Airtel,F,53,Jharkhand,Kolkata,331427,2020/1/7,1,127106,59,14,10680,0
+1370,BSNL,M,40,Sikkim,Bangalore,664913,2020/1/7,4,30067,64,1,6656,0
+1371,Airtel,F,46,Maharashtra,Hyderabad,844575,2020/1/7,3,132556,71,26,6174,0
+1372,Vodafone,M,40,Kerala,Kolkata,948032,2020/1/7,3,118920,63,52,10141,0
+1373,Reliance Jio,M,57,Arunachal Pradesh,Kolkata,221814,2020/1/7,4,123858,38,3,6469,0
+1374,Reliance Jio,F,27,Bihar,Delhi,802621,2020/1/7,1,93442,89,21,2317,1
+1375,Reliance Jio,F,67,Assam,Bangalore,991634,2020/1/7,3,123987,93,16,4051,0
+1376,Airtel,F,73,Karnataka,Delhi,148627,2020/1/7,0,145298,85,2,5919,0
+1377,Airtel,M,30,Gujarat,Delhi,564881,2020/1/7,3,67580,85,19,9646,0
+1378,Airtel,F,45,Meghalaya,Kolkata,428348,2020/1/7,1,148243,23,40,7442,0
+1379,Vodafone,M,22,Uttar Pradesh,Delhi,753930,2020/1/7,1,110766,7,37,8373,0
+1380,Vodafone,M,55,Karnataka,Hyderabad,863130,2020/1/7,2,83844,32,49,7781,0
+1381,Airtel,F,68,Nagaland,Chennai,761986,2020/1/7,1,137412,41,27,6784,0
+1382,Vodafone,M,48,Tripura,Bangalore,604225,2020/1/7,3,91462,72,3,3472,1
+1383,Airtel,M,71,Goa,Mumbai,693165,2020/1/7,0,146522,5,29,8411,0
+1384,Airtel,M,69,Rajasthan,Chennai,979855,2020/1/7,1,56501,59,19,8941,0
+1385,Reliance Jio,M,59,Meghalaya,Bangalore,540308,2020/1/7,2,78183,45,21,8299,0
+1386,Vodafone,M,19,Arunachal Pradesh,Bangalore,979462,2020/1/7,3,144657,61,24,8931,1
+1387,Reliance Jio,M,22,Punjab,Chennai,532704,2020/1/7,3,112134,44,41,9047,1
+1388,Vodafone,F,31,Chhattisgarh,Kolkata,772410,2020/1/7,4,112260,79,30,1055,0
+1389,BSNL,M,29,Meghalaya,Bangalore,762573,2020/1/7,2,66442,52,5,7280,0
+1390,Vodafone,F,73,Gujarat,Chennai,532073,2020/1/7,0,106842,71,10,5048,1
+1391,Reliance Jio,M,27,Punjab,Bangalore,761441,2020/1/7,1,106167,49,11,6382,0
+1392,Airtel,M,70,Andhra Pradesh,Kolkata,659199,2020/1/7,4,22161,91,29,6135,1
+1393,Airtel,F,61,Assam,Mumbai,703151,2020/1/7,1,116788,7,44,1152,0
+1394,Airtel,M,27,Punjab,Mumbai,272371,2020/1/7,3,118307,92,12,8526,0
+1395,Airtel,F,40,Punjab,Mumbai,589592,2020/1/7,3,41101,7,5,8511,1
+1396,Airtel,M,49,Goa,Mumbai,292700,2020/1/7,1,36662,81,42,6035,0
+1397,BSNL,F,71,Rajasthan,Mumbai,177827,2020/1/7,3,73732,36,28,3350,0
+1398,Reliance Jio,F,60,Himachal Pradesh,Bangalore,833866,2020/1/7,2,131410,88,36,1887,0
+1399,Vodafone,F,34,Goa,Kolkata,988095,2020/1/7,4,39452,83,6,9110,0
+1400,Airtel,F,27,Punjab,Chennai,821389,2020/1/8,0,76963,58,26,7207,0
+1401,Airtel,F,74,Arunachal Pradesh,Mumbai,523780,2020/1/8,4,21073,24,16,2504,0
+1402,Vodafone,F,47,Jharkhand,Chennai,162927,2020/1/8,1,24199,20,37,7667,0
+1403,BSNL,M,61,Uttarakhand,Chennai,819394,2020/1/8,1,104203,60,19,1851,0
+1404,Vodafone,M,24,Assam,Mumbai,447573,2020/1/8,3,115722,89,39,2990,1
+1405,BSNL,M,21,Andhra Pradesh,Delhi,673404,2020/1/8,2,88369,3,27,8120,1
+1406,Reliance Jio,F,63,Andhra Pradesh,Kolkata,981564,2020/1/8,4,107316,85,2,5509,0
+1407,Reliance Jio,M,33,Tripura,Kolkata,854341,2020/1/8,2,127876,77,8,2779,1
+1408,Airtel,M,66,Tripura,Hyderabad,552668,2020/1/8,3,23971,59,42,7432,1
+1409,Airtel,M,22,West Bengal,Delhi,523609,2020/1/8,1,42267,100,21,1108,0
+1410,BSNL,F,66,Uttarakhand,Chennai,808501,2020/1/8,0,97442,47,39,7817,0
+1411,BSNL,M,60,Manipur,Chennai,723034,2020/1/8,2,51471,13,18,2106,0
+1412,Vodafone,M,34,Uttarakhand,Hyderabad,349809,2020/1/8,3,58103,55,18,1275,0
+1413,Vodafone,M,25,Mizoram,Bangalore,972543,2020/1/8,4,134455,58,19,3217,0
+1414,Vodafone,F,38,Haryana,Chennai,704588,2020/1/8,3,147303,28,45,4318,0
+1415,Reliance Jio,M,18,Jharkhand,Hyderabad,288535,2020/1/8,2,125583,73,3,3349,0
+1416,Vodafone,M,57,Bihar,Kolkata,329054,2020/1/8,2,110259,75,30,10155,0
+1417,Reliance Jio,F,18,Haryana,Hyderabad,366912,2020/1/8,3,137652,82,30,1064,0
+1418,Vodafone,F,18,Sikkim,Chennai,467895,2020/1/8,4,31080,35,15,1349,1
+1419,Vodafone,F,56,Tripura,Bangalore,756156,2020/1/8,2,20756,34,31,3719,1
+1420,Airtel,M,19,Tamil Nadu,Kolkata,736825,2020/1/8,4,61670,10,44,2572,0
+1421,BSNL,M,60,Telangana,Chennai,883662,2020/1/8,1,130768,62,10,4833,0
+1422,BSNL,M,20,Andhra Pradesh,Chennai,773558,2020/1/8,0,79477,90,34,1732,0
+1423,Airtel,F,67,Mizoram,Hyderabad,366771,2020/1/8,2,134899,22,38,7426,0
+1424,Reliance Jio,M,68,Telangana,Chennai,468473,2020/1/8,0,26148,86,20,4385,0
+1425,Vodafone,M,24,Andhra Pradesh,Delhi,354151,2020/1/8,0,60020,85,42,2399,0
+1426,Reliance Jio,M,21,Chhattisgarh,Bangalore,968690,2020/1/8,3,47717,40,43,3765,0
+1427,Airtel,M,58,Uttarakhand,Bangalore,964462,2020/1/8,1,44661,99,7,8502,0
+1428,BSNL,M,51,Tripura,Hyderabad,817234,2020/1/8,3,80552,65,36,6011,0
+1429,Reliance Jio,F,26,Odisha,Hyderabad,700655,2020/1/8,4,54999,90,42,8342,0
+1430,Reliance Jio,M,46,Haryana,Mumbai,930202,2020/1/8,1,26661,82,40,8733,0
+1431,Vodafone,M,62,Karnataka,Kolkata,639990,2020/1/8,1,62013,34,45,2945,0
+1432,Reliance Jio,M,54,Uttar Pradesh,Bangalore,191480,2020/1/8,0,65860,74,26,6090,0
+1433,Vodafone,M,43,Jharkhand,Hyderabad,454736,2020/1/8,0,143320,44,31,1211,0
+1434,BSNL,M,56,Punjab,Delhi,491612,2020/1/8,2,143001,74,44,3631,0
+1435,BSNL,M,19,Maharashtra,Hyderabad,660899,2020/1/8,3,87431,9,40,10390,0
+1436,BSNL,M,53,Meghalaya,Delhi,770068,2020/1/8,3,136654,32,26,2847,0
+1437,BSNL,M,28,Bihar,Bangalore,313190,2020/1/8,4,23363,12,37,2185,0
+1438,Vodafone,M,61,Arunachal Pradesh,Hyderabad,550857,2020/1/8,4,114090,32,-5,1400,0
+1439,BSNL,M,55,Meghalaya,Bangalore,905649,2020/1/8,0,44450,86,26,1283,0
+1440,Reliance Jio,F,29,Chhattisgarh,Delhi,608062,2020/1/8,2,70221,105,47,6033,0
+1441,BSNL,M,64,Mizoram,Delhi,410881,2020/1/8,4,35421,89,13,3549,0
+1442,Airtel,M,53,Punjab,Bangalore,638610,2020/1/8,1,138349,100,44,1407,0
+1443,BSNL,F,43,Gujarat,Bangalore,339245,2020/1/8,3,68939,4,9,8880,0
+1444,BSNL,F,35,Karnataka,Bangalore,923419,2020/1/8,4,107620,-7,38,2740,0
+1445,Reliance Jio,M,66,Nagaland,Mumbai,321778,2020/1/8,0,69249,96,44,8230,0
+1446,Reliance Jio,F,44,Andhra Pradesh,Hyderabad,886299,2020/1/8,4,84853,14,37,4106,0
+1447,BSNL,F,23,Jharkhand,Kolkata,379564,2020/1/8,2,105557,47,27,4963,1
+1448,Reliance Jio,M,72,Mizoram,Bangalore,338550,2020/1/8,3,103617,37,46,4577,0
+1449,Airtel,F,44,Arunachal Pradesh,Chennai,812707,2020/1/8,4,117665,77,8,1599,0
+1450,Airtel,M,47,Jharkhand,Hyderabad,366424,2020/1/8,4,138998,42,1,1508,0
+1451,Airtel,M,18,Nagaland,Bangalore,170231,2020/1/8,2,116321,56,4,4956,1
+1452,BSNL,F,72,Himachal Pradesh,Chennai,976650,2020/1/8,0,127858,32,31,1317,0
+1453,Vodafone,F,43,Manipur,Chennai,960315,2020/1/8,3,132471,81,44,8649,0
+1454,BSNL,M,51,Goa,Hyderabad,482484,2020/1/8,4,84565,28,10,4246,0
+1455,Vodafone,F,56,Madhya Pradesh,Mumbai,307255,2020/1/8,0,21797,42,25,6489,0
+1456,Vodafone,M,47,Tamil Nadu,Hyderabad,454549,2020/1/8,0,143655,23,48,5924,0
+1457,Vodafone,F,53,Rajasthan,Chennai,143802,2020/1/8,0,96427,8,25,1357,1
+1458,Reliance Jio,M,49,Odisha,Chennai,266768,2020/1/8,0,95021,69,5,4300,0
+1459,Vodafone,M,37,Arunachal Pradesh,Kolkata,920456,2020/1/8,2,43350,5,46,2822,0
+1460,Reliance Jio,M,70,Sikkim,Chennai,431977,2020/1/8,1,126769,42,7,6806,1
+1461,Vodafone,M,21,Uttar Pradesh,Delhi,635395,2020/1/8,3,76064,57,50,8064,1
+1462,BSNL,M,70,Odisha,Delhi,966041,2020/1/8,1,136917,4,26,2758,0
+1463,Reliance Jio,F,21,Bihar,Chennai,745917,2020/1/8,2,38493,10,31,5299,1
+1464,Airtel,F,59,Bihar,Bangalore,629642,2020/1/8,4,66010,9,35,1021,0
+1465,Vodafone,M,38,Tamil Nadu,Mumbai,650103,2020/1/8,1,99836,97,27,7312,0
+1466,Vodafone,F,41,Odisha,Chennai,162094,2020/1/8,4,30377,3,21,5888,0
+1467,Airtel,M,65,Rajasthan,Hyderabad,146126,2020/1/8,0,98391,61,24,9917,0
+1468,Vodafone,M,25,Kerala,Chennai,607639,2020/1/8,2,38956,39,24,1530,0
+1469,Vodafone,F,74,Himachal Pradesh,Bangalore,191990,2020/1/8,1,90398,77,41,661,0
+1470,Vodafone,F,73,Himachal Pradesh,Bangalore,620313,2020/1/8,1,55194,70,24,667,0
+1471,Airtel,F,64,Chhattisgarh,Kolkata,921527,2020/1/8,0,114485,20,47,-46,0
+1472,BSNL,M,57,Maharashtra,Mumbai,848471,2020/1/8,1,26299,1,15,3421,0
+1473,Vodafone,F,24,Nagaland,Chennai,100665,2020/1/8,2,42914,5,22,7130,0
+1474,Reliance Jio,M,45,Mizoram,Kolkata,598569,2020/1/8,1,37638,82,12,1816,0
+1475,BSNL,M,47,Mizoram,Bangalore,629762,2020/1/8,2,50743,65,41,5797,0
+1476,BSNL,M,57,Mizoram,Bangalore,795742,2020/1/8,0,108505,7,21,3207,0
+1477,BSNL,M,23,Uttar Pradesh,Chennai,285541,2020/1/8,0,122956,58,24,4303,1
+1478,Vodafone,F,42,Himachal Pradesh,Hyderabad,830350,2020/1/8,2,87743,24,3,2694,0
+1479,Vodafone,M,27,Sikkim,Chennai,166622,2020/1/8,2,115682,80,1,7342,0
+1480,Reliance Jio,F,60,Meghalaya,Bangalore,188554,2020/1/8,3,29102,78,7,583,1
+1481,Vodafone,F,41,Haryana,Delhi,907777,2020/1/8,4,51344,52,19,7779,0
+1482,Airtel,F,37,Manipur,Chennai,589689,2020/1/8,2,63810,41,19,10240,0
+1483,Reliance Jio,M,18,Telangana,Bangalore,718276,2020/1/8,4,35780,50,35,6654,1
+1484,Airtel,M,64,Nagaland,Bangalore,587173,2020/1/8,2,75415,44,40,8645,1
+1485,Reliance Jio,M,52,Chhattisgarh,Delhi,653348,2020/1/8,1,40468,9,10,5573,0
+1486,Vodafone,M,56,Tamil Nadu,Kolkata,818218,2020/1/8,4,61182,97,25,8688,0
+1487,Reliance Jio,M,64,Manipur,Mumbai,225413,2020/1/8,0,112780,52,26,5695,0
+1488,BSNL,M,33,Haryana,Mumbai,417282,2020/1/8,3,136175,45,13,9418,1
+1489,Reliance Jio,M,66,Haryana,Bangalore,143109,2020/1/8,0,70369,60,15,409,1
+1490,Vodafone,F,33,Haryana,Delhi,565138,2020/1/8,1,61938,35,3,1161,0
+1491,BSNL,M,64,Madhya Pradesh,Bangalore,140147,2020/1/8,1,145003,76,38,-21,1
+1492,BSNL,M,64,Assam,Hyderabad,485763,2020/1/8,4,41981,23,33,9706,0
+1493,Airtel,M,50,Haryana,Chennai,911314,2020/1/8,2,81124,9,25,9170,0
+1494,Airtel,M,36,Jharkhand,Bangalore,908405,2020/1/8,1,108030,78,37,2379,0
+1495,Reliance Jio,M,50,Gujarat,Mumbai,688869,2020/1/8,2,25697,70,28,9031,0
+1496,Reliance Jio,F,20,Jharkhand,Kolkata,871556,2020/1/8,2,94078,93,30,3327,0
+1497,Airtel,F,37,Sikkim,Hyderabad,750444,2020/1/8,4,96842,2,1,3443,0
+1498,Vodafone,F,22,Uttarakhand,Kolkata,222968,2020/1/8,0,129905,80,5,6882,0
+1499,Airtel,F,44,Meghalaya,Mumbai,917328,2020/1/8,4,61176,79,6,2748,1
+1500,Reliance Jio,M,47,Tripura,Bangalore,812150,2020/1/8,1,122787,31,21,3432,1
+1501,Airtel,M,70,Uttar Pradesh,Mumbai,506994,2020/1/8,1,40310,83,48,3923,0
+1502,Airtel,M,18,Uttarakhand,Bangalore,319458,2020/1/8,3,77381,46,21,2470,0
+1503,Airtel,F,29,Karnataka,Delhi,909213,2020/1/8,4,41935,77,3,6300,0
+1504,BSNL,M,68,Meghalaya,Kolkata,385034,2020/1/8,2,35121,1,8,5869,0
+1505,Reliance Jio,M,70,Tripura,Bangalore,914702,2020/1/8,4,99057,66,33,3140,0
+1506,Vodafone,F,61,Nagaland,Bangalore,805924,2020/1/8,1,100164,87,8,8192,0
+1507,BSNL,F,72,Mizoram,Kolkata,629200,2020/1/8,3,148620,43,44,9451,1
+1508,Vodafone,M,35,Telangana,Delhi,851655,2020/1/8,3,21593,60,18,517,0
+1509,Vodafone,M,26,Kerala,Mumbai,867255,2020/1/8,0,92730,51,29,978,0
+1510,Airtel,M,43,Manipur,Kolkata,117599,2020/1/8,1,144804,67,10,6557,1
+1511,Vodafone,F,32,Goa,Chennai,620111,2020/1/8,4,90907,40,8,7555,0
+1512,Vodafone,F,42,Chhattisgarh,Bangalore,625311,2020/1/8,0,20658,79,31,2501,1
+1513,Reliance Jio,M,41,Mizoram,Bangalore,619289,2020/1/8,3,111103,4,21,1562,0
+1514,Airtel,M,31,Bihar,Delhi,592937,2020/1/8,2,88591,56,24,7354,1
+1515,BSNL,M,41,Haryana,Chennai,125311,2020/1/8,4,70402,88,32,3355,0
+1516,Reliance Jio,F,30,Chhattisgarh,Hyderabad,942195,2020/1/8,1,59508,15,39,3757,1
+1517,Airtel,M,48,Sikkim,Mumbai,430792,2020/1/8,4,33550,92,19,158,0
+1518,Reliance Jio,F,24,Tamil Nadu,Bangalore,735922,2020/1/8,4,123939,65,29,49,0
+1519,BSNL,F,24,Mizoram,Hyderabad,638145,2020/1/8,1,135597,19,-1,8137,1
+1520,Vodafone,M,32,Rajasthan,Delhi,899287,2020/1/8,4,44315,57,0,2852,0
+1521,Airtel,M,52,Maharashtra,Chennai,850511,2020/1/8,2,58619,61,10,4455,1
+1522,BSNL,F,73,Tamil Nadu,Kolkata,971385,2020/1/8,0,56793,14,17,1428,0
+1523,BSNL,F,72,Nagaland,Delhi,418019,2020/1/8,4,20014,48,39,9608,1
+1524,Reliance Jio,M,19,Tamil Nadu,Bangalore,501403,2020/1/8,2,141136,26,22,8192,0
+1525,Reliance Jio,M,43,Punjab,Hyderabad,503179,2020/1/8,0,97651,20,23,5109,0
+1526,Vodafone,M,39,Uttar Pradesh,Bangalore,882433,2020/1/8,1,81624,71,31,9633,0
+1527,Airtel,F,22,Goa,Bangalore,753165,2020/1/8,4,98794,90,-1,1916,0
+1528,Airtel,F,74,Bihar,Delhi,719908,2020/1/8,0,47460,0,32,3658,0
+1529,Vodafone,F,36,Andhra Pradesh,Bangalore,632922,2020/1/8,3,57123,68,35,4514,1
+1530,BSNL,M,66,Maharashtra,Hyderabad,244309,2020/1/8,4,90842,69,1,6117,0
+1531,Reliance Jio,F,65,Tripura,Chennai,621245,2020/1/8,4,95467,89,12,3496,1
+1532,Reliance Jio,M,73,Jharkhand,Mumbai,503343,2020/1/8,1,66871,17,44,2886,1
+1533,Vodafone,F,43,Maharashtra,Delhi,200990,2020/1/8,0,45224,11,43,5539,1
+1534,Airtel,F,29,Punjab,Chennai,896897,2020/1/8,3,95757,22,23,5261,1
+1535,Airtel,M,45,Rajasthan,Delhi,760804,2020/1/8,2,25499,77,36,1027,1
+1536,Vodafone,M,62,West Bengal,Chennai,758607,2020/1/8,2,133436,29,15,6183,0
+1537,Reliance Jio,F,25,Tamil Nadu,Mumbai,734752,2020/1/8,0,131078,40,48,5698,1
+1538,BSNL,M,21,Goa,Chennai,471279,2020/1/8,3,126297,12,19,1193,0
+1539,Vodafone,M,56,Assam,Mumbai,934208,2020/1/8,1,129251,46,24,1911,1
+1540,Reliance Jio,M,20,Telangana,Delhi,632102,2020/1/8,2,66744,17,7,41,0
+1541,BSNL,F,50,Gujarat,Delhi,261934,2020/1/8,4,117002,18,3,8404,0
+1542,Vodafone,M,43,Assam,Delhi,786719,2020/1/8,3,123666,81,24,9524,0
+1543,Vodafone,F,35,Bihar,Delhi,762519,2020/1/8,3,131328,54,24,215,1
+1544,BSNL,F,38,Rajasthan,Delhi,704638,2020/1/8,1,97953,25,46,5586,0
+1545,Vodafone,M,29,Uttar Pradesh,Delhi,695625,2020/1/8,0,134980,73,26,7260,0
+1546,Vodafone,M,23,Bihar,Chennai,130360,2020/1/8,4,52657,76,9,8450,0
+1547,Vodafone,F,30,Kerala,Delhi,913105,2020/1/8,3,103889,77,9,5353,0
+1548,Vodafone,F,19,Sikkim,Hyderabad,767511,2020/1/8,4,136215,67,46,10041,0
+1549,Airtel,F,34,Telangana,Kolkata,689803,2020/1/8,0,94110,32,5,4123,0
+1550,BSNL,M,70,Jharkhand,Kolkata,291548,2020/1/8,3,34808,16,28,5007,0
+1551,BSNL,F,46,Mizoram,Kolkata,904870,2020/1/8,2,58107,51,41,1231,0
+1552,Airtel,M,37,Kerala,Bangalore,307180,2020/1/8,0,66369,52,49,1076,0
+1553,Vodafone,M,36,Bihar,Hyderabad,980995,2020/1/8,3,111317,57,13,8713,0
+1554,Reliance Jio,M,55,Kerala,Mumbai,462406,2020/1/8,0,61383,77,9,547,1
+1555,Vodafone,F,30,Meghalaya,Bangalore,574721,2020/1/8,4,48530,81,-3,7400,0
+1556,Reliance Jio,M,68,Chhattisgarh,Hyderabad,589713,2020/1/8,3,76940,36,52,6647,0
+1557,Airtel,M,38,Uttarakhand,Mumbai,928195,2020/1/8,0,28070,78,38,2043,0
+1558,BSNL,M,62,Manipur,Delhi,578538,2020/1/8,2,146257,49,2,6154,0
+1559,BSNL,M,35,Chhattisgarh,Mumbai,115004,2020/1/8,3,42945,32,42,-651,1
+1560,Airtel,F,43,Madhya Pradesh,Kolkata,597369,2020/1/8,3,135516,33,35,5811,0
+1561,Airtel,M,24,Andhra Pradesh,Chennai,677646,2020/1/8,1,34550,80,24,4445,0
+1562,Vodafone,M,71,Tamil Nadu,Hyderabad,465904,2020/1/8,1,103945,12,20,264,0
+1563,Reliance Jio,M,29,Telangana,Kolkata,754250,2020/1/8,4,61502,47,33,1470,0
+1564,Airtel,M,47,Kerala,Hyderabad,370594,2020/1/8,0,53410,7,25,10005,0
+1565,Reliance Jio,F,52,Himachal Pradesh,Chennai,343680,2020/1/8,0,91160,44,30,5996,1
+1566,Airtel,F,61,Punjab,Chennai,890438,2020/1/8,0,109368,92,42,5134,0
+1567,Vodafone,F,24,Jharkhand,Bangalore,207240,2020/1/8,2,63350,74,41,6817,1
+1568,Airtel,F,62,Tripura,Delhi,479323,2020/1/8,0,27749,27,6,9041,0
+1569,BSNL,F,62,Sikkim,Mumbai,402825,2020/1/8,4,71888,60,21,2186,0
+1570,Reliance Jio,M,65,Haryana,Delhi,956601,2020/1/8,1,100110,78,49,2052,0
+1571,Airtel,F,43,Meghalaya,Mumbai,872686,2020/1/8,1,139388,22,17,8814,0
+1572,BSNL,M,18,Jharkhand,Mumbai,615827,2020/1/8,3,65451,19,46,1393,0
+1573,BSNL,F,19,Odisha,Delhi,687532,2020/1/8,3,21741,74,42,7465,0
+1574,Reliance Jio,M,51,Tripura,Mumbai,494485,2020/1/8,1,149073,69,24,7260,0
+1575,BSNL,M,72,Gujarat,Mumbai,905658,2020/1/8,1,65438,18,12,6891,1
+1576,Airtel,F,53,Manipur,Bangalore,158787,2020/1/8,0,111408,81,45,1654,0
+1577,BSNL,F,66,Uttarakhand,Kolkata,403891,2020/1/8,0,29573,9,28,1564,0
+1578,Reliance Jio,M,27,West Bengal,Delhi,242586,2020/1/8,0,134564,49,41,5308,0
+1579,Airtel,M,66,Meghalaya,Mumbai,190639,2020/1/8,1,23525,96,-5,9076,0
+1580,Reliance Jio,M,30,Maharashtra,Bangalore,558297,2020/1/8,1,23509,63,43,1068,0
+1581,Airtel,M,59,Bihar,Bangalore,813931,2020/1/8,0,88326,59,5,5121,0
+1582,BSNL,F,31,Chhattisgarh,Hyderabad,685378,2020/1/8,4,136548,66,25,3799,0
+1583,Airtel,M,41,Uttar Pradesh,Kolkata,164747,2020/1/8,3,66793,77,20,1655,0
+1584,Reliance Jio,F,58,Telangana,Mumbai,988953,2020/1/8,3,30263,80,30,1150,1
+1585,Vodafone,F,68,Goa,Kolkata,146024,2020/1/8,3,54191,81,30,1357,0
+1586,Vodafone,F,21,Uttar Pradesh,Mumbai,484244,2020/1/8,2,32440,18,40,1673,0
+1587,BSNL,M,30,Rajasthan,Kolkata,624708,2020/1/8,3,89507,66,7,9207,0
+1588,Airtel,M,67,Jharkhand,Chennai,562577,2020/1/8,0,104807,96,0,3275,0
+1589,Reliance Jio,F,33,Uttarakhand,Bangalore,636293,2020/1/8,3,38493,30,1,2516,0
+1590,Reliance Jio,M,31,Odisha,Mumbai,754505,2020/1/8,0,114389,73,8,3078,0
+1591,Vodafone,F,74,Jharkhand,Chennai,539507,2020/1/8,3,133557,44,41,3370,1
+1592,BSNL,F,57,Assam,Mumbai,981917,2020/1/8,0,64687,15,19,7037,0
+1593,Vodafone,F,49,Punjab,Bangalore,975746,2020/1/8,4,109873,43,8,1707,0
+1594,BSNL,M,35,West Bengal,Mumbai,665317,2020/1/8,2,46364,20,19,1961,1
+1595,Vodafone,M,63,Goa,Bangalore,876137,2020/1/8,4,48425,7,-1,4094,1
+1596,Reliance Jio,M,61,Assam,Hyderabad,322869,2020/1/8,4,40953,64,43,-16,1
+1597,Airtel,F,44,Kerala,Kolkata,101280,2020/1/8,2,101489,104,38,8133,0
+1598,Airtel,M,56,Jharkhand,Bangalore,103633,2020/1/8,4,85040,17,23,2323,0
+1599,Airtel,M,25,Jharkhand,Chennai,150109,2020/1/8,1,133956,41,35,7877,0
+1600,Vodafone,F,62,Uttarakhand,Bangalore,431515,2020/1/9,4,41520,27,28,623,0
+1601,Airtel,F,46,Sikkim,Delhi,608809,2020/1/9,1,84293,71,0,9581,0
+1602,BSNL,M,73,Goa,Chennai,470861,2020/1/9,0,84699,38,27,4088,0
+1603,Reliance Jio,F,46,Meghalaya,Delhi,497142,2020/1/9,2,112795,17,11,3145,0
+1604,BSNL,M,72,Tamil Nadu,Mumbai,675840,2020/1/9,3,27348,44,6,9994,0
+1605,Vodafone,M,18,Meghalaya,Bangalore,746840,2020/1/9,0,109243,48,20,6876,0
+1606,BSNL,M,62,Jharkhand,Hyderabad,786947,2020/1/9,4,61855,90,19,9420,0
+1607,Airtel,M,64,Bihar,Chennai,104744,2020/1/9,0,68322,51,26,9132,0
+1608,Airtel,F,37,Tripura,Mumbai,594148,2020/1/9,2,26758,33,29,1802,0
+1609,Vodafone,M,50,Chhattisgarh,Hyderabad,768242,2020/1/9,3,54535,45,25,367,1
+1610,Airtel,M,26,Goa,Chennai,237757,2020/1/9,1,53192,81,28,9909,1
+1611,Airtel,M,24,Chhattisgarh,Kolkata,460034,2020/1/9,1,126809,60,28,3845,0
+1612,Reliance Jio,F,38,Telangana,Chennai,320078,2020/1/9,2,58060,46,5,2261,0
+1613,BSNL,F,70,Uttarakhand,Bangalore,461374,2020/1/9,0,105304,43,44,6992,0
+1614,Reliance Jio,F,55,Sikkim,Kolkata,578167,2020/1/9,1,133302,71,9,7035,0
+1615,Airtel,M,45,Telangana,Hyderabad,586263,2020/1/9,0,86561,60,18,6725,0
+1616,BSNL,M,69,Bihar,Hyderabad,535579,2020/1/9,4,32777,68,40,6569,1
+1617,Reliance Jio,F,55,Andhra Pradesh,Mumbai,642876,2020/1/9,0,38763,28,13,2987,0
+1618,Airtel,F,23,Tripura,Mumbai,497575,2020/1/9,4,137709,42,9,7344,0
+1619,Vodafone,F,60,Gujarat,Mumbai,255162,2020/1/9,1,112852,75,6,3328,1
+1620,BSNL,F,35,Odisha,Chennai,726333,2020/1/9,4,54719,44,11,2804,0
+1621,Airtel,M,31,Punjab,Delhi,756983,2020/1/9,4,36779,19,1,3710,0
+1622,Reliance Jio,M,41,Nagaland,Bangalore,436499,2020/1/9,2,94352,42,18,4081,0
+1623,BSNL,M,23,Jharkhand,Hyderabad,155298,2020/1/9,0,94346,57,19,8503,0
+1624,Airtel,M,37,Nagaland,Mumbai,268833,2020/1/9,2,116916,44,2,1128,1
+1625,Reliance Jio,M,64,Rajasthan,Mumbai,267850,2020/1/9,3,82578,44,40,3250,0
+1626,Vodafone,M,41,Maharashtra,Bangalore,215391,2020/1/9,1,112165,41,22,5679,0
+1627,Vodafone,F,55,Jharkhand,Kolkata,171837,2020/1/9,4,108713,90,50,9952,1
+1628,Vodafone,F,62,Jharkhand,Hyderabad,789135,2020/1/9,1,137675,4,6,4783,1
+1629,BSNL,M,69,Punjab,Bangalore,930538,2020/1/9,2,90098,94,48,3375,0
+1630,Reliance Jio,M,35,Chhattisgarh,Mumbai,156699,2020/1/9,3,119440,70,18,2444,0
+1631,Airtel,M,70,Bihar,Mumbai,662696,2020/1/9,0,115525,13,27,4533,0
+1632,BSNL,F,34,Andhra Pradesh,Delhi,697503,2020/1/9,4,59349,50,16,8958,0
+1633,Vodafone,F,41,Haryana,Mumbai,110079,2020/1/9,4,149129,-4,36,8825,1
+1634,Airtel,M,65,Maharashtra,Mumbai,671936,2020/1/9,2,41880,17,11,7700,0
+1635,Reliance Jio,F,61,Himachal Pradesh,Hyderabad,696263,2020/1/9,2,139506,17,23,1892,1
+1636,Vodafone,F,40,Mizoram,Chennai,109846,2020/1/9,4,143259,59,29,8744,1
+1637,BSNL,M,45,Madhya Pradesh,Mumbai,795344,2020/1/9,0,67238,32,3,3965,0
+1638,Vodafone,F,68,Meghalaya,Hyderabad,809180,2020/1/9,1,21307,93,44,8113,0
+1639,Reliance Jio,F,66,Madhya Pradesh,Kolkata,687597,2020/1/9,4,93714,18,24,2318,0
+1640,Airtel,F,22,Maharashtra,Chennai,459316,2020/1/9,2,104488,13,25,1964,0
+1641,Vodafone,M,66,Chhattisgarh,Kolkata,609217,2020/1/9,0,97948,25,47,1212,0
+1642,Airtel,F,68,Arunachal Pradesh,Kolkata,498238,2020/1/9,2,83197,83,36,8413,0
+1643,BSNL,F,43,Sikkim,Bangalore,799472,2020/1/9,3,66237,77,14,4358,1
+1644,Vodafone,M,43,West Bengal,Mumbai,825715,2020/1/9,1,24626,45,33,-284,0
+1645,Vodafone,M,27,Jharkhand,Kolkata,137080,2020/1/9,4,140551,100,11,7941,0
+1646,Vodafone,M,37,Himachal Pradesh,Delhi,733515,2020/1/9,1,41244,59,21,3408,0
+1647,Reliance Jio,M,37,Meghalaya,Kolkata,248119,2020/1/9,2,101590,72,48,10065,0
+1648,Airtel,M,61,Madhya Pradesh,Delhi,347045,2020/1/9,1,91392,100,44,4985,0
+1649,Vodafone,M,18,Chhattisgarh,Hyderabad,139794,2020/1/9,3,26339,62,6,-791,0
+1650,Vodafone,F,58,Chhattisgarh,Hyderabad,122020,2020/1/9,0,141552,84,18,9738,0
+1651,Airtel,M,69,Uttarakhand,Bangalore,238923,2020/1/9,3,105119,51,37,8957,0
+1652,Vodafone,M,24,Meghalaya,Bangalore,179702,2020/1/9,2,110039,15,44,6355,0
+1653,Reliance Jio,M,24,West Bengal,Mumbai,575491,2020/1/9,2,117061,20,52,7825,0
+1654,Reliance Jio,M,32,West Bengal,Kolkata,743543,2020/1/9,1,51054,38,12,6311,0
+1655,Vodafone,M,49,Uttar Pradesh,Chennai,130206,2020/1/9,1,134831,30,34,429,0
+1656,Airtel,M,67,Chhattisgarh,Kolkata,565887,2020/1/9,2,21310,87,4,3668,1
+1657,Airtel,M,64,Tripura,Delhi,474046,2020/1/9,2,89259,31,1,4539,0
+1658,Reliance Jio,F,47,Goa,Hyderabad,366456,2020/1/9,0,129727,35,20,7985,1
+1659,BSNL,M,34,Odisha,Bangalore,345140,2020/1/9,0,34407,52,-3,5953,0
+1660,Reliance Jio,M,42,Himachal Pradesh,Bangalore,678441,2020/1/9,1,97739,51,20,7967,0
+1661,Vodafone,F,27,Tripura,Hyderabad,587308,2020/1/9,0,134902,17,33,7027,1
+1662,BSNL,M,73,Telangana,Delhi,212716,2020/1/9,1,128382,69,24,6975,0
+1663,Airtel,M,68,Manipur,Kolkata,369262,2020/1/9,0,83981,40,43,6038,0
+1664,Airtel,M,24,Uttarakhand,Hyderabad,133372,2020/1/9,4,31136,5,37,5005,1
+1665,Reliance Jio,F,50,Gujarat,Bangalore,212560,2020/1/9,4,52384,98,0,8448,0
+1666,Airtel,F,32,Karnataka,Chennai,134902,2020/1/9,3,146862,40,33,7345,0
+1667,Airtel,M,65,West Bengal,Mumbai,388500,2020/1/9,2,117023,84,20,7392,1
+1668,BSNL,M,30,Mizoram,Bangalore,726086,2020/1/9,4,74928,53,46,789,0
+1669,Reliance Jio,F,25,Tamil Nadu,Delhi,994986,2020/1/9,2,121531,13,50,6364,0
+1670,BSNL,F,52,Manipur,Hyderabad,776846,2020/1/9,1,99320,15,30,1701,0
+1671,BSNL,M,49,Jharkhand,Mumbai,806522,2020/1/9,2,146934,24,13,8431,1
+1672,Vodafone,M,49,Rajasthan,Mumbai,913905,2020/1/9,4,138689,93,24,698,0
+1673,Airtel,M,53,Gujarat,Hyderabad,799941,2020/1/9,3,93665,98,15,1633,1
+1674,Reliance Jio,F,61,Madhya Pradesh,Hyderabad,300597,2020/1/9,1,28278,75,5,6388,0
+1675,Vodafone,M,69,Goa,Bangalore,716249,2020/1/9,3,83704,70,24,5095,0
+1676,Reliance Jio,M,73,Assam,Bangalore,638324,2020/1/9,4,20736,39,11,2696,0
+1677,Reliance Jio,M,21,Andhra Pradesh,Hyderabad,397201,2020/1/9,3,32018,14,22,1231,0
+1678,Airtel,F,19,Kerala,Bangalore,589251,2020/1/9,1,42777,29,14,2962,0
+1679,Airtel,M,69,Odisha,Delhi,424173,2020/1/9,0,58446,73,22,5342,0
+1680,Reliance Jio,M,45,Punjab,Delhi,412023,2020/1/9,3,116867,50,18,8006,1
+1681,Airtel,M,56,Telangana,Hyderabad,824772,2020/1/9,1,30029,7,28,7094,0
+1682,Vodafone,F,29,Punjab,Chennai,361136,2020/1/9,4,139204,56,9,7117,1
+1683,Airtel,F,66,Arunachal Pradesh,Hyderabad,859552,2020/1/9,3,102002,53,38,6923,0
+1684,BSNL,M,56,Odisha,Kolkata,738364,2020/1/9,4,145660,58,33,3402,0
+1685,Reliance Jio,M,25,Nagaland,Delhi,242512,2020/1/9,2,50487,38,39,9009,0
+1686,BSNL,F,51,Karnataka,Chennai,768805,2020/1/9,0,93616,39,25,1130,0
+1687,Reliance Jio,M,39,Karnataka,Bangalore,245505,2020/1/9,0,54462,4,21,3461,0
+1688,Vodafone,M,47,Gujarat,Bangalore,889984,2020/1/9,4,77497,4,44,7005,1
+1689,Reliance Jio,M,55,Madhya Pradesh,Hyderabad,674435,2020/1/9,1,148200,34,20,2493,0
+1690,Reliance Jio,M,63,Jharkhand,Mumbai,743303,2020/1/9,3,103535,76,25,1843,0
+1691,BSNL,M,44,West Bengal,Bangalore,341063,2020/1/9,2,49777,7,-1,5502,0
+1692,Vodafone,M,47,Assam,Kolkata,465985,2020/1/9,4,88939,62,27,6884,0
+1693,Airtel,F,65,Tripura,Kolkata,809211,2020/1/9,1,115970,49,28,1414,0
+1694,Reliance Jio,M,43,Sikkim,Hyderabad,942207,2020/1/9,2,42761,5,-4,9722,0
+1695,Airtel,F,57,Jharkhand,Hyderabad,118956,2020/1/9,1,79885,45,31,4414,0
+1696,Reliance Jio,F,24,Arunachal Pradesh,Bangalore,593497,2020/1/9,4,49210,11,17,3819,1
+1697,Reliance Jio,M,70,Madhya Pradesh,Bangalore,373263,2020/1/9,2,27939,30,46,7218,1
+1698,Reliance Jio,F,40,Madhya Pradesh,Bangalore,882257,2020/1/9,1,66344,14,33,2048,0
+1699,Airtel,F,45,Telangana,Bangalore,680588,2020/1/9,4,79977,91,11,6524,0
+1700,Reliance Jio,M,70,Haryana,Chennai,513664,2020/1/9,0,58937,45,4,7922,0
+1701,Vodafone,F,35,Kerala,Hyderabad,796801,2020/1/9,0,20680,99,18,1665,1
+1702,Vodafone,M,55,Jharkhand,Bangalore,330604,2020/1/9,4,70219,78,24,2678,0
+1703,Vodafone,M,36,Bihar,Mumbai,283556,2020/1/9,2,49644,78,37,8455,0
+1704,Vodafone,M,38,Bihar,Delhi,988583,2020/1/9,0,120963,91,12,4931,0
+1705,BSNL,M,73,Bihar,Chennai,104591,2020/1/9,4,23960,65,37,7831,0
+1706,Airtel,M,34,Assam,Hyderabad,755010,2020/1/9,1,55788,10,34,-133,0
+1707,Reliance Jio,M,47,Goa,Kolkata,818848,2020/1/9,0,103621,94,40,105,0
+1708,Airtel,M,59,Kerala,Chennai,888553,2020/1/9,3,100463,39,44,7020,0
+1709,Airtel,M,59,Jharkhand,Delhi,871469,2020/1/9,3,148308,44,38,8344,0
+1710,Airtel,M,71,Punjab,Delhi,871245,2020/1/9,2,101996,50,20,1543,0
+1711,Vodafone,F,34,Kerala,Kolkata,243469,2020/1/9,3,94609,43,33,3044,0
+1712,Airtel,M,30,West Bengal,Mumbai,874468,2020/1/9,1,20974,86,7,4307,0
+1713,Reliance Jio,M,25,Arunachal Pradesh,Chennai,773162,2020/1/9,0,32637,32,11,1229,0
+1714,Airtel,F,51,Karnataka,Bangalore,530365,2020/1/9,4,41512,36,14,4015,0
+1715,Reliance Jio,F,66,Manipur,Hyderabad,622434,2020/1/9,4,81772,59,29,3782,1
+1716,Reliance Jio,M,74,Maharashtra,Mumbai,857689,2020/1/9,1,72225,29,22,8994,0
+1717,Vodafone,F,42,Punjab,Delhi,547956,2020/1/9,0,50336,1,31,7031,0
+1718,Vodafone,F,50,Tamil Nadu,Chennai,893360,2020/1/9,3,146327,59,30,6042,0
+1719,Vodafone,F,67,Sikkim,Chennai,887447,2020/1/9,4,64890,81,31,3833,0
+1720,Airtel,M,31,Maharashtra,Bangalore,336151,2020/1/9,3,98391,9,2,55,0
+1721,BSNL,M,37,Meghalaya,Hyderabad,532437,2020/1/9,3,35474,37,42,5486,0
+1722,Reliance Jio,M,52,Rajasthan,Kolkata,834988,2020/1/9,1,88896,58,-3,408,1
+1723,Reliance Jio,M,28,Chhattisgarh,Hyderabad,455737,2020/1/9,2,129378,56,40,7012,0
+1724,BSNL,M,44,Odisha,Hyderabad,122791,2020/1/9,3,141540,43,13,1013,0
+1725,Airtel,M,67,Haryana,Mumbai,869024,2020/1/9,4,22516,73,34,2954,1
+1726,Airtel,M,38,Telangana,Bangalore,811253,2020/1/9,4,146140,22,32,8527,0
+1727,Reliance Jio,F,18,Karnataka,Bangalore,568503,2020/1/9,1,48629,-6,30,4489,0
+1728,Vodafone,M,19,Nagaland,Kolkata,807769,2020/1/9,2,144792,55,35,29,0
+1729,Vodafone,M,33,Telangana,Mumbai,453821,2020/1/9,0,141288,25,41,3411,1
+1730,Airtel,F,61,Mizoram,Delhi,121091,2020/1/9,0,25944,19,32,7224,0
+1731,Vodafone,F,37,Uttar Pradesh,Hyderabad,737817,2020/1/9,1,138702,39,30,482,1
+1732,Vodafone,F,59,Arunachal Pradesh,Kolkata,739368,2020/1/9,0,59230,89,10,4495,1
+1733,Vodafone,M,45,Chhattisgarh,Kolkata,114923,2020/1/9,2,45289,48,10,8354,0
+1734,Vodafone,M,55,Goa,Kolkata,618935,2020/1/9,4,73917,87,33,355,0
+1735,Airtel,F,27,Gujarat,Delhi,104244,2020/1/9,2,109879,69,36,1742,0
+1736,BSNL,M,65,Madhya Pradesh,Kolkata,670357,2020/1/9,2,86540,-2,3,1993,1
+1737,Airtel,F,48,Gujarat,Mumbai,464629,2020/1/9,3,117908,41,12,7582,0
+1738,Vodafone,M,55,Uttar Pradesh,Chennai,117044,2020/1/9,1,21310,7,10,2191,1
+1739,Reliance Jio,F,23,Meghalaya,Hyderabad,724248,2020/1/9,4,80778,85,41,9843,0
+1740,BSNL,M,48,Assam,Chennai,621808,2020/1/9,0,81491,48,4,2701,0
+1741,BSNL,M,48,Meghalaya,Chennai,964694,2020/1/9,2,59229,60,21,8189,0
+1742,Airtel,M,69,Goa,Chennai,401050,2020/1/9,3,53423,29,22,8163,0
+1743,Airtel,M,33,Nagaland,Mumbai,168085,2020/1/9,2,103559,86,28,8956,0
+1744,Vodafone,F,21,Nagaland,Chennai,286634,2020/1/9,0,74607,14,10,9614,0
+1745,Airtel,M,53,Maharashtra,Chennai,358200,2020/1/9,0,105087,65,23,8297,0
+1746,Vodafone,M,73,Himachal Pradesh,Bangalore,184159,2020/1/9,4,23380,84,30,10508,0
+1747,BSNL,F,56,Karnataka,Delhi,939161,2020/1/9,2,67840,85,23,9108,0
+1748,BSNL,M,42,Manipur,Bangalore,791264,2020/1/9,0,123689,15,35,9555,0
+1749,Reliance Jio,F,37,Arunachal Pradesh,Hyderabad,705013,2020/1/9,1,86745,50,-5,582,0
+1750,Vodafone,M,23,Sikkim,Chennai,701202,2020/1/9,2,109985,91,45,9361,0
+1751,Airtel,M,41,Chhattisgarh,Mumbai,712546,2020/1/9,3,86563,30,39,2101,0
+1752,BSNL,M,41,Haryana,Hyderabad,795096,2020/1/9,0,69228,-5,49,3316,0
+1753,Airtel,M,49,Tripura,Bangalore,770683,2020/1/9,4,43120,11,15,92,0
+1754,Airtel,M,59,Haryana,Mumbai,530754,2020/1/9,1,62747,38,7,5067,0
+1755,Vodafone,M,23,Uttarakhand,Chennai,260096,2020/1/9,4,50376,66,17,315,0
+1756,BSNL,M,28,Assam,Bangalore,775860,2020/1/9,4,70549,62,-3,9050,0
+1757,Reliance Jio,M,47,Himachal Pradesh,Hyderabad,254903,2020/1/9,3,132524,90,21,9694,0
+1758,Airtel,M,45,Goa,Kolkata,191368,2020/1/9,4,98701,18,51,9349,0
+1759,Reliance Jio,M,34,Jharkhand,Mumbai,409610,2020/1/9,3,22416,69,31,2207,0
+1760,Airtel,F,55,Himachal Pradesh,Bangalore,449657,2020/1/9,1,102586,101,35,5779,0
+1761,Airtel,F,24,Punjab,Bangalore,122225,2020/1/9,3,50216,65,39,1896,0
+1762,Airtel,M,69,Bihar,Delhi,833124,2020/1/9,2,44649,74,-1,7248,0
+1763,Airtel,M,66,Tripura,Bangalore,907853,2020/1/9,3,60360,45,38,6081,0
+1764,Reliance Jio,M,27,Himachal Pradesh,Mumbai,957239,2020/1/9,1,147541,7,12,3810,0
+1765,Reliance Jio,F,47,Chhattisgarh,Kolkata,345288,2020/1/9,3,97639,87,44,8622,0
+1766,BSNL,F,33,Telangana,Hyderabad,193990,2020/1/9,4,141685,72,39,2730,0
+1767,Reliance Jio,M,64,Chhattisgarh,Bangalore,992828,2020/1/9,3,84943,9,42,8721,0
+1768,BSNL,M,60,Uttarakhand,Bangalore,442950,2020/1/9,3,103438,78,20,9340,0
+1769,Reliance Jio,F,60,Rajasthan,Hyderabad,337452,2020/1/9,0,72495,86,6,7342,0
+1770,Airtel,M,63,Haryana,Hyderabad,932707,2020/1/9,0,52683,18,10,3069,0
+1771,BSNL,M,63,West Bengal,Hyderabad,493033,2020/1/9,3,120788,21,21,8316,0
+1772,Airtel,M,29,Arunachal Pradesh,Chennai,318107,2020/1/9,2,66061,54,1,8176,0
+1773,BSNL,F,38,Mizoram,Kolkata,783116,2020/1/9,3,98314,37,43,4711,0
+1774,Airtel,F,56,Manipur,Bangalore,267012,2020/1/9,3,20914,39,37,5375,1
+1775,BSNL,M,43,Manipur,Bangalore,914231,2020/1/9,2,127619,70,9,4347,1
+1776,BSNL,M,63,Tripura,Hyderabad,808465,2020/1/9,3,100631,97,9,3451,0
+1777,Airtel,M,59,Gujarat,Mumbai,816994,2020/1/9,0,63047,0,39,7111,0
+1778,Reliance Jio,M,70,Telangana,Mumbai,548899,2020/1/9,1,92695,78,39,1579,0
+1779,Reliance Jio,F,69,Haryana,Delhi,853499,2020/1/9,4,52815,-6,28,-599,1
+1780,BSNL,F,70,Tripura,Kolkata,129697,2020/1/9,4,137267,-1,37,8207,0
+1781,Reliance Jio,M,35,Tripura,Kolkata,215358,2020/1/9,1,78588,51,48,1481,0
+1782,BSNL,M,38,Bihar,Hyderabad,680466,2020/1/9,2,141130,61,21,6765,0
+1783,Reliance Jio,F,47,Telangana,Chennai,600429,2020/1/9,2,108081,92,43,3043,0
+1784,Vodafone,M,20,Uttar Pradesh,Bangalore,181302,2020/1/9,1,90461,14,53,9163,1
+1785,Airtel,M,21,Bihar,Chennai,159508,2020/1/9,1,78578,10,10,10487,0
+1786,Reliance Jio,F,36,Tamil Nadu,Bangalore,324069,2020/1/9,4,34574,11,2,924,1
+1787,Airtel,F,23,Rajasthan,Hyderabad,737677,2020/1/9,2,108425,90,23,1619,0
+1788,Airtel,M,73,Uttar Pradesh,Mumbai,237287,2020/1/9,2,80209,81,-1,9015,0
+1789,Vodafone,M,29,Jharkhand,Kolkata,241572,2020/1/9,2,42210,0,12,914,0
+1790,Vodafone,M,18,Haryana,Chennai,826927,2020/1/9,4,38185,85,10,10093,0
+1791,BSNL,F,47,Haryana,Chennai,415120,2020/1/9,4,31500,79,49,5107,0
+1792,BSNL,F,66,Sikkim,Bangalore,769115,2020/1/9,0,130690,54,30,6811,1
+1793,Reliance Jio,M,29,Jharkhand,Mumbai,165685,2020/1/9,1,120981,28,50,8954,0
+1794,Reliance Jio,M,74,Gujarat,Delhi,742367,2020/1/9,1,28234,60,15,405,0
+1795,Airtel,M,37,Odisha,Delhi,159796,2020/1/9,0,34446,47,14,1248,0
+1796,Reliance Jio,M,42,Himachal Pradesh,Kolkata,628995,2020/1/9,4,138760,8,38,3850,0
+1797,Airtel,M,58,Tamil Nadu,Mumbai,557988,2020/1/9,2,73778,-3,37,3913,0
+1798,BSNL,M,35,Rajasthan,Bangalore,972880,2020/1/9,0,33292,51,52,-100,0
+1799,Vodafone,F,31,Meghalaya,Kolkata,195785,2020/1/9,0,93279,48,44,131,1
+1800,Airtel,M,31,Uttar Pradesh,Delhi,661841,2020/1/10,4,24379,4,9,8864,0
+1801,Vodafone,M,64,West Bengal,Delhi,457822,2020/1/10,4,135259,41,41,1217,1
+1802,Reliance Jio,M,36,Jharkhand,Bangalore,110043,2020/1/10,3,89028,88,36,8333,1
+1803,Vodafone,M,18,West Bengal,Bangalore,333067,2020/1/10,0,127134,0,26,7384,0
+1804,Reliance Jio,F,27,Sikkim,Delhi,138406,2020/1/10,3,136562,85,8,7544,0
+1805,Vodafone,M,28,Manipur,Hyderabad,712895,2020/1/10,4,104141,80,23,4963,0
+1806,BSNL,F,25,Karnataka,Hyderabad,316078,2020/1/10,4,28337,76,41,1505,0
+1807,BSNL,F,63,Nagaland,Chennai,235414,2020/1/10,0,130655,92,44,7402,0
+1808,Vodafone,M,26,Andhra Pradesh,Kolkata,136810,2020/1/10,2,47992,24,36,2072,0
+1809,BSNL,F,33,Arunachal Pradesh,Mumbai,431850,2020/1/10,1,82545,56,38,10405,0
+1810,Reliance Jio,M,73,Haryana,Bangalore,200807,2020/1/10,0,116094,69,30,8674,0
+1811,Airtel,F,71,Nagaland,Chennai,967256,2020/1/10,2,116175,58,12,5137,0
+1812,Airtel,M,35,Kerala,Kolkata,166666,2020/1/10,0,107317,12,8,4122,0
+1813,Airtel,F,32,Haryana,Delhi,161521,2020/1/10,0,48517,45,34,8640,0
+1814,Reliance Jio,F,74,Rajasthan,Mumbai,638954,2020/1/10,2,56587,38,45,1525,1
+1815,Reliance Jio,M,30,West Bengal,Hyderabad,986935,2020/1/10,1,34063,59,41,5241,0
+1816,Airtel,F,27,Telangana,Delhi,209162,2020/1/10,1,85810,44,-4,2556,0
+1817,Vodafone,M,22,Telangana,Delhi,519665,2020/1/10,2,58937,41,12,8628,0
+1818,Reliance Jio,F,28,Haryana,Hyderabad,448649,2020/1/10,4,65093,32,-1,4147,0
+1819,Reliance Jio,F,51,Meghalaya,Delhi,957505,2020/1/10,2,96708,46,16,-352,0
+1820,Vodafone,M,22,Kerala,Bangalore,292124,2020/1/10,1,40874,19,1,1343,0
+1821,Airtel,M,51,Sikkim,Mumbai,909925,2020/1/10,1,76994,88,29,6922,0
+1822,BSNL,F,33,Assam,Mumbai,280183,2020/1/10,0,115406,17,9,1991,0
+1823,Reliance Jio,M,66,Telangana,Kolkata,548218,2020/1/10,3,66415,96,40,7839,0
+1824,Airtel,M,25,Chhattisgarh,Mumbai,359098,2020/1/10,2,38273,36,31,8536,0
+1825,Airtel,F,56,Manipur,Hyderabad,504334,2020/1/10,1,49247,-2,31,6168,1
+1826,Reliance Jio,M,62,Chhattisgarh,Hyderabad,679949,2020/1/10,0,95429,13,18,6222,0
+1827,BSNL,M,53,Uttar Pradesh,Delhi,754346,2020/1/10,3,132288,-7,20,1269,0
+1828,Vodafone,M,71,Bihar,Bangalore,864160,2020/1/10,2,47816,81,13,10265,0
+1829,Reliance Jio,M,52,Karnataka,Chennai,802155,2020/1/10,2,45831,43,17,9043,1
+1830,Vodafone,F,58,West Bengal,Kolkata,880212,2020/1/10,0,106257,19,26,8382,1
+1831,BSNL,M,52,Kerala,Kolkata,248119,2020/1/10,3,96100,74,20,1082,1
+1832,BSNL,F,68,Maharashtra,Hyderabad,658164,2020/1/10,3,21612,28,27,7981,1
+1833,Vodafone,F,53,Telangana,Chennai,389423,2020/1/10,3,103469,79,42,1822,0
+1834,Airtel,F,28,Uttarakhand,Chennai,137052,2020/1/10,0,149083,99,18,2818,0
+1835,Airtel,F,66,Sikkim,Mumbai,747805,2020/1/10,2,141170,21,27,8029,0
+1836,Airtel,M,43,Bihar,Bangalore,294722,2020/1/10,1,135675,84,25,5630,0
+1837,Airtel,M,25,Rajasthan,Bangalore,827372,2020/1/10,1,125909,83,29,3597,1
+1838,Airtel,F,20,Chhattisgarh,Bangalore,390375,2020/1/10,0,120501,65,43,2389,1
+1839,Reliance Jio,F,41,Tamil Nadu,Mumbai,229584,2020/1/10,2,93119,16,13,6296,0
+1840,Airtel,F,70,Chhattisgarh,Kolkata,118529,2020/1/10,4,40358,95,44,3045,0
+1841,Airtel,F,37,Manipur,Kolkata,508585,2020/1/10,0,24617,65,32,6392,0
+1842,Vodafone,M,35,Punjab,Kolkata,130072,2020/1/10,0,125916,20,30,6245,1
+1843,Vodafone,F,31,Assam,Bangalore,586794,2020/1/10,0,66393,23,-1,6896,0
+1844,Airtel,F,36,Goa,Mumbai,372177,2020/1/10,2,39071,63,36,7530,0
+1845,Vodafone,F,53,Assam,Chennai,137741,2020/1/10,2,46324,38,38,4232,0
+1846,Airtel,M,70,Bihar,Mumbai,871979,2020/1/10,0,108903,83,14,7610,0
+1847,Airtel,M,18,Meghalaya,Kolkata,622479,2020/1/10,2,110486,47,30,3123,0
+1848,BSNL,F,35,Haryana,Bangalore,437026,2020/1/10,3,97701,68,31,3295,0
+1849,Vodafone,F,70,Tamil Nadu,Delhi,170609,2020/1/10,0,119220,5,27,1951,0
+1850,BSNL,M,40,Himachal Pradesh,Mumbai,232636,2020/1/10,1,50406,106,3,6170,1
+1851,Reliance Jio,M,19,Tamil Nadu,Kolkata,722391,2020/1/10,3,34816,33,31,4611,0
+1852,Vodafone,M,52,Uttar Pradesh,Mumbai,150523,2020/1/10,2,112504,83,34,7940,0
+1853,BSNL,M,36,Haryana,Hyderabad,957470,2020/1/10,0,80020,51,0,3688,0
+1854,BSNL,M,36,Madhya Pradesh,Chennai,327509,2020/1/10,2,77483,21,28,7470,1
+1855,Airtel,F,38,Himachal Pradesh,Chennai,680961,2020/1/10,2,111016,52,31,2924,1
+1856,Vodafone,M,51,Uttarakhand,Bangalore,548427,2020/1/10,0,41811,41,41,4672,0
+1857,Vodafone,M,39,Gujarat,Bangalore,361826,2020/1/10,2,116274,77,44,2903,0
+1858,BSNL,M,55,Madhya Pradesh,Bangalore,401829,2020/1/10,3,26123,37,32,365,0
+1859,Vodafone,F,42,Meghalaya,Chennai,675461,2020/1/10,2,116800,60,46,3277,0
+1860,BSNL,M,38,Assam,Chennai,476712,2020/1/10,0,47743,105,27,6246,1
+1861,Reliance Jio,M,28,Andhra Pradesh,Delhi,358840,2020/1/10,2,47276,83,12,7359,0
+1862,Reliance Jio,F,18,Jharkhand,Hyderabad,390257,2020/1/10,0,36901,24,28,10301,0
+1863,BSNL,F,37,Uttar Pradesh,Bangalore,261787,2020/1/10,2,113286,74,6,3797,0
+1864,BSNL,F,30,Goa,Bangalore,928807,2020/1/10,3,33820,39,46,4114,0
+1865,Vodafone,M,73,Nagaland,Hyderabad,461645,2020/1/10,1,113637,91,30,3956,0
+1866,Airtel,M,21,Karnataka,Bangalore,696953,2020/1/10,4,71362,52,47,-249,0
+1867,Airtel,M,74,Gujarat,Hyderabad,662726,2020/1/10,0,138991,22,16,7972,0
+1868,Airtel,F,51,Madhya Pradesh,Bangalore,825431,2020/1/10,1,50693,88,29,3465,0
+1869,Airtel,M,58,Tripura,Hyderabad,543221,2020/1/10,1,32959,36,25,6660,0
+1870,Airtel,M,54,Madhya Pradesh,Mumbai,219837,2020/1/10,0,96935,101,28,1211,0
+1871,BSNL,F,44,Nagaland,Chennai,675985,2020/1/10,4,147656,79,4,1831,0
+1872,Airtel,M,69,Uttarakhand,Delhi,214281,2020/1/10,3,72349,108,25,5509,0
+1873,BSNL,M,45,Himachal Pradesh,Mumbai,752135,2020/1/10,0,112174,40,32,4922,1
+1874,Reliance Jio,M,56,Uttarakhand,Delhi,384849,2020/1/10,1,117980,86,1,7675,0
+1875,Vodafone,F,30,Telangana,Hyderabad,305907,2020/1/10,3,147457,54,48,1486,0
+1876,Vodafone,F,74,Sikkim,Chennai,737082,2020/1/10,2,113074,38,42,894,0
+1877,BSNL,M,59,Bihar,Mumbai,742064,2020/1/10,3,72573,75,18,1877,1
+1878,Vodafone,M,44,Rajasthan,Kolkata,282237,2020/1/10,0,40094,90,10,662,0
+1879,Airtel,M,20,Odisha,Delhi,932582,2020/1/10,0,102745,26,12,10425,0
+1880,Reliance Jio,M,40,Andhra Pradesh,Bangalore,526507,2020/1/10,4,57398,86,39,128,1
+1881,BSNL,F,70,Goa,Mumbai,466712,2020/1/10,2,57616,29,-2,8516,0
+1882,Airtel,M,46,West Bengal,Hyderabad,881263,2020/1/10,1,122503,89,41,6416,0
+1883,Reliance Jio,F,48,Maharashtra,Delhi,911679,2020/1/10,1,39107,3,39,-433,0
+1884,Vodafone,M,68,Meghalaya,Hyderabad,538044,2020/1/10,3,46274,68,9,7764,0
+1885,Airtel,M,22,Karnataka,Chennai,616680,2020/1/10,2,103869,82,21,2145,1
+1886,BSNL,M,18,Himachal Pradesh,Delhi,118931,2020/1/10,1,32280,4,26,1591,0
+1887,BSNL,M,42,Meghalaya,Kolkata,909495,2020/1/10,4,86508,39,11,4738,0
+1888,Reliance Jio,F,21,Jharkhand,Kolkata,804960,2020/1/10,0,75449,-4,19,7250,0
+1889,BSNL,M,24,Telangana,Delhi,253218,2020/1/10,3,89739,31,26,8200,0
+1890,BSNL,M,47,Haryana,Bangalore,408950,2020/1/10,4,45528,75,25,7079,0
+1891,Vodafone,F,71,Madhya Pradesh,Chennai,521555,2020/1/10,0,102871,24,21,786,0
+1892,BSNL,F,72,Punjab,Bangalore,481172,2020/1/10,2,53394,57,29,9108,1
+1893,BSNL,F,38,Sikkim,Hyderabad,207437,2020/1/10,3,47717,86,38,5277,0
+1894,BSNL,M,54,Maharashtra,Chennai,739112,2020/1/10,2,48833,47,15,377,0
+1895,BSNL,F,35,Meghalaya,Bangalore,366153,2020/1/10,2,112654,66,0,3173,0
+1896,Vodafone,F,22,Tripura,Delhi,563386,2020/1/10,4,80792,2,49,5158,0
+1897,Reliance Jio,M,47,Gujarat,Bangalore,565016,2020/1/10,2,131268,23,16,8355,0
+1898,Reliance Jio,M,68,Andhra Pradesh,Bangalore,141364,2020/1/10,3,86050,78,43,1517,0
+1899,Vodafone,F,56,Nagaland,Hyderabad,632665,2020/1/10,2,21390,31,16,128,1
+1900,Airtel,F,51,Bihar,Chennai,742243,2020/1/10,2,141815,51,27,10138,0
+1901,Reliance Jio,M,45,Himachal Pradesh,Hyderabad,653606,2020/1/10,1,28958,71,-4,9392,0
+1902,BSNL,F,60,Tamil Nadu,Mumbai,754045,2020/1/10,1,91464,68,34,10,0
+1903,Reliance Jio,M,65,Kerala,Hyderabad,675037,2020/1/10,0,32208,43,5,3501,0
+1904,BSNL,M,71,Nagaland,Bangalore,264402,2020/1/10,0,26018,58,30,3924,0
+1905,Reliance Jio,M,48,Manipur,Hyderabad,316475,2020/1/10,2,120689,57,44,8993,0
+1906,Vodafone,F,50,Madhya Pradesh,Mumbai,783292,2020/1/10,4,22815,40,42,8272,0
+1907,Reliance Jio,F,27,Tripura,Hyderabad,147168,2020/1/10,2,104200,45,3,5939,0
+1908,Reliance Jio,M,28,Uttar Pradesh,Chennai,708434,2020/1/10,0,43082,16,32,7501,0
+1909,Vodafone,F,69,Uttar Pradesh,Kolkata,412774,2020/1/10,1,56862,41,30,4874,0
+1910,Airtel,M,45,Telangana,Chennai,991807,2020/1/10,4,110129,91,44,8163,1
+1911,Vodafone,F,45,Jharkhand,Hyderabad,395071,2020/1/10,1,145180,54,10,2303,1
+1912,Vodafone,F,28,Uttarakhand,Mumbai,167134,2020/1/10,0,88858,82,44,4951,0
+1913,Vodafone,M,26,Sikkim,Delhi,934819,2020/1/10,0,82040,45,1,6660,1
+1914,Reliance Jio,M,61,Himachal Pradesh,Bangalore,651649,2020/1/10,3,129554,71,38,755,0
+1915,Reliance Jio,F,53,Arunachal Pradesh,Kolkata,373184,2020/1/10,3,56172,28,38,4506,0
+1916,Airtel,M,39,Arunachal Pradesh,Mumbai,154920,2020/1/10,1,86599,68,37,2916,0
+1917,BSNL,M,53,Andhra Pradesh,Chennai,380461,2020/1/10,3,144266,-1,17,8939,0
+1918,Reliance Jio,F,68,Maharashtra,Chennai,835812,2020/1/10,0,121470,28,15,5302,0
+1919,Airtel,F,25,Sikkim,Chennai,574253,2020/1/10,2,83998,16,8,6071,0
+1920,Reliance Jio,M,18,Tamil Nadu,Hyderabad,476266,2020/1/10,1,44499,13,46,9355,0
+1921,Vodafone,M,25,Punjab,Bangalore,167127,2020/1/10,1,79685,35,1,6654,0
+1922,Reliance Jio,M,49,Telangana,Mumbai,831507,2020/1/10,1,92683,9,28,4840,0
+1923,Reliance Jio,M,56,Arunachal Pradesh,Hyderabad,284578,2020/1/10,2,140105,85,11,1715,0
+1924,Airtel,M,24,Madhya Pradesh,Delhi,219751,2020/1/10,3,70218,87,35,5307,0
+1925,BSNL,F,61,Tripura,Hyderabad,575259,2020/1/10,3,55337,54,48,9123,1
+1926,Vodafone,M,73,Tripura,Mumbai,911966,2020/1/10,2,26301,104,5,1731,0
+1927,BSNL,F,73,Tripura,Chennai,419493,2020/1/10,2,25197,60,-5,5319,0
+1928,Vodafone,F,70,Nagaland,Mumbai,809048,2020/1/10,3,104916,35,46,3839,0
+1929,Vodafone,M,57,Kerala,Kolkata,430529,2020/1/10,0,68033,51,16,3379,0
+1930,Airtel,M,43,Odisha,Bangalore,446707,2020/1/10,3,84130,29,17,2253,1
+1931,Vodafone,F,21,Odisha,Mumbai,416561,2020/1/10,4,81209,20,40,5410,0
+1932,BSNL,F,19,Telangana,Hyderabad,100759,2020/1/10,3,55624,60,15,7122,0
+1933,Airtel,M,39,Maharashtra,Mumbai,803897,2020/1/10,4,38804,79,22,8679,0
+1934,Vodafone,F,40,Gujarat,Chennai,337469,2020/1/10,1,70946,73,20,705,0
+1935,Vodafone,M,50,Sikkim,Hyderabad,423837,2020/1/10,0,80414,6,42,5995,0
+1936,Vodafone,M,73,Mizoram,Bangalore,988587,2020/1/10,2,99327,99,5,4445,0
+1937,Vodafone,M,20,Odisha,Delhi,918122,2020/1/10,2,64490,81,32,4252,0
+1938,Vodafone,M,69,Tamil Nadu,Mumbai,868565,2020/1/10,4,71845,29,6,1804,0
+1939,Airtel,M,27,Jharkhand,Chennai,475724,2020/1/10,1,83902,25,14,8292,0
+1940,BSNL,F,43,Punjab,Bangalore,311597,2020/1/10,3,115919,38,52,7173,1
+1941,Airtel,F,26,Haryana,Kolkata,224344,2020/1/10,1,116168,90,48,7715,0
+1942,Vodafone,M,28,Tripura,Mumbai,471290,2020/1/10,3,110814,-3,3,878,0
+1943,BSNL,M,30,Jharkhand,Bangalore,928539,2020/1/10,3,144501,96,34,6042,0
+1944,Airtel,F,26,Tripura,Chennai,468939,2020/1/10,1,130018,2,1,6499,0
+1945,Vodafone,F,64,Goa,Chennai,929345,2020/1/10,2,64876,52,42,7836,0
+1946,BSNL,M,66,Arunachal Pradesh,Mumbai,214388,2020/1/10,4,51353,46,12,6546,0
+1947,Vodafone,F,66,Assam,Kolkata,516757,2020/1/10,3,65285,70,48,9140,0
+1948,Reliance Jio,M,74,Andhra Pradesh,Hyderabad,155793,2020/1/10,4,32582,38,17,4957,0
+1949,Vodafone,M,31,Sikkim,Delhi,615786,2020/1/10,2,123297,-1,39,1995,0
+1950,BSNL,M,36,Uttar Pradesh,Delhi,313025,2020/1/10,1,62169,28,35,10648,1
+1951,Vodafone,M,46,West Bengal,Bangalore,984848,2020/1/10,3,69211,64,17,10225,0
+1952,BSNL,F,19,Tripura,Delhi,404057,2020/1/10,1,64656,10,9,7911,1
+1953,BSNL,F,73,Rajasthan,Delhi,675816,2020/1/10,2,44639,60,18,7504,0
+1954,BSNL,M,48,Uttarakhand,Hyderabad,676979,2020/1/10,0,30360,71,9,6466,0
+1955,Vodafone,M,56,Madhya Pradesh,Hyderabad,969302,2020/1/10,2,129797,27,16,6148,0
+1956,Vodafone,F,63,Andhra Pradesh,Bangalore,534314,2020/1/10,1,70706,56,45,8481,0
+1957,Reliance Jio,F,44,Telangana,Chennai,876585,2020/1/10,3,51568,55,13,10566,0
+1958,Vodafone,M,22,Arunachal Pradesh,Kolkata,609595,2020/1/10,1,64667,79,18,3679,1
+1959,Vodafone,F,33,Jharkhand,Mumbai,705213,2020/1/10,3,137576,73,4,2162,0
+1960,Reliance Jio,F,47,Haryana,Kolkata,472988,2020/1/10,2,76701,90,22,7381,1
+1961,Airtel,F,49,Goa,Delhi,563034,2020/1/10,3,77004,22,28,8535,0
+1962,BSNL,F,20,Tamil Nadu,Kolkata,932522,2020/1/10,0,89342,83,15,6705,0
+1963,BSNL,M,30,Uttarakhand,Kolkata,332570,2020/1/10,0,105619,55,49,3282,0
+1964,Vodafone,M,71,Arunachal Pradesh,Chennai,465888,2020/1/10,1,50871,19,20,3414,0
+1965,Vodafone,M,41,Maharashtra,Mumbai,682263,2020/1/10,4,93860,59,10,6732,0
+1966,Airtel,M,44,Madhya Pradesh,Bangalore,791360,2020/1/10,2,148772,4,3,4717,0
+1967,BSNL,F,39,Punjab,Kolkata,334209,2020/1/10,0,106354,7,28,8199,0
+1968,Reliance Jio,F,71,Mizoram,Delhi,355988,2020/1/10,1,61670,10,35,7396,0
+1969,Reliance Jio,F,69,Sikkim,Hyderabad,804554,2020/1/10,3,94543,16,19,1829,1
+1970,BSNL,F,34,Telangana,Hyderabad,302141,2020/1/10,3,142687,30,15,7487,0
+1971,Reliance Jio,M,65,Manipur,Chennai,417062,2020/1/10,0,50815,60,51,1129,0
+1972,Vodafone,F,20,Sikkim,Mumbai,918326,2020/1/10,0,135674,84,14,484,0
+1973,BSNL,M,63,Himachal Pradesh,Chennai,556970,2020/1/10,1,100825,51,30,9713,1
+1974,Reliance Jio,F,73,Uttar Pradesh,Chennai,577363,2020/1/10,4,139149,57,41,8865,0
+1975,Airtel,F,38,Manipur,Mumbai,152524,2020/1/10,3,62604,12,29,3136,0
+1976,Airtel,F,51,Assam,Kolkata,697557,2020/1/10,3,96281,52,16,8894,0
+1977,BSNL,M,52,Uttar Pradesh,Kolkata,989787,2020/1/10,4,148649,67,19,8431,0
+1978,BSNL,M,61,Kerala,Hyderabad,281572,2020/1/10,2,120004,61,-2,4036,0
+1979,BSNL,F,32,Himachal Pradesh,Chennai,917706,2020/1/10,2,108181,36,44,928,0
+1980,Vodafone,M,35,Maharashtra,Kolkata,937880,2020/1/10,3,23918,62,14,6708,0
+1981,Vodafone,M,35,Karnataka,Hyderabad,946460,2020/1/10,0,60908,41,29,8806,0
+1982,Vodafone,F,23,Telangana,Delhi,156621,2020/1/10,4,62924,50,23,8988,0
+1983,Vodafone,F,58,Sikkim,Mumbai,880509,2020/1/10,0,118698,9,40,4992,0
+1984,Airtel,M,60,Bihar,Delhi,469908,2020/1/10,2,77272,38,38,991,0
+1985,BSNL,F,37,Uttar Pradesh,Kolkata,878220,2020/1/10,1,30992,14,46,4322,1
+1986,Reliance Jio,M,29,Tamil Nadu,Hyderabad,351332,2020/1/10,2,127276,61,7,2951,0
+1987,Vodafone,M,34,West Bengal,Kolkata,831462,2020/1/10,2,103621,8,5,200,0
+1988,Vodafone,F,70,Uttar Pradesh,Kolkata,792550,2020/1/10,0,114345,18,7,7835,0
+1989,Reliance Jio,M,64,Sikkim,Chennai,587493,2020/1/10,3,94315,13,10,6184,1
+1990,Reliance Jio,M,58,Goa,Hyderabad,786210,2020/1/10,3,101106,67,8,7661,0
+1991,BSNL,M,41,Manipur,Kolkata,203540,2020/1/10,3,23033,102,43,5722,0
+1992,BSNL,F,56,Tripura,Delhi,538124,2020/1/10,0,89499,89,20,6312,0
+1993,Airtel,M,47,Arunachal Pradesh,Mumbai,199291,2020/1/10,3,65190,67,45,4548,0
+1994,Reliance Jio,F,54,Punjab,Hyderabad,202851,2020/1/10,4,87997,5,17,9129,0
+1995,BSNL,F,50,Meghalaya,Mumbai,419636,2020/1/10,1,131919,23,31,9276,0
+1996,BSNL,M,63,Sikkim,Bangalore,752376,2020/1/10,4,61767,52,8,6849,1
+1997,Vodafone,F,43,Uttarakhand,Kolkata,987131,2020/1/10,3,91850,34,11,10016,0
+1998,Airtel,F,52,Sikkim,Chennai,500372,2020/1/10,0,37767,45,17,108,0
+1999,BSNL,F,25,Tamil Nadu,Hyderabad,145542,2020/1/11,0,81818,53,5,702,0
+2000,BSNL,M,22,Arunachal Pradesh,Bangalore,393809,2020/1/11,4,72913,87,35,5830,0
+2001,Airtel,F,60,Bihar,Delhi,435246,2020/1/11,3,25768,63,-2,10097,1
+2002,Vodafone,F,33,Tamil Nadu,Hyderabad,662911,2020/1/11,3,118877,47,25,3616,0
+2003,BSNL,M,31,Odisha,Chennai,330764,2020/1/11,0,36864,89,42,6304,0
+2004,BSNL,F,52,Uttar Pradesh,Chennai,572517,2020/1/11,1,66600,94,1,5840,0
+2005,Vodafone,M,50,Uttarakhand,Delhi,653615,2020/1/11,1,61055,41,27,8963,0
+2006,BSNL,F,22,Gujarat,Bangalore,238582,2020/1/11,0,75879,100,11,-167,1
+2007,Vodafone,F,47,Bihar,Mumbai,817334,2020/1/11,1,88258,6,41,10044,0
+2008,Reliance Jio,M,57,Nagaland,Delhi,348793,2020/1/11,0,87316,80,37,1219,0
+2009,BSNL,M,36,Bihar,Hyderabad,931686,2020/1/11,1,147354,68,3,811,0
+2010,Vodafone,F,19,Jharkhand,Kolkata,948396,2020/1/11,4,47689,45,8,946,1
+2011,Vodafone,M,18,Mizoram,Chennai,342637,2020/1/11,1,114088,14,13,580,0
+2012,Reliance Jio,F,58,Gujarat,Hyderabad,710931,2020/1/11,2,133830,98,48,10760,0
+2013,Airtel,M,26,Uttarakhand,Delhi,571308,2020/1/11,4,115425,18,49,7613,0
+2014,Reliance Jio,F,42,Jharkhand,Hyderabad,865730,2020/1/11,1,146831,93,27,6147,0
+2015,Airtel,M,74,Odisha,Kolkata,906539,2020/1/11,4,125776,27,38,1498,0
+2016,Airtel,F,63,Manipur,Bangalore,825602,2020/1/11,4,51407,17,52,9605,0
+2017,Airtel,M,46,Manipur,Mumbai,378267,2020/1/11,1,47668,53,29,2560,0
+2018,Airtel,F,71,Gujarat,Kolkata,342766,2020/1/11,0,141793,41,43,6203,0
+2019,BSNL,F,28,Odisha,Chennai,473822,2020/1/11,4,41009,86,34,6959,0
+2020,Vodafone,M,38,Nagaland,Mumbai,246508,2020/1/11,4,106360,49,-2,2164,0
+2021,BSNL,M,44,Himachal Pradesh,Mumbai,849245,2020/1/11,3,136429,49,15,6512,1
+2022,Reliance Jio,M,33,West Bengal,Hyderabad,432870,2020/1/11,1,53651,61,-3,1950,1
+2023,Airtel,M,74,Bihar,Chennai,275328,2020/1/11,0,126393,55,28,2708,1
+2024,Vodafone,F,20,Tripura,Delhi,720926,2020/1/11,4,125870,47,7,7268,1
+2025,Reliance Jio,F,57,Goa,Mumbai,620870,2020/1/11,2,99487,60,-2,-676,0
+2026,Vodafone,M,24,Uttarakhand,Chennai,863833,2020/1/11,1,91147,12,16,2743,0

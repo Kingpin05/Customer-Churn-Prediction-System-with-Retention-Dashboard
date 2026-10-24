@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% from "macros.html" import band, chip %}
+{% block title %}At-risk customers · Churn Watch{% endblock %}
+{% block content %}
+<header class="head">
+<div><h1>At-risk customers</h1><p class="muted">{{ '{:,}'.format(high) }} high risk and {{ '{:,}'.format(medium) }} medium risk. Highest risk first.</p></div>
+<a class="btn" href="{{ url_for('customers_csv', risk=f.risk, partner=f.partner, follow=f.follow, q=f.q) }}">Download list (CSV)</a>
+</header>
+
+<form class="filters" method="get" action="{{ url_for('customers') }}">
+<div class="field"><span>Risk level</span>
+<div class="seg">
+<a href="{{ query(risk='high', page=1) }}"{% if f.risk == 'high' %} aria-current="true"{% endif %}>High</a>
+<a href="{{ query(risk='medium', page=1) }}"{% if f.risk == 'medium' %} aria-current="true"{% endif %}>Medium</a>
+<a href="{{ query(risk='all', page=1) }}"{% if f.risk == 'all' %} aria-current="true"{% endif %}>All</a>
+</div></div>
+<input type="hidden" name="risk" value="{{ f.risk }}">
+{% if partners %}
+<div class="field"><label for="partner">Telecom partner</label>
+<select id="partner" name="partner" onchange="this.form.submit()">
+<option value="">Any partner</option>
+{% for p in partners %}<option value="{{ p }}"{% if f.partner == p %} selected{% endif %}>{{ p }}</option>{% endfor %}
+</select></div>
+{% endif %}
+<div class="field"><label for="follow">Follow-up</label>
+<select id="follow" name="follow" onchange="this.form.submit()">
+<option value="">Any status</option>
+{% for s in statuses %}<option value="{{ s }}"{% if f.follow == s %} selected{% endif %}>{{ s }}</option>{% endfor %}
+</select></div>
+<div class="field" style="flex:1 1 220px;max-width:340px"><label for="q">Customer ID</label>
+<input id="q" name="q" type="text" value="{{ f.q }}" placeholder="For example C-0012"></div>
+<button class="btn" type="submit">Search</button>
+</form>
+
+<section>
+{% if rows %}
+<div class="scroll"><div class="tbl" style="min-width:820px">
+<div class="th c-list"><div>Customer</div><div>Risk</div><div>Main reasons</div><div>Partner</div><div>City</div><div>Follow-up</div></div>
+{% for r in rows %}
+<a class="tr c-list{% if loop.last %} last{% endif %}" href="{{ url_for('customer', cid=r.id) }}">
+<div class="mono">{{ r.label }}</div>
+<div>{{ band(r.band) }} <span class="num" style="margin-left:6px">{{ r.top }}</span></div>
+<div>{{ r.reasons }}</div>
+<div>{{ r.partner or '—' }}</div>
+<div>{{ r.city or '—' }}</div>
+<div>{{ chip(r.status) }}</div>
+</a>
+{% endfor %}
+</div></div>
+<div class="pager">
+<span class="muted small">Showing {{ start }} to {{ end }} of {{ '{:,}'.format(total) }}{% if risk_label %} {{ risk_label }}{% endif %} customers</span>
+<div class="btns">
+<a class="btn" href="{{ query(page=page_no-1) }}"{% if page_no <= 1 %} aria-disabled="true" tabindex="-1"{% endif %}>Previous</a>
+<a class="btn" href="{{ query(page=page_no+1) }}"{% if page_no >= pages %} aria-disabled="true" tabindex="-1"{% endif %}>Next</a>
+</div></div>
+{% else %}
+<div class="empty" style="padding-top:24px"><h2>No customers match</h2>
+<p class="muted">Change the risk level, partner or follow-up filter, or clear the search.</p>
+<p><a class="btn" href="{{ url_for('customers') }}">Clear filters</a></p></div>
+{% endif %}
+</section>
+{% endblock %}

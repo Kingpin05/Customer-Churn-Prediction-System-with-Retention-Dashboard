@@ -1,0 +1,61 @@
+# One file controls the whole project. Paths are relative to this file.
+
+data:
+  path: data/raw/dataone.csv
+  target: churn                 # 1 = customer left, 0 = stayed
+  id_column: customer_id
+  # pincode is almost unique per customer (an identifier, not a signal).
+  # date_of_registration only spans 11 days in Jan 2020, so it carries no tenure information.
+  drop_columns: [pincode, date_of_registration]
+  # Impossible negative values in these columns are blanked, then filled from the training data.
+  non_negative: [age, estimated_salary, calls_made, sms_sent, data_used]
+
+model:
+  seed: 42
+  test_size: 0.20
+  cv_folds: 5
+  target_recall: 0.70           # decision threshold reaches at least this share of leavers
+  candidates: [logistic_regression, random_forest, hist_gradient_boosting]
+
+# Risk bands are by rank, so they mean the same thing whatever the model scores look like.
+risk_bands:
+  high_top_pct: 10              # top 10% of customers by risk
+  medium_top_pct: 30            # next 20%
+
+# Goals from the PRD. The Model screen shows Met / Not met against these.
+goals:
+  roc_auc: 0.80
+  recall: 0.70
+  precision: 0.50
+  top_decile_lift: 2.5
+
+# Training with --gate (and the CD workflow) fails if the held-out test set misses these.
+gate:
+  min_roc_auc: 0.75
+  min_recall: 0.60
+
+# The app warns that the model is unreliable when test ROC-AUC is below this,
+# or when its 95% range includes 0.5 (a coin flip).
+unreliable_below_auc: 0.60
+
+# A factor counts as a real driver only if it passes this test after correcting for the
+# number of factors checked (Bonferroni).
+significance_alpha: 0.05
+
+# Names shown in the app. Anything missing falls back to the column name.
+labels:
+  telecom_partner: Telecom partner
+  num_dependents: Dependents
+  estimated_salary: Estimated salary
+  calls_made: Calls made
+  sms_sent: SMS sent
+  data_used: Data used
+  data_per_call: Data used per call
+  sms_per_call: SMS per call
+  salary_per_dependent: Salary per dependent
+  age_band: Age group
+
+# Optional: the action to suggest when a factor is a real driver.
+actions: {}
+
+output_dir: artifacts

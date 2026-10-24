@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+{% block title %}Model and data · Churn Watch{% endblock %}
+{% block content %}
+<header><h1>Model and data</h1><p class="muted" style="margin-top:4px">How the scores are made, and how far you can trust them.</p></header>
+
+<div class="cols">
+<section class="wide">
+<h2 style="margin-bottom:4px">How many customers can your team contact?</h2>
+<p class="muted small" style="margin-bottom:20px">Move the slider. Contacting more customers reaches more of those who left, but more of your calls go to people who stayed. Figures use the real outcomes in your data, with every customer scored by a model that had not seen them.</p>
+<div class="slider">
+<label for="pct" style="font-weight:600">Contact the top <span id="pct-out" class="num">35</span>% of customers by risk</label>
+<input id="pct" type="range" min="5" max="50" step="5" value="35">
+<div class="ends"><span>5%</span><span>50%</span></div>
+</div>
+<div class="stats" style="margin-top:24px;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:28px">
+<div class="stat"><div class="l">Customers to contact</div><div class="v" id="out-contacts">0</div></div>
+<div class="stat"><div class="l">Leavers you reach</div><div class="v" id="out-recall">0%</div><div class="s" id="out-random">Picking at random reaches 35%</div></div>
+<div class="stat"><div class="l">Contacts who left</div><div class="v" id="out-precision">0%</div><div class="s">Overall, {{ '%.0f'|format(m.data.churn_rate * 100) }}% of customers left</div></div>
+</div>
+</section>
+
+<section class="narrow">
+<h2 style="margin-bottom:12px">Data in use</h2>
+<dl class="kv">
+<dt>Data file</dt><dd>{{ m.data.file }}</dd>
+<dt>Customers</dt><dd class="num">{{ '{:,}'.format(m.data.rows) }}</dd>
+<dt>File dated</dt><dd>{{ m.data.loaded_at }}</dd>
+<dt>Counted as churn</dt><dd>churn = 1</dd>
+<dt>Model</dt><dd>{{ m.selected_model.replace('_', ' ').capitalize() }}</dd>
+<dt>Last trained</dt><dd>{{ m.trained_at }}</dd>
+</dl>
+<form method="post" action="{{ url_for('retrain') }}" style="margin-top:20px;display:flex;flex-direction:column;gap:8px;align-items:flex-start">
+<button class="btn primary" type="submit">Retrain on the current file</button>
+<span class="muted small">To use new data, replace the file named in <code>config.yaml</code>, then retrain. The current list stays until the new scores are ready.</span>
+</form>
+{% set q = m.quality %}
+{% if q.negative_values_blanked or q.duplicate_ids_removed %}
+<p class="muted small" style="margin-top:20px">Data fixes made: {% for k, v in q.negative_values_blanked.items() %}{{ v }} impossible negative values in {{ k.replace('_', ' ') }}{{ '; ' if not loop.last or q.duplicate_ids_removed }}{% endfor %}{% if q.duplicate_ids_removed %}{{ q.duplicate_ids_removed }} duplicate customers removed{% endif %}.</p>
+{% endif %}
+</section>
+</div>
+
+<section>
+<h2 style="margin-bottom:4px">How well does it work?</h2>
+<p class="muted small" style="margin-bottom:12px">Checked on {{ '{:,}'.format(m.data.test) }} customers the model never saw while learning. At the chosen decision point it flags {{ '%.0f'|format(m.test.flagged_share * 100) }}% of them.</p>
+<div class="scroll"><div class="tbl" style="min-width:720px">
+<div class="th c-goal"><div>What we measure</div><div>Goal</div><div>Result</div><div>Status</div></div>
+{% for g in m.goals %}
+<div class="tr c-goal{% if loop.last %} last{% endif %}"><div>{{ g.name }}</div><div class="num">{{ g.goal }}</div><div class="num" style="font-weight:600">{{ g.result }}</div>
+<div><span class="pill {{ 'met' if g.met else 'notmet' }}">{{ 'Met' if g.met else 'Not met' }}</span></div></div>
+{% endfor %}
+</div></div>
+<p class="muted small" style="margin-top:12px">ROC-AUC 95% range on these customers: {{ '%.2f'|format(m.test.roc_auc_range[0]) }} to {{ '%.2f'|format(m.test.roc_auc_range[1]) }}. A range that includes 0.50 means the model cannot be told apart from guessing. Recall is only meaningful alongside the share flagged: flagging everyone catches every leaver.</p>
+</section>
+
+<script>
+(function () {
+  var curve = {{ curve|safe }};
+  var slider = document.getElementById('pct');
+  function show() {
+    var pct = Number(slider.value);
+    var row = curve[pct - 1];
+    document.getElementById('pct-out').textContent = pct;
+    document.getElementById('out-contacts').textContent = row.contacts.toLocaleString('en-US');
+    document.getElementById('out-recall').textContent = Math.round(row.recall * 100) + '%';
+    document.getElementById('out-precision').textContent = Math.round(row.precision * 100) + '%';
+    document.getElementById('out-random').textContent = 'Picking at random reaches ' + pct + '%';
+  }
+  slider.addEventListener('input', show);
+  show();
+})();
+</script>
+{% endblock %}

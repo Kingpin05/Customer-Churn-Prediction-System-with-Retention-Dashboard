@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Drivers and actions · Churn Watch{% endblock %}
+{% block content %}
+<header>
+<h1>Drivers and actions</h1>
+<p style="margin-top:6px;max-width:680px;font-size:16px">{{ headline }}</p>
+<p class="muted" style="margin-top:6px;max-width:680px">Each factor is checked against who left. Because {{ n_tests }} factors are checked at once, a factor only counts as a real link if it passes a stricter test than usual, so chance differences are not mistaken for drivers. Overall, {{ '%.0f'|format(base * 100) }}% of customers left.</p>
+</header>
+
+<section>
+<div class="scroll"><div class="tbl" style="min-width:900px">
+<div class="th c-drv" style="padding:8px 0"><div></div><div>What we see</div><div>Suggested action</div><div>Owner</div><div>Status</div></div>
+{% for r in rows %}
+<form class="tr c-drv{% if loop.last %} last{% endif %}" method="post" action="{{ url_for('set_driver', feature=r.feature) }}">
+<div class="num muted" style="font-size:20px;font-weight:600">{{ r.rank }}</div>
+<div><div style="font-weight:600;font-size:15px">{{ r.name }}</div>
+<div class="muted">{{ r.high }}</div><div class="muted">{{ r.low }}</div>
+<div style="margin-top:8px"><span class="pill {{ 'low' if r.reliable else 'medium' }}">{{ r.verdict }}</span></div></div>
+<div>{{ r.action }}</div>
+<div class="field"><select name="owner" aria-label="Owner for {{ r.name }}" onchange="this.form.submit()">{% for o in owners %}<option{% if o == r.owner %} selected{% endif %}>{{ o }}</option>{% endfor %}</select></div>
+<div class="field"><select name="status" aria-label="Status for {{ r.name }}" onchange="this.form.submit()">{% for s in task_statuses %}<option{% if s == r.status %} selected{% endif %}>{{ s }}</option>{% endfor %}</select>
+<noscript><button class="btn" type="submit">Save</button></noscript></div>
+</form>
+{% endfor %}
+</div></div>
+</section>
+
+<section class="next" style="max-width:760px"><div class="k" style="color:var(--ok-ink)">Test before rolling out</div>
+<div>Try any action on a small group first and compare how many of them leave against a similar group you left alone. That shows whether the action really works.</div></section>
+{% endblock %}

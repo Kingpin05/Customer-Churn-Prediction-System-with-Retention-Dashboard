@@ -1,0 +1,115 @@
+name: CD
+
+# Runs when you push a version tag (git tag v1.0.0 && git push --tags) or press "Run workflow".
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      enforce_gate:
+        description: "Fail if the model misses the quality gate in config.yaml"
+        type: boolean
+        default: true
+
+concurrency:
+  group: cd-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # create the release
+  packages: write   # push the image to GitHub Container Registry
+
+jobs:
+  train-and-release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      DATA_URL: ${{ secrets.DATA_URL }}
+      ENFORCE_GATE: ${{ github.event_name == 'push' || inputs.enforce_gate }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt -r requirements-dev.txt
+
+      - name: Lint and test
+        run: |
+          ruff check .
+          pytest -q
+
+      # Uses the file named in config.yaml if it is in the repo; otherwise downloads it
+      # from the DATA_URL repository secret (a direct link to the CSV).
+      - name: Get the dataset
+        shell: bash
+        run: |
+          path=$(python -c "from churn.config import load_config, resolve; c=load_config('config.yaml'); print(resolve(c, c['data']['path']))")
+          if [ ! -f "$path" ]; then
+            if [ -z "$DATA_URL" ]; then
+              echo "Data file $path is not in the repo and no DATA_URL secret is set." >&2
+              exit 1
+            fi
+            mkdir -p "$(dirname "$path")"
+            curl -fsSL "$DATA_URL" -o "$path"
+          fi
+          wc -l "$path"
+
+      # With the gate on, the workflow stops here if the model is not good enough.
+      - name: Train
+        shell: bash   # adds pipefail, so a failed gate fails the step even through tee
+        run: |
+          flags=""
+          if [ "$ENFORCE_GATE" = "true" ]; then flags="--gate"; fi
+          python -m churn.train --config config.yaml $flags | tee train.log
+          pip freeze > artifacts/requirements.lock
+          mv train.log artifacts/train.log
+
+      - name: Upload model and reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: churn-model-${{ github.sha }}
+          path: artifacts/
+          retention-days: 90
+
+      - name: Show metrics in the run summary
+        run: |
+          {
+            echo "### Model metrics"
+            echo '```json'
+            python -c "import json; m=json.load(open('artifacts/metrics.json')); print(json.dumps({k: m[k] for k in ('selected_model','test','reliable','goals')}, indent=2))"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: docker/setup-buildx-action@v3
+
+      - uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Image name in lower case
+        run: echo "IMAGE=ghcr.io/${GITHUB_REPOSITORY,,}" >> "$GITHUB_ENV"
+
+      - name: Build and push the web app image
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: true
+          tags: |
+            ${{ env.IMAGE }}:${{ github.ref_name }}
+            ${{ env.IMAGE }}:latest
+
+      - name: Publish a GitHub release (tag builds only)
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            artifacts/model.joblib
+            artifacts/metrics.json
+            artifacts/feature_importance.csv
+            artifacts/customers_scored.csv

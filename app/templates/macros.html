@@ -1,0 +1,2 @@
+{% macro band(b) %}<span class="pill {{ b|lower }}">{{ b }}</span>{% endmacro %}
+{% macro chip(s) %}<span class="chip{% if s == 'Called' %} none{% elif s == 'Offer sent' %} done{% endif %}">{{ s }}</span>{% endmacro %}

@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% from "macros.html" import band, chip %}
+{% block title %}{{ c.label }} · Churn Watch{% endblock %}
+{% block content %}
+<div><a class="small" href="{{ url_for('customers') }}">Back to at-risk customers</a></div>
+
+<header class="head">
+<div>
+<h1 class="mono" style="font-size:26px;font-weight:500">{{ c.label }}</h1>
+<p class="muted">{{ band(c.band) }} <span style="margin-left:6px">Ranked {{ '{:,}'.format(rank) }} of {{ '{:,}'.format(total) }} ({{ c.top|lower }} by risk)</span> <span style="margin-left:6px">{{ chip(c.status) }}</span></p>
+</div>
+<div class="actions">
+<form method="post" action="{{ url_for('set_status', cid=c.id) }}"><input type="hidden" name="status" value="Offer sent"><button class="btn" type="submit">Mark offer sent</button></form>
+<form method="post" action="{{ url_for('set_status', cid=c.id) }}"><input type="hidden" name="status" value="Called"><button class="btn primary" type="submit">Mark as called</button></form>
+</div>
+</header>
+
+<section class="next"><div class="k">Suggested next step</div><div class="v">{{ next_step }}</div></section>
+
+<div class="two">
+<div class="wide">
+<section>
+<h2 style="margin-bottom:4px">Why this customer was ranked here</h2>
+<p class="muted small" style="margin-bottom:8px">The factors that moved the score most, compared with a typical customer.</p>
+<div class="rows-plain">
+{% for r in reasons %}
+<div class="reason"><div class="top"><span>{{ r.title }}</span><span class="pill {{ r.direction }}">{{ 'Raises risk' if r.direction == 'raises' else 'Lowers risk' }}</span></div><div class="sub">{{ r.text }}</div></div>
+{% else %}
+<div class="reason"><div class="sub">No single factor stands out for this customer.</div></div>
+{% endfor %}
+</div>
+<p class="muted small" style="margin-top:12px">In the data, this customer {{ outcome }}{% if split == 'train' %} and was scored by a model that had not seen them{% endif %}.</p>
+</section>
+
+<section class="field" style="max-width:640px;gap:8px">
+<h2><label for="note">Notes from your call</label></h2>
+<form method="post" action="{{ url_for('set_note', cid=c.id) }}" style="display:flex;flex-direction:column;gap:8px">
+<div class="field"><textarea id="note" name="note" rows="4" maxlength="2000" placeholder="What did the customer say? What did you offer?">{{ note }}</textarea></div>
+<div><button class="btn" type="submit">Save note</button></div>
+</form>
+</section>
+</div>
+
+<div class="narrow">
+<section><h2 style="margin-bottom:12px">Account</h2>
+<dl class="facts">{% for k, v in facts %}<dt>{{ k }}</dt><dd class="num">{{ v }}</dd>{% endfor %}</dl></section>
+{% if usage %}
+<section><h2 style="margin-bottom:4px">Usage</h2><p class="muted small" style="margin-bottom:14px">Bar is this customer. Tick is the typical customer.</p>
+<div class="usage">
+{% for u in usage %}
+<div><div class="line"><span>{{ u.label }}</span><span class="num">{{ u.value }} <span class="muted">(typical {{ u.typical }})</span></span></div>
+<div class="track"><div class="fill" style="width:{{ u.w }}%"></div><div class="tick" style="left:calc({{ u.tw }}% - 1px)"></div></div></div>
+{% endfor %}
+</div></section>
+{% endif %}
+</div>
+</div>
+{% endblock %}

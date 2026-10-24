@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Churn Watch{% endblock %}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="shell">
+<nav class="side" aria-label="Main">
+<div class="brand">Churn Watch</div>
+<div class="navlist">
+<a class="navlink" href="{{ url_for('overview') }}"{% if page == 'overview' %} aria-current="page"{% endif %}>Overview</a>
+<a class="navlink" href="{{ url_for('customers') }}"{% if page == 'customers' %} aria-current="page"{% endif %}><span>At-risk customers</span>{% if m %}<span class="count">{{ '{:,}'.format(high_count) }}</span>{% endif %}</a>
+<a class="navlink" href="{{ url_for('drivers') }}"{% if page == 'drivers' %} aria-current="page"{% endif %}>Drivers and actions</a>
+<a class="navlink" href="{{ url_for('model') }}"{% if page == 'model' %} aria-current="page"{% endif %}>Model and data</a>
+</div>
+{% if m %}<div class="side-foot">Data: {{ m.data.file }}</div>{% endif %}
+</nav>
+<main class="main">
+{% if msg %}<p class="notice" role="status">{{ msg }}</p>{% endif %}
+{% if banner %}<div class="warn" role="note"><strong>The model is no better than guessing on this data.</strong>
+On customers it never saw, ROC-AUC is {{ '%.2f'|format(banner.auc) }} (95% range {{ '%.2f'|format(banner.lo) }} to {{ '%.2f'|format(banner.hi) }}); 0.50 is a coin flip. Use the ranking only to plan a small trial, not to decide who to call. <a href="{{ url_for('model') }}">See details</a></div>{% endif %}
+{% block content %}{% endblock %}
+</main>
+</div>
+</body>
+</html>

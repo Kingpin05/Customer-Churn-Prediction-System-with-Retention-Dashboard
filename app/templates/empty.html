@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="empty">
+{% if missing %}
+<h1>Page not found</h1>
+<p class="muted">That customer or page does not exist.</p>
+<p><a class="btn" href="{{ url_for('overview') }}">Back to overview</a></p>
+{% else %}
+<h1>No model yet</h1>
+<p class="muted">Train a model on the data file in <code>config.yaml</code> and this page fills in. It takes under a minute.</p>
+<form method="post" action="{{ url_for('retrain') }}"><button class="btn primary" type="submit">Train now</button></form>
+<p class="muted small">Or run <code>python -m churn.train</code> in a terminal, then reload.</p>
+{% endif %}
+</div>
+{% endblock %}
